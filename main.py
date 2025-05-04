@@ -1,41 +1,31 @@
-from processors.ocr_processor import OCRImageProcessor
-from llms.ollama_llm import OllamaLLM
-from core.pipeline import ScamEvaluatorPipeline
-from core.memory import MemoryBuffer
-from core.logger import EvaluationLogger
+# main.py
+from core.config       import load_full_config, make_image_processor, make_llm
+from core.pipeline     import ScamEvaluatorPipeline
+from core.memory       import MemoryBuffer
+from core.logger       import EvaluationLogger
 
 def main():
-    # Initialize components
-    ocr_processor = OCRImageProcessor()
-    llm = OllamaLLM(
-        model_name="mistral",
-        system_prompt="Evaluate the following image for scam likelihood from 1 to 5. "
-                     "Provide a brief explanation for your rating."
-    )
-    memory = MemoryBuffer(max_size=5)
-    logger = EvaluationLogger()
+    cfg       = load_full_config()
+    prof_key  = cfg["active_profile"]
+    profile   = cfg["profiles"][prof_key]
 
-    # Create pipeline
+    img_proc = make_image_processor(profile["image_processor"])
+    llm      = make_llm(profile["llm"])
+    memory   = MemoryBuffer(max_size=10)
+    logger   = EvaluationLogger()
+
     pipeline = ScamEvaluatorPipeline(
-        image_processor=ocr_processor,
-        llm=llm,
-        memory_buffer=memory,
-        logger=logger
+        image_processor = img_proc,
+        llm             = llm,
+        memory_buffer   = memory,
+        logger          = logger,
     )
 
-    # Example usage with multiple images
-    image_paths = [
-        "data/screenshots/shot1.png",
-        "data/screenshots/shot2.png"
-    ]
-
-    # Process images
-    results = pipeline.run_batch(image_paths)
-    
-    # Print results
-    for image_path, result in zip(image_paths, results):
-        print(f"\nImage: {image_path}")
-        print(f"Result: {result}")
+    # test
+    image_paths = ["data/scam/0042.png"]
+    results     = pipeline.run_batch(image_paths)
+    for path, res in zip(image_paths, results):
+        print(f"{path} → {res}")
 
 if __name__ == "__main__":
-    main() 
+    main()

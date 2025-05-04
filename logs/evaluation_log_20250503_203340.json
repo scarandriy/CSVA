@@ -1,0 +1,8 @@
+[
+  {
+    "image": "data/legit/0041.png",
+    "extracted_text": null,
+    "response": "**Risk Rating: 2**\n\nRationale: The repository is titled \"CSVA Prevention Framework\" and contains a very basic README. While not inherently malicious, the lack of substantial details and a very new repository warrants cautious consideration.",
+    "timestamp": "2025-05-03T20:33:45.375486"
+  }
+]
