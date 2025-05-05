@@ -3,6 +3,56 @@ from core.config       import load_full_config, make_image_processor, make_llm
 from core.pipeline     import ScamEvaluatorPipeline
 from core.memory       import MemoryBuffer
 from core.logger       import EvaluationLogger
+from captions.blip_captioner import FastCaptioner
+import time                                    # ← NEW
+
+import glob, pathlib
+
+def one_time(pipeline):
+
+    image_paths = ["data/legit/0041.png", "data/legit/0000.png","data/legit/0042.png", "data/scam/0001.png"]
+
+    results     = pipeline.run_batch(image_paths)
+    for path, res in zip(image_paths, results):
+        print(f"{path} → {res}")
+
+def full_test(pipeline):
+
+    print("SUPPOSED TO BE LEGIT:")
+    for i in range(40):
+        if i < 10:
+            i = "0" + str(i)
+        t0 = time.perf_counter()              # start timer
+        img_path= "data/legit/00" + str(i) + ".png"
+        result = pipeline.run_batch([img_path])
+        dt = time.perf_counter() - t0         # seconds elapsed
+        print(f"{img_path} – {dt:.2f} s → {result}")
+
+    print("SUPPOSED TO BE SCAM:")
+    for i in range(40):
+        if i < 10:
+            i = "0" + str(i)
+        t0 = time.perf_counter()              # start timer
+        img_path= "data/scam/00" + str(i) + ".png"
+        result = pipeline.run_batch([img_path])
+        dt = time.perf_counter() - t0         # seconds elapsed
+        print(f"{img_path} – {dt:.2f} s → {result}")
+
+
+def descriptor():
+    cap = FastCaptioner(device="cpu",threads=4) 
+
+    image_paths = [
+        "data/legit/0041.png",
+        "data/legit/0000.png",
+        "data/legit/0042.png",
+        "data/scam/0001.png",
+    ]
+
+    for p in image_paths:
+        print(pathlib.Path(p).name, "→", cap.caption(p))
+
+
 
 def main():
     cfg       = load_full_config()
@@ -21,11 +71,17 @@ def main():
         logger          = logger,
     )
 
-    # test
-    image_paths = ["data/scam/0042.png"]
-    results     = pipeline.run_batch(image_paths)
-    for path, res in zip(image_paths, results):
-        print(f"{path} → {res}")
+
+    # ------test---------
+    one_time(pipeline)
+    #full_test(pipeline)
+
+    
+
+
+
+
+
 
 if __name__ == "__main__":
     main()
