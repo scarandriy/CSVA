@@ -13,3 +13,4 @@ class OCRImageProcessor(ImageProcessor):
     def process(self, image_path: str) -> str:
         results = self.reader.readtext(image_path)
         return " ".join([line[1] for line in results])
+    

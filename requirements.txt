@@ -7,4 +7,3 @@ PyYAML>=6.0
 mss
 psutil
 transformers
-json

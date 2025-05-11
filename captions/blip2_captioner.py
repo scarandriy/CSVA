@@ -7,8 +7,6 @@ from transformers import (
 class Blip2Captioner:
     """
     Captioner based on Salesforce/blip2-opt-2.7b.
-    • fp16 on M-series (mps) ≈ 1.2 s / screenshot
-    • int8 (bitsandbytes) on 8 GB GPU ≈ 0.4 s / screenshot
     """
 
     def __init__(

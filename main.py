@@ -4,22 +4,22 @@ from core.pipeline     import ScamEvaluatorPipeline
 from core.memory       import MemoryBuffer
 from core.logger       import EvaluationLogger
 from captions.blip_captioner import FastCaptioner
-import time                                    # ← NEW
+import time                                   
+from captions.vit_gpt2_captioner import ViTGPT2Captioner
 
 import glob, pathlib
 
 def one_time(pipeline):
+    
+    image_paths = ["captures/1.png", "captures/2.png", "captures/4.png"]
 
-    image_paths = ["data/legit/0041.png", "data/legit/0000.png","data/legit/0042.png", "data/scam/0001.png"]
-
-    results     = pipeline.run_batch(image_paths)
-    for path, res in zip(image_paths, results):
-        print(f"{path} → {res}")
+    result    = pipeline.run_multi(image_paths)
+    print(f"{result}")
 
 def full_test(pipeline):
 
     print("SUPPOSED TO BE LEGIT:")
-    for i in range(40):
+    for i in range(43):
         if i < 10:
             i = "0" + str(i)
         t0 = time.perf_counter()              # start timer
@@ -29,7 +29,7 @@ def full_test(pipeline):
         print(f"{img_path} – {dt:.2f} s → {result}")
 
     print("SUPPOSED TO BE SCAM:")
-    for i in range(40):
+    for i in range(42):
         if i < 10:
             i = "0" + str(i)
         t0 = time.perf_counter()              # start timer
@@ -41,6 +41,8 @@ def full_test(pipeline):
 
 def descriptor():
     cap = FastCaptioner(device="cpu",threads=4) 
+    vit2 = ViTGPT2Captioner(device="cpu")
+
 
     image_paths = [
         "data/legit/0041.png",
@@ -50,17 +52,28 @@ def descriptor():
     ]
 
     for p in image_paths:
-        print(pathlib.Path(p).name, "→", cap.caption(p))
+        print('Blip', pathlib.Path(p).name, "→", cap.caption(p))
+        print('ViT-GPT2', pathlib.Path(p).name, "→", vit2.caption(p))
+    
+
+
 
 
 
 def main():
     cfg       = load_full_config()
     prof_key  = cfg["active_profile"]
-    profile   = cfg["profiles"][prof_key]
+    small_key  = cfg["small_llm"]
 
-    img_proc = make_image_processor(profile["image_processor"])
-    llm      = make_llm(profile["llm"])
+    profile   = cfg["profiles"][prof_key]
+    profile_small   = cfg["profiles"][small_key]
+
+    img_proc  = make_image_processor(profile["image_processor"])
+    llm       = make_llm(profile["llm"])
+
+
+    small_llm = make_llm(profile_small)
+
     memory   = MemoryBuffer(max_size=10)
     logger   = EvaluationLogger()
 
@@ -69,12 +82,14 @@ def main():
         llm             = llm,
         memory_buffer   = memory,
         logger          = logger,
+        small_llm       = small_llm
     )
 
 
     # ------test---------
-    one_time(pipeline)
-    #full_test(pipeline)
+    #one_time(pipeline)
+    full_test(pipeline)
+    #descriptor()
 
     
 

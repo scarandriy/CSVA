@@ -7,6 +7,8 @@ from core.memory                import MemoryBuffer
 from core.logger                import EvaluationLogger
 from utils.screenshot_capturer  import capture
 from captions.blip_captioner import FastCaptioner
+from processors.ocr_processor import OCRImageProcessor
+
 
 import json
 
@@ -16,15 +18,19 @@ class ScamEvaluatorPipeline:
         self,
         image_processor: ImageProcessor,
         llm: LLM,
+        small_llm: LLM,
         memory_buffer: MemoryBuffer = None,
         logger: EvaluationLogger  = None,
     ):
         
         self.image_processor = image_processor
         self.llm             = llm
+        self.small_llm       = small_llm
         self.memory_buffer   = memory_buffer or MemoryBuffer()
         self.logger          = logger or EvaluationLogger()
-        self.captioner       = FastCaptioner(threads=4)      
+        #self.captioner       = FastCaptioner(threads=4)  
+        self.ocr_processor   = OCRImageProcessor()
+    
 
 
     def run_single(self, image_path: str) -> str:
@@ -68,46 +74,49 @@ class ScamEvaluatorPipeline:
     
 
     def run_multi(self, image_paths: list[str]) -> str:
-        # caption every screenshot (fast)
-        captions = [self.captioner.caption(p) for p in image_paths]
-
-        # ask the LLM to rate the captions (text-only)
-        bullet = "\n".join(f"{i+1}. {c}" for i, c in enumerate(captions))
-        prompt = (
-            "You are a scam-detection assistant.\n\n"
-            "For each caption, give a risk 0-10 and a short reason.\n"
-            "Return JSON as described.\n\nCaptions:\n" + bullet
+        ocr_texts = [self.ocr_processor.process(p) for p in image_paths]
+        for i in ocr_texts:
+            print(' ----', i)
+        # 2) Normalize via small (text-only) LLM
+        combined = "\n---\n".join(ocr_texts)
+        context_prompt = (
+            f"{combined}\n\n"
+            "<end_of_context>"
         )
-        txt_resp = self.llm.evaluate(prompt=prompt)     # ← no images
-        try:
-            scores = json.loads(txt_resp)
-        except Exception:
-            # fallback: treat all low risk if parsing fails
-            scores = [{"idx": i+1, "risk": 1, "why": "parse-error"} for i in range(len(captions))]
+        context = self.small_llm.evaluate(prompt=context_prompt)
+        print(context)
+            
 
-        # choose the caption with highest risk
-        top = max(scores, key=lambda d: d["risk"])
-        focus_idx, top_risk = top["idx"]-1, top["risk"]
+
+        select_prompt = (
+            "You are a scam-detection assistant.\n\n"
+            f"User context:\n{context}\n\n"
+            "Given these sequential image descriptions, pick the INDEX (0-based) of the "
+            "image most likely to be fraudulent or high-risk.\n"
+            "Respond ONLY with JSON in the format {\"index\": <number>}.\n\n"
+        )
+        sel_resp = self.llm.evaluate(prompt=select_prompt)
+        try:
+            sel = json.loads(sel_resp)
+            print(sel_resp)
+            idx = int(sel.get("index", 1))
+        except Exception:
+            idx = 1
+        # clamp and convert to zero-based
+        focus_idx = max(1, min(idx, len(image_paths))) - 1
         focus_path = image_paths[focus_idx]
 
-        # only if ≥7, run heavy multimodal analysis on that screenshot
-        if top_risk >= 7:
-            deep_prompt = (
-                "Full visual analysis of high-risk screenshot.\n"
-                f"Caption: {captions[focus_idx]}\n"
-                "Respond with a JSON report {risk_level, scam_type, reason}."
-            )
-            deep_resp = self.llm.evaluate(
-                prompt=deep_prompt,
-                image_paths=[focus_path]
-            )
-        else:
-            deep_resp = "All captions rated low/medium risk."
+        # 4) Send that single image to the heavy multimodal LLM
+        deep_resp = self.llm.evaluate(
+            prompt=None,
+            image_path=focus_path
+        )
 
-        # log once
+        # 5) Log everything
         self.logger.log({
-            "captions": captions,
-            "rankings": scores,
+            "ocr_texts": ocr_texts,
+            "context": context,
+            "selection_json": sel_resp,
             "deep_response": deep_resp
         })
         return deep_resp
