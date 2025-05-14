@@ -1,5 +1,5 @@
 # config.yaml
-active_profile: llava
+active_profile: gemma3_4b_small_prompt
 small_llm: gemma3_1b
 
 
@@ -152,6 +152,38 @@ profiles:
         - 3 - Moderate scam probability: Suggests possible scam/fraud. Review is needed. ANY popups about prizes, rewards, or milestones MUST be at least this level.
         - 4 - High scam probability: Strong indicators of malicious or scam-related activity.
         - 5 - Critical scam probability: Confirmed scam, malware, or phishing attempt. Urgent action required.
+      params:
+        stop: ["<end_of_turn>"]
+        temperature: 1
+        top_k: 64
+        top_p: 0.95
+  gemma3_4b_small_prompt:
+    image_processor: inherent
+    llm:
+      model_name: gemma3:4b
+      system_prompt: |
+        <start_of_turn>system
+        SYSTEM ROLE
+        You are a scam detection AI analyzing screenshots for fraud, phishing, or malicious behavior.
+        Scam Indicators:
+
+        1. Suspicious sender/URL
+        2. Urgency/fear tactics
+        3. Too-good-to-be-true offers
+        4. Requests for sensitive info
+        5.UI tricks (hidden costs, forced actions, fake scarcity)
+        6.Brand/design inconsistencies
+
+        Respond using JSON.
+
+        Output Format:
+        {  
+          "Scam Probability": 0-5,  
+          "scam_type": "[type if applicable]",  
+          "reason": "[brief justification]"  
+        }  
+  
+      format: "json"
       params:
         stop: ["<end_of_turn>"]
         temperature: 1

@@ -1,0 +1,512 @@
+[
+  {
+    "image": "data/legit/0000.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None\",\n  \"reason\": \"The screenshot shows a standard macOS desktop with various open windows and icons. There are no immediately obvious signs of fraud, phishing, or malicious behavior. It appears to be a typical workspace.\"\n}\n```",
+    "timestamp": "2025-05-13T19:21:54.142496"
+  },
+  {
+    "image": "data/legit/0001.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None Detected\",\n  \"reason\": \"This is a screenshot of a standard Windows 10 desktop. There are no obvious red flags or suspicious elements present.\"\n}\n```",
+    "timestamp": "2025-05-13T19:22:35.212073"
+  },
+  {
+    "image": "data/legit/0002.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 2,\n  \"scam_type\": \"Potential Clickbait/Misleading Offer\",\n  \"reason\": \"The screenshot shows a headline promoting \\\"Black Friday Offers Live!\\\" with a prominent image of a \\\"DEAD\\\" emoji. This uses a shocking visual and potentially misleading language to grab attention and could be a tactic to drive traffic to a potentially scam or low-quality offer. The use of the 'dead' emoji is also unusual and raises a red flag.\"\n}\n```",
+    "timestamp": "2025-05-13T19:23:20.606149"
+  },
+  {
+    "image": "data/legit/0003.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None detected\",\n  \"reason\": \"The screenshot shows a standard browser window with several popular websites (Netflix, Booking.com, Facebook, Twitter, Spotify, Amazon, and eBay) displayed as tabs. There are no immediately obvious red flags or suspicious elements present.\"\n}\n```",
+    "timestamp": "2025-05-13T19:24:04.934443"
+  },
+  {
+    "image": "data/legit/0004.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 0,\n  \"scam_type\": \"None\",\n  \"reason\": \"This is a screenshot of a Minecraft landscape. There are no elements indicative of fraudulent activity.\"\n}",
+    "timestamp": "2025-05-13T19:24:47.639932"
+  },
+  {
+    "image": "data/legit/0005.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None\",\n  \"reason\": \"The screenshot shows the Bing homepage. There are no obvious indicators of a scam or phishing attempt. The URL in the address bar appears to be the legitimate Bing website.\"\n}\n```",
+    "timestamp": "2025-05-13T19:25:32.053600"
+  },
+  {
+    "image": "data/legit/0006.png",
+    "extracted_text": null,
+    "response": "Here's an analysis of the screenshot:\n\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Phishing - Brand Impersonation\",\n  \"reason\": \"The screenshot shows a document (likely a Word or similar) with the Google logo.  Simply displaying the Google logo does not automatically indicate a scam, however, this could be an attempt to lure users into clicking a malicious link or entering their credentials on a fake Google login page.  It lacks any further context and seems like a basic phishing tactic.\"\n}",
+    "timestamp": "2025-05-13T19:26:19.682255"
+  },
+  {
+    "image": "data/legit/0007.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Phishing/Social Engineering\",\n  \"reason\": \"The email subject line 'tentative annual party date and time' combined with the request for a meeting to confirm details is a classic tactic used in phishing attempts. It aims to lure the recipient into a meeting where further requests for information could be made.\"\n}\n```",
+    "timestamp": "2025-05-13T19:27:05.940686"
+  },
+  {
+    "image": "data/legit/0008.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Data Dump/Unrelated Information\",\n  \"reason\": \"This screenshot shows a spreadsheet with product and date information. There is no obvious scam indicator present, but the unsolicited data dump is suspicious and warrants further investigation to determine its purpose.\"\n}\n```",
+    "timestamp": "2025-05-13T19:27:51.530866"
+  },
+  {
+    "image": "data/legit/0009.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Misinformation/Deceptive Content\",\n  \"reason\": \"The text 'The U.S. is a country of 50 states covering a vast swath of North America with Alaska in the northwest and Hawaii extending...' appears to be a random collection of facts. It's not presented within a legitimate context (e.g., a credible website) and feels like a fabricated claim.  It doesn't have a source or link, raising a strong suspicion of misinformation.\"\n}\n```",
+    "timestamp": "2025-05-13T19:28:40.420023"
+  },
+  {
+    "image": "data/legit/0010.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"UI Tricks - Forced Action\",\n  \"reason\": \"The document is open in Microsoft Word, but there is a pop-up window that appears to be a forced action \u2013 it\u2019s pushing a file to be added to the document. This is a common tactic used in phishing scams to trick users into downloading malicious files.\"\n}\n```",
+    "timestamp": "2025-05-13T19:29:27.531958"
+  },
+  {
+    "image": "data/legit/0011.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 2,\n  \"scam_type\": \"Potential Phishing (Information Gathering)\",\n  \"reason\": \"The screenshot shows a directory listing for a company, potentially used to gather information about employees and their roles. While not overtly malicious, this could be a preliminary step in a targeted phishing attack.\"\n}\n```",
+    "timestamp": "2025-05-13T19:30:13.843041"
+  },
+  {
+    "image": "data/legit/0012.png",
+    "extracted_text": null,
+    "response": "Here's an analysis of the screenshot, formatted as requested:\n\n```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Data Misrepresentation\",\n  \"reason\": \"The graph appears to be a fabricated or misleading representation of investment flows. The y-axis is scaled inconsistently, making comparisons between years unreliable. This could be used to falsely exaggerate or minimize investment returns.\"\n}\n```",
+    "timestamp": "2025-05-13T19:31:02.699864"
+  },
+  {
+    "image": "data/legit/0013.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Data Scraping/Unrelated Data\",\n  \"reason\": \"This screenshot shows a database table definition. It\u2019s a legitimate database schema, but the presence of a database and table definition suggests a potential for data scraping, phishing, or misrepresentation of a legitimate database to gain trust. There is no indication of any malicious intent, but the context is highly suspect.\"\n}\n```",
+    "timestamp": "2025-05-13T19:31:51.471488"
+  },
+  {
+    "image": "data/legit/0014.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 0,\n  \"scam_type\": \"None\",\n  \"reason\": \"The screenshot shows a standard iOS home screen. There is no visible content or indicators of suspicious activity.\"\n}",
+    "timestamp": "2025-05-13T19:32:38.224815"
+  },
+  {
+    "image": "data/legit/0015.png",
+    "extracted_text": null,
+    "response": "Here's an analysis of the screenshot:\n\n{\n  \"Scam Probability\": 2,\n  \"scam_type\": \"Potential Phishing/Malicious Redirect\",\n  \"reason\": \"The screenshot displays a standard HTTP response header, indicating a website is being accessed. While not inherently malicious, the presence of many redirects (like 301, 302, 307) often used in phishing attacks or malware distribution warrants caution.  A large number of redirects combined with the standard headers suggest a possible attempt to obscure the final destination URL, a common tactic used to mislead users.\"\n}",
+    "timestamp": "2025-05-13T19:33:35.298698"
+  },
+  {
+    "image": "data/legit/0016.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"UI tricks\",\n  \"reason\": \"The screenshot shows a floor plan design software interface. While not inherently malicious, the presence of a software interface suggests a potential lead generation or marketing attempt, which could be using UI tricks (e.g., fake scarcity, limited-time offers) to drive users to a malicious site or service.\"\n}\n```",
+    "timestamp": "2025-05-13T19:34:26.876857"
+  },
+  {
+    "image": "data/legit/0017.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None detected\",\n  \"reason\": \"This screenshot shows a standard Linux desktop environment (KDE Plasma). There are no immediately obvious signs of phishing, fraud, or malicious activity. The interface is consistent with a legitimate operating system.\"\n}\n```",
+    "timestamp": "2025-05-13T19:35:14.948695"
+  },
+  {
+    "image": "data/legit/0018.png",
+    "extracted_text": null,
+    "response": "Here\u2019s an analysis of the screenshot for potential fraud indicators:\n\n```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing/Malware\",\n  \"reason\": \"The screenshot depicts a terminal window running 'grub2-image'. This is a tool used to modify the GRUB bootloader, often associated with installing malicious software or altering system settings. Combined with the technical nature and the presence of a command-line interface, it is highly suspicious and indicates potential malware activity or a deliberate attempt to compromise the system.\"\n}\n```\n",
+    "timestamp": "2025-05-13T19:36:05.196060"
+  },
+  {
+    "image": "data/legit/0019.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 2,\n  \"scam_type\": \"Information Gathering\",\n  \"reason\": \"The page discusses screenshots and their use, which is a common tactic for phishing scams.  The content itself isn't malicious, but the topic is frequently used to lure users into providing personal information or downloading malware disguised as screenshots.\"\n}\n```",
+    "timestamp": "2025-05-13T19:36:51.601343"
+  },
+  {
+    "image": "data/legit/0020.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Potentially misleading website/software promotion\",\n  \"reason\": \"The screenshot shows a website (winaero.com) promoting its software. While Winaero itself is a legitimate optimization tool, the page itself looks like an advertisement and a typical website advertising software. The design is standard and doesn't immediately raise red flags, but it's worth noting as a potentially misleading promotion site.\"\n}\n```",
+    "timestamp": "2025-05-13T19:37:39.318981"
+  },
+  {
+    "image": "data/legit/0021.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None\",\n  \"reason\": \"This screenshot depicts the 'Save As' dialog box in Windows. There are no obvious indicators of fraud or malicious behavior present. It's a standard file saving function.\"\n}\n```",
+    "timestamp": "2025-05-13T19:38:24.815273"
+  },
+  {
+    "image": "data/legit/0022.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Misdirection/Confusion\",\n  \"reason\": \"The search results are presented in multiple languages (Hindi, Telugu, Marathi, Odia) which is a common tactic used to mislead users and create confusion. While Google does operate in these regions, this unusual presentation is suspicious.\"\n}",
+    "timestamp": "2025-05-13T19:39:10.298726"
+  },
+  {
+    "image": "data/legit/0023.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Suspicious Domain/Unverified Source\",\n  \"reason\": \"The domain 'lo4d.com' is not a widely known or reputable software download site.  It lacks established trust and branding, raising concerns about potential malware or misleading downloads.\"\n}\n```",
+    "timestamp": "2025-05-13T19:39:55.688065"
+  },
+  {
+    "image": "data/legit/0024.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None\",\n  \"reason\": \"The screenshot depicts a standard Windows desktop with various application icons. There are no immediately obvious signs of scamming or malicious behavior.\"\n}",
+    "timestamp": "2025-05-13T19:40:39.779018"
+  },
+  {
+    "image": "data/legit/0025.png",
+    "extracted_text": null,
+    "response": "Here's an analysis of the screenshot:\n\n```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"UI tricks (fake scarcity)\",\n  \"reason\": \"The desktop is cluttered with numerous icons, many of which appear to be related to software or games. This creates a visually overwhelming and potentially deceptive impression of a system that is 'busy' or 'in use,' which could be used to pressure the user into immediate action or to create a false sense of urgency.\"\n}\n```",
+    "timestamp": "2025-05-13T19:41:32.967243"
+  },
+  {
+    "image": "data/legit/0026.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"N/A\",\n  \"reason\": \"This is the Docker Desktop settings window. It is a legitimate application interface. There are no immediate red flags or suspicious elements presented.\"\n}\n```",
+    "timestamp": "2025-05-13T19:42:20.926929"
+  },
+  {
+    "image": "data/legit/0027.png",
+    "extracted_text": null,
+    "response": "Here's the analysis of the screenshots, formatted as requested:\n\n{\n  \"Scam Probability\": 8,\n  \"scam_type\": \"Phishing/Fake Invoice\",\n  \"reason\": \"The screenshot shows a mock invoice that appears to be from PayPal. The design is inconsistent with PayPal's official branding, and the request for credit card details is a strong indicator of a phishing attempt. The use of a slightly different logo and layout is a key red flag.\"\n}",
+    "timestamp": "2025-05-13T19:43:16.874861"
+  },
+  {
+    "image": "data/legit/0028.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"UI Tricks - Forced Action\",\n  \"reason\": \"The screenshot shows a PowerPoint presentation with a prominent 'PRESS TO START' button. This is a common tactic used in phishing scams to trick users into clicking the button, which could lead to malware installation or redirection to a malicious website.  The deliberate placement and wording indicate a potential attempt to manipulate the user into taking an action they wouldn't normally take.\"\n}\n```",
+    "timestamp": "2025-05-13T19:44:15.533061"
+  },
+  {
+    "image": "data/legit/0029.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None\",\n  \"reason\": \"Screenshot displays a terminal window running the `neofetch` command. This tool simply displays system information, and doesn't inherently indicate any malicious activity or fraud.\"\n}\n```",
+    "timestamp": "2025-05-13T19:45:04.086428"
+  },
+  {
+    "image": "data/legit/0030.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 3,\n  \"scam_type\": \"Potentially Malicious Browser Extension\",\n  \"reason\": \"The webpage URL ('file:///C:/.../example/videochat/Index.html') is a local file path, suggesting it's a downloaded file, which is often a sign of a malicious browser extension or a disguised website. The URL structure itself is not standard and warrants further investigation.\"\n}",
+    "timestamp": "2025-05-13T19:45:52.792348"
+  },
+  {
+    "image": "data/legit/0031.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None Detected\",\n  \"reason\": \"The screenshot displays a standard desktop environment with various applications open (calendar, file manager, terminal, media player, etc.). There is no immediately obvious fraudulent activity like suspicious URLs, requests for sensitive information, or UI tricks that would indicate a scam.\"\n}\n```",
+    "timestamp": "2025-05-13T19:46:39.647099"
+  },
+  {
+    "image": "data/legit/0032.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Suspicious Sender/URL\",\n  \"reason\": \"The code attempts to capture the screen and save it as a PNG. The use of 'ScreenCapture' as a path suggests a potential malicious intent or a poorly designed program attempting to capture sensitive information.\"\n}\n```",
+    "timestamp": "2025-05-13T19:47:25.731389"
+  },
+  {
+    "image": "data/legit/0033.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Suspicious Content\",\n  \"reason\": \"The message 'Hello' from an unknown sender suggests a potential attempt to initiate unsolicited contact or engage in a potentially malicious conversation. It lacks context and feels out of place within the ongoing conversation.\"\n}\n```",
+    "timestamp": "2025-05-13T19:48:12.805064"
+  },
+  {
+    "image": "data/legit/0034.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"UI tricks\",\n  \"reason\": \"The screenshot shows a CAD drawing interface. There's a large, prominent number '1' in the middle of the screen, likely indicating a specific detail or measurement. This could be used to mislead the user into believing they are interacting with a legitimate application while actually being part of a phishing scheme that mimics a CAD environment.\"\n}\n```",
+    "timestamp": "2025-05-13T19:49:00.356490"
+  },
+  {
+    "image": "data/legit/0035.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None detected\",\n  \"reason\": \"The screenshot shows a standard Windows 7 desktop with numerous applications running. There are no obvious signs of phishing, urgency, or other fraudulent elements present in the application icons or system tray.\"\n}",
+    "timestamp": "2025-05-13T19:49:45.836154"
+  },
+  {
+    "image": "data/legit/0036.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Misleading Offers/Price Manipulation\",\n  \"reason\": \"Several items are marked with 'Nur heute - nicht verpassen!' (Only today - don't miss out!), which is a common tactic used to create a sense of urgency and pressure buyers into making quick, potentially impulsive purchases.  The use of large, bold text combined with a limited-time offer can be a red flag.\"\n}\n```",
+    "timestamp": "2025-05-13T19:50:36.452894"
+  },
+  {
+    "image": "data/legit/0037.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None\",\n  \"reason\": \"This is a screenshot of the Amazon website selling Reef Women's Flip-Flop Sandals.  It shows a legitimate product listing with clear pricing, customer reviews, and a trusted brand. There are no suspicious elements present.\"\n}\n```",
+    "timestamp": "2025-05-13T19:51:26.520339"
+  },
+  {
+    "image": "data/legit/0038.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 2,\n  \"scam_type\": \"Potentially Phishing/Unverified Domain\",\n  \"reason\": \"The domain name 'myphotodsl.com' is not a recognizable or established photography brand. This raises suspicion, and it is crucial to verify the domain's legitimacy before entering any personal information or making a purchase.\"\n}",
+    "timestamp": "2025-05-13T19:52:12.753642"
+  },
+  {
+    "image": "data/legit/0039.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"None Detected\",\n  \"reason\": \"This screenshot appears to be a normal Facebook post from a local social club. No immediate red flags are present, such as suspicious links, requests for personal information, or manipulative language.\"\n}\n```",
+    "timestamp": "2025-05-13T19:52:58.192405"
+  },
+  {
+    "image": "data/legit/0040.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Phishing/Misleading Content\",\n  \"reason\": \"The screenshot displays the Wikipedia homepage, which is generally a legitimate source of information. However, the title 'From today's featured article' coupled with the content around it could be used as a distraction to lead users to malicious links or websites disguised as Wikipedia. It's a classic tactic to lure users away from the true Wikipedia site.\"\n}\n```",
+    "timestamp": "2025-05-13T19:53:48.088402"
+  },
+  {
+    "image": "data/legit/0041.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Low-quality project/Suspicious activity\",\n  \"reason\": \"The repository appears very new with only one commit. The README suggests a 'Cyber Security Visual Assistant' which is vague and lacks detail. The activity is minimal, suggesting a potential attempt to create a seemingly useful project to gain trust, or a low-quality attempt at a project.\"\n}\n```",
+    "timestamp": "2025-05-13T19:54:37.097160"
+  },
+  {
+    "image": "data/legit/0042.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing/Credential Harvesting\",\n  \"reason\": \"The screenshot shows a fraudulent login page mimicking BNP Paribas, prompting users to enter their username/password details via a link to GitHub. This is a classic phishing tactic to steal credentials.\"\n}\n```",
+    "timestamp": "2025-05-13T19:55:24.503308"
+  },
+  {
+    "image": "data/scam/0000.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Urgency/Fear Tactics & UI Tricks\",\n  \"reason\": \"The message uses phrases like 'For technical reasons, we are not allowed to keep your invitation open for more than 15 minutes' which creates a sense of urgency and pressure to act quickly.  The request to 'choose' a prize is a common UI trick used in phishing scams to direct the user to potentially malicious links or forms.\"\n}\n```",
+    "timestamp": "2025-05-13T19:56:12.288242"
+  },
+  {
+    "image": "data/scam/0001.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 2,\n  \"scam_type\": \"Phishing/Impersonation\",\n  \"reason\": \"The email is poorly written, uses generic phrasing ('unable to receive payment'), and includes a suspicious link ('TRY AGAIN PAYMENT') that is likely a phishing attempt to direct the user to a fake payment page.  The sender's email address is also unusual and not consistent with typical Netflix communications.\"\n}\n```",
+    "timestamp": "2025-05-13T19:57:00.046768"
+  },
+  {
+    "image": "data/scam/0002.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"This message mimics a PayPal notification but contains a suspicious link. The language uses urgency ('your account is limited') and requests confirmation of personal details, a classic phishing tactic. The sender address (services@paypal-accounts.com) is also not a legitimate PayPal domain.\"\n}",
+    "timestamp": "2025-05-13T20:07:31.650902"
+  },
+  {
+    "image": "data/scam/0003.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 3,\n  \"scam_type\": \"Too-good-to-be-true offer / Phishing\",\n  \"reason\": \"The website claims to allow users to earn significant amounts of money (up to $257/day) using Facebook, with minimal effort. This is a classic sign of a potential scam. The brand logos of CNN and MSNBC are used to build trust, but the offer seems unreal and the URL is suspicious.\"\n}\n```",
+    "timestamp": "2025-05-13T20:08:21.178678"
+  },
+  {
+    "image": "data/scam/0004.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"The email appears to be from HMRC, but the URL 'GOV.UK HM Revenue and Customs Gateway Claims' is suspicious.  It's common for phishing emails to use slightly altered URLs to direct recipients to a fraudulent website designed to steal credentials. The request to sign in to a service is a classic phishing tactic.\"\n}\n```",
+    "timestamp": "2025-05-13T20:09:06.615544"
+  },
+  {
+    "image": "data/scam/0005.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing/Fake Warning\",\n  \"reason\": \"This screenshot displays a classic fake warning pop-up designed to scare users into calling a fraudulent number. The language ('Your Computer May Have A VIRUS!') is a common tactic in phishing scams. The URL is suspicious and likely leads to a malicious site.  It\u2019s using fear tactics and attempting to obtain information.\"\n}\n```",
+    "timestamp": "2025-05-13T20:09:56.857191"
+  },
+  {
+    "image": "data/scam/0006.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Misleading Claims/Lack of Transparency\",\n  \"reason\": \"The website promotes an 'offline wallet' and claims to allow users to 'claim bitcoin golds'. This is a common tactic used in scams. The lack of a verifiable balance and clear information about the project raises significant red flags.\"\n}\n```",
+    "timestamp": "2025-05-13T20:10:50.793522"
+  },
+  {
+    "image": "data/scam/0007.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing/Scam\",\n  \"reason\": \"The screenshot displays a prominent warning message about a computer being infected, coupled with a phone number to call for 'Tech Support'. This is a classic phishing tactic - scareware. The phone number is likely a fraudulent operation designed to trick users into paying for unnecessary services or providing personal information.\"\n}\n```",
+    "timestamp": "2025-05-13T20:11:46.548928"
+  },
+  {
+    "image": "data/scam/0008.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"This screenshot displays a classic phishing scam mimicking a Windows Defender alert. It uses alarming language ('Zeus Virus Detected'), requests sensitive information (passwords, browsing history, credit card data), and provides a phone number to call \u2013 all hallmarks of a phishing attempt designed to steal personal information.\"\n}\n```",
+    "timestamp": "2025-05-13T20:12:43.873744"
+  },
+  {
+    "image": "data/scam/0009.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"The email mimics a Google communication but uses a generic 'The Gmail Team' sender and includes a suspicious URL (@gmail.com). It's attempting to scare the recipient into changing their password, a common phishing tactic.\"\n}\n```",
+    "timestamp": "2025-05-13T20:13:36.065106"
+  },
+  {
+    "image": "data/scam/0010.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"The email is from a suspicious sender (inst.paypal@outlook.com) and requests sensitive information (account details) via a link. This is a classic phishing tactic to steal login credentials.\"\n}\n```",
+    "timestamp": "2025-05-13T20:14:23.217676"
+  },
+  {
+    "image": "data/scam/0011.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 3,\n  \"scam_type\": \"Phishing/Impersonation\",\n  \"reason\": \"The email claims to be from Netflix but uses urgent language ('we're having some trouble') and directs the user to update payment details. While it uses the Netflix brand name, it's a classic phishing tactic - requesting payment information without verifying the source through the official Netflix website.\"\n}",
+    "timestamp": "2025-05-13T20:15:11.478924"
+  },
+  {
+    "image": "data/scam/0012.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"The email states a login lockout and includes a shortened URL (https://internet-banking.dbs.com.sg/IBconfirm) that redirects to a potentially malicious website designed to steal login credentials. This is a classic phishing tactic mimicking a legitimate banking communication.\"\n}\n```",
+    "timestamp": "2025-05-13T20:15:59.660714"
+  },
+  {
+    "image": "data/scam/0013.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 4,\n  \"scam_type\": \"Phishing/Urgency\",\n  \"reason\": \"The message uses unpersonalized, generic language ('you, Facebook User!') and creates a sense of urgency ('only have 4 minutes 14 seconds'). This is a classic tactic used in phishing scams to pressure the user into quickly clicking a link and entering personal information.\"\n}\n```",
+    "timestamp": "2025-05-13T20:16:48.239511"
+  },
+  {
+    "image": "data/scam/0014.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Phishing/Imitation\",\n  \"reason\": \"The screenshot depicts a fake Amazon login page. It uses the Amazon branding and logo but contains a 'Welcome to your Shopping Account' message and a claim of receiving a $100 gift card, which is a common tactic in phishing scams.\"\n}\n```",
+    "timestamp": "2025-05-13T20:17:36.453776"
+  },
+  {
+    "image": "data/scam/0015.png",
+    "extracted_text": null,
+    "response": "{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Phishing/Requesting Information\",\n  \"reason\": \"The email asks for information needed to make a payment, which is a common tactic used in phishing scams to gather sensitive financial details.\"\n}",
+    "timestamp": "2025-05-13T20:18:23.024899"
+  },
+  {
+    "image": "data/scam/0016.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"The email uses urgent language ('temporary hold'), requests sensitive information (wallet ID), and directs the recipient to a suspicious URL (www.blockchain.com). This is a classic phishing tactic to steal credentials or funds.\"\n}\n```",
+    "timestamp": "2025-05-13T20:19:10.730684"
+  },
+  {
+    "image": "data/scam/0017.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 4,\n  \"scam_type\": \"Phishing/Fake System Alert\",\n  \"reason\": \"This screen presents a fabricated system error message designed to scare the user into believing their computer is infected and needing immediate assistance. It uses urgency (immediate data loss) and requests the user to contact a phone number. The design is a common tactic in phishing scams.\"\n}\n```",
+    "timestamp": "2025-05-13T20:19:59.857113"
+  },
+  {
+    "image": "data/scam/0018.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"The URL is suspicious (looks like a fake Microsoft support page), the message claims a malicious app is running, and instructs the user to call a phone number for assistance \u2013 a classic phishing tactic. It uses a Microsoft branding to appear legitimate, but the URL and advice are highly indicative of a scam.\"\n}\n```",
+    "timestamp": "2025-05-13T20:20:48.739897"
+  },
+  {
+    "image": "data/scam/0019.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing/Ransomware\",\n  \"reason\": \"The page mimics the Microsoft login screen, uses alarming language ('infected'), requests sensitive information (bank details, credit card, account password), and includes a generic phone number. This is a classic phishing attempt to steal credentials or install malware.\"\n}\n```",
+    "timestamp": "2025-05-13T20:21:37.667482"
+  },
+  {
+    "image": "data/scam/0020.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"Multiple red flags: Urgent call to action (+1 (877) 573 9043), generic threat (pornographic spyware), requests for immediate attention, and a URL that resembles a legitimate Microsoft support page but is likely a malicious redirect. Brand inconsistencies, as the URL doesn't match a real Microsoft support page.\"\n}\n```",
+    "timestamp": "2025-05-13T20:22:27.308737"
+  },
+  {
+    "image": "data/scam/0021.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Malware/Trojan\",\n  \"reason\": \"The screenshot clearly indicates a Windows Defender alert detecting a 'Trojan Spyware' infection. This is a strong indicator of malicious software and represents a serious security threat, strongly suggesting fraudulent or malicious activity.\"\n}\n```",
+    "timestamp": "2025-05-13T20:23:15.340496"
+  },
+  {
+    "image": "data/scam/0022.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing/Ransomware\",\n  \"reason\": \"This popup claims the computer is blocked due to illegal activity, creating a sense of panic. It requests the user to contact Microsoft helpline for reactivation, which is a classic phishing tactic to steal credentials or install malware.\"\n}\n```",
+    "timestamp": "2025-05-13T20:24:03.638896"
+  },
+  {
+    "image": "data/scam/0023.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Misleading Claims/Potential Clickbait\",\n  \"reason\": \"The headline 'Work at Home Dad Makes US$6,254/month Part-Time While Spending' is overly optimistic and could be misleading.  It uses a high income figure to attract clicks, potentially leading to a scam or questionable opportunity.  While the article likely investigates, the headline itself is a strong indicator of potential scam tactics.\"\n}\n```",
+    "timestamp": "2025-05-13T20:24:54.642831"
+  },
+  {
+    "image": "data/scam/0024.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 3,\n  \"scam_type\": \"Phishing/Impersonation\",\n  \"reason\": \"The email uses a sense of urgency ('as a safety measure') and directs the user to a link to verify their account information. This is a common tactic used in phishing scams to trick users into revealing sensitive data.\"\n}\n```",
+    "timestamp": "2025-05-13T20:25:49.634070"
+  },
+  {
+    "image": "data/scam/0025.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Misleading Marketing/Phishing\",\n  \"reason\": \"The screenshot features a link to a calendar download. While a calendar download itself isn't inherently malicious, the prominent placement of the link alongside promotional text ('Medical Breakthroughs' and '10 Star Commitment') suggests a tactic to draw users to a potentially unrelated or compromised website. The design is overly promotional and potentially designed to lure users away from the legitimate Canada Drugs website.  It\u2019s likely a phishing attempt or a marketing tactic disguised as an offer.  Further investigation is warranted to check the actual destination of the link.\"\n}\n```",
+    "timestamp": "2025-05-13T20:26:58.463058"
+  },
+  {
+    "image": "data/scam/0026.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing/Scam\",\n  \"reason\": \"Numerous red flags: Overly formal language, unusually large award amount ($2,500,000), request for personal information, and the overall tone and complexity of the letter suggest a fraudulent attempt to obtain sensitive data.  The mention of 'Visa/MasterCardCard' and a complex 'Claims Form' are common tactics in phishing scams.\"\n}\n```",
+    "timestamp": "2025-05-13T20:27:57.762218"
+  },
+  {
+    "image": "data/scam/0027.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 2,\n  \"scam_type\": \"Potentially misleading/Scareware\",\n  \"reason\": \"The website displays an attention icon and claims the user's browser is out of date, attempting to pressure the user into installing potentially unwanted software or a scam version of Chrome. It uses a scare tactic to prompt action.  The URL itself (browserupdatecentre.com) is suspicious and should be treated with caution.\"\n}\n```",
+    "timestamp": "2025-05-13T20:28:49.087086"
+  },
+  {
+    "image": "data/scam/0028.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing/Upselling\",\n  \"reason\": \"The message uses urgency ('TONIGHT'), appeals to patriotism (Trump Pence), and offers exclusive access to a product with a potentially inflated price. The URL is not provided, increasing the likelihood of a malicious link. The use of 'exclusive access' is a common tactic to create a sense of urgency and perceived value.\"\n}\n```",
+    "timestamp": "2025-05-13T20:29:40.507103"
+  },
+  {
+    "image": "data/scam/0029.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Political Solicitation/Phishing\",\n  \"reason\": \"This email uses highly emotive language ('kick me down', 'raid my home'), appeals to a specific political group (MAGA Patriots), and requests donations. The sender's email address (xxxx@gmail.com) is a common tactic for scammers. The use of Donald Trump's image and name is a strong indicator of a political solicitation attempting to raise funds.\"\n}\n```",
+    "timestamp": "2025-05-13T20:30:32.602759"
+  },
+  {
+    "image": "data/scam/0030.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Political Propaganda/Misinformation\",\n  \"reason\": \"The message contains aggressive, partisan messaging and claims of access to voting infrastructure, a common tactic used in politically motivated scams. The sender's email address is suspicious and the content is designed to instill fear and pressure the recipient to change their political affiliation.\"\n}\n```",
+    "timestamp": "2025-05-13T20:31:22.161842"
+  },
+  {
+    "image": "data/scam/0031.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Misinformation/Disinformation\",\n  \"reason\": \"Claims of a seized website, accusations of criminal involvement, and claims of foreign actor manipulation are highly suspicious and characteristic of disinformation campaigns. The language is overly dramatic and lacks credible sources. The URL itself is the Donald Trump website, which is often used for spreading misinformation.\"\n}\n```",
+    "timestamp": "2025-05-13T20:32:12.603055"
+  },
+  {
+    "image": "data/scam/0032.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Potentially misleading offer\",\n  \"reason\": \"The product is being heavily promoted with '20% discount' and 'almost sold out' which creates a sense of urgency and could be a tactic to push impulsive purchases.  It's crucial to check the seller's reputation and review terms before purchasing.\"\n}\n```",
+    "timestamp": "2025-05-13T20:33:02.872766"
+  },
+  {
+    "image": "data/scam/0033.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"The email mimics the Amazon branding but uses alarming language ('Account has been locked') and requests immediate personal information (username and password) \u2013 a classic phishing tactic to gain access to the recipient's account.\"\n}\n```",
+    "timestamp": "2025-05-13T20:33:55.974196"
+  },
+  {
+    "image": "data/scam/0034.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 1,\n  \"scam_type\": \"Misleading Marketing/Upselling\",\n  \"reason\": \"The screenshot promotes accessing credit reports during the COVID-19 pandemic, which is a common tactic used in phishing scams. It\u2019s attempting to leverage urgency and a current event to encourage users to click through to a potentially fraudulent site. The headline is also slightly sensationalized.\"\n}\n```",
+    "timestamp": "2025-05-13T20:34:50.688384"
+  },
+  {
+    "image": "data/scam/0035.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing/Social Engineering\",\n  \"reason\": \"The screenshot displays a prominent 'computer virus warning' message with a phone number. This is a classic phishing tactic using urgency and fear to pressure the user into contacting a potentially malicious support service. The URL provided, 'treeforyou.com', is likely unrelated and designed to steal information.\"\n}\n```",
+    "timestamp": "2025-05-13T20:35:45.280083"
+  },
+  {
+    "image": "data/scam/0036.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"This is a classic phishing popup attempting to scare the user into calling a phone number. The message falsely claims the computer has been stolen and requests sensitive information. The URL (ukinstantnews.online) is likely a deceptive domain used to steal credentials.\"\n}\n```",
+    "timestamp": "2025-05-13T20:36:39.401972"
+  },
+  {
+    "image": "data/scam/0037.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing/Scareware\",\n  \"reason\": \"This is a classic scareware popup. It falsely claims your computer has spyware/adware and prompts you to call a fake customer service number. The design mimics legitimate customer service alerts to trick the user into believing it's a genuine warning.  The URL 'http://b.surveyondkeys.com' is suspicious and doesn't belong to Time Warner Cable.\"\n}\n```",
+    "timestamp": "2025-05-13T20:37:35.496440"
+  },
+  {
+    "image": "data/scam/0038.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 5,\n  \"scam_type\": \"Phishing/Ransomware\",\n  \"reason\": \"The message mimics a Microsoft error message, claiming a hard drive issue and demanding immediate action via a suspicious phone number. The language creates urgency and panic. The URL is likely a malicious link designed to install malware or request personal information.\"\n}\n```",
+    "timestamp": "2025-05-13T20:38:29.369969"
+  },
+  {
+    "image": "data/scam/0039.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing\",\n  \"reason\": \"The sender address is not a legitimate Norton email address (Norton@lifelock.com is a common phishing domain), the request for account information via phone is a classic phishing tactic, and the design mimics a legitimate Norton email but with slight inconsistencies that indicate a fraudulent attempt.\"\n}\n```",
+    "timestamp": "2025-05-13T20:39:23.671623"
+  },
+  {
+    "image": "data/scam/0040.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Malware/Phishing\",\n  \"reason\": \"The screenshot shows a Windows Defender security alert indicating a 'Trojan Spyware' infection. This immediately suggests malicious activity and a potential phishing or malware attack. The message 'Access to this PC has been blocked for security reasons' is a common tactic used to mislead users into believing they need to take immediate action to resolve the issue, often to install further malware or provide credentials to a fake site.\"\n}\n```",
+    "timestamp": "2025-05-13T20:40:19.827991"
+  },
+  {
+    "image": "data/scam/0041.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"Scam Probability\": 9,\n  \"scam_type\": \"Phishing/Impersonation\",\n  \"reason\": \"The screenshot shows a chat window with a user named 'Andrew Shram' claiming to be offering a 'Cyber Security Visual Assistant' and a link to a GitHub repository (scarangdry/CSVA). The URL and user name are suspicious, and this is a common tactic for phishing scams that impersonate legitimate services.\"\n}\n```",
+    "timestamp": "2025-05-13T20:41:15.141350"
+  }
+]
