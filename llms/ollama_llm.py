@@ -11,9 +11,8 @@ class OllamaLLM(LLM):
 
     def __init__(self, model_name: str, system_prompt: str = "", params: dict = None):
         super().__init__(system_prompt)
-        self.client     = Client()
+        
         self.model_name = model_name
-        # we'll shove any generation‐related args under `options`
         self.options    = params or {}
 
     def evaluate(self, prompt: str = None, image_path: str = None) -> str:
@@ -39,5 +38,6 @@ class OllamaLLM(LLM):
             call_kwargs["options"] = self.options
 
         # 4) Invoke
+        self.client     = Client()
         resp = self.client.chat(**call_kwargs)
         return resp["message"]["content"]

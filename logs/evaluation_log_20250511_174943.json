@@ -1,0 +1,20 @@
+[
+  {
+    "image": "data/legit/0000.png",
+    "extracted_text": null,
+    "response": " {(3 - Moderate scam probability), (Reason: There are popups on the screen that suggest possible scams or fraud, but additional information would be needed to confirm safety.)} ",
+    "timestamp": "2025-05-11T17:50:08.914415"
+  },
+  {
+    "image": "data/legit/0001.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0) , (Reason: The screenshot shows a computer desktop with the Microsoft Windows operating system and some common icons like the Start menu, the Taskbar, and the Edge browser. There are no immediate signs of scams or fraudulent activity visible in this image. However, it's important to note that while there are no obvious red flags in this particular screenshot, being cautious with unsolicited emails, messages, or pop-ups is always advisable to prevent falling victim to cyber threats. ",
+    "timestamp": "2025-05-11T17:50:19.458721"
+  },
+  {
+    "image": "data/legit/0002.png",
+    "extracted_text": null,
+    "response": " The image shows a screenshot of an Adobe Photoshop interface with various windows open on a computer screen. It includes the main Photoshop window, which has a canvas with some objects and text, along with other panels such as Properties, History, Tools, Layers, Channels, Character, Effects, and Adjustments. The interface appears to be that of a standard Photoshop setup.\n\nIn terms of scam risk assessment, the image itself does not show any obvious signs of scams or malicious behavior related to Photoshop or Adobe. It seems like a typical computer screen with a program running, and therefore, it would likely rate as \"0 - No scam signs\" according to the rating system provided. There are no indications of pop-ups about prizes, rewards, or milestones that would suggest a critical level of scam probability either.\n\n{(Scam Probability: 0) , (Reason: The image displays a standard Photoshop interface without any suspicious content)} ",
+    "timestamp": "2025-05-11T17:50:37.406765"
+  }
+]

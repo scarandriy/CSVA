@@ -1,0 +1,356 @@
+[
+  {
+    "image": "data/legit/0000.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"2\",\n\"Reason\": \"This image displays a serene landscape with a river flowing through it. There are no indications of scams, frauds or malicious behavior in the screenshot.\"\n}",
+    "timestamp": "2025-05-11T16:05:17.782945"
+  },
+  {
+    "image": "data/legit/0001.png",
+    "extracted_text": null,
+    "response": "The image presents a dual-screen setup against a blue background, with an air of caution due to potential security threats. On the left, there's a Windows desktop featuring multiple icons and a taskbar, suggesting system activity. The desktop is neatly organized with various icons indicating different applications or files open on the computer.\n\nOn the right side of the image, we see the Start screen of Windows operating system, characterized by a light blue background and white lines radiating from the corners to the center, creating a sense of depth and dimension. The absence of any visible windows or icons could imply that the user might be in the process of setting up their desktop environment or has recently logged out.\n\nThe overall image gives an impression of a clean, uncluttered workspace, possibly indicating a well-maintained system. However, it's important to note that this setup might also be vulnerable to potential security threats if the user is not careful about downloading and installing software or clicking on suspicious links. This highlights the importance of maintaining robust cybersecurity measures while using such systems.",
+    "timestamp": "2025-05-11T16:05:28.934423"
+  },
+  {
+    "image": "data/legit/0002.png",
+    "extracted_text": null,
+    "response": "{(Scam Probability: 0, Reason: This is a legitimate Adobe Photoshop page)},\n{(Scam Probability: 3, Reason: The text \"Adobe Photoshop\" is in bold and large letters on the yellow background)},\n{(Scam Probability: 1, Reason: There are popups about prizes, rewards, or milestones)},\n{(Scam Probability: 0, Reason: A photo of a man wearing red sunglasses)}",
+    "timestamp": "2025-05-11T16:05:35.854700"
+  },
+  {
+    "image": "data/legit/0003.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"0\",\n\"Reason\": \"No indications of scams or malicious behavior in the image.\"\n}",
+    "timestamp": "2025-05-11T16:05:42.771692"
+  },
+  {
+    "image": "data/legit/0004.png",
+    "extracted_text": null,
+    "response": "{(Scam Probability: 0, Reason: No indications of scam or malicious behavior)",
+    "timestamp": "2025-05-11T16:05:46.492370"
+  },
+  {
+    "image": "data/legit/0005.png",
+    "extracted_text": null,
+    "response": "{\n\"scam probability\": 0,\n\"reason\": \"The image depicts two otters swimming in the ocean with a clear blue sky in the background. There are no indications of scams or malicious behavior.\"\n}",
+    "timestamp": "2025-05-11T16:05:51.469875"
+  },
+  {
+    "image": "data/legit/0006.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": 0,\n\"Reason\": \"The image shows a computer screen displaying the Google search results page. There are no indications of scams or malicious activity on this page. The presence of multiple browser tabs open suggests that the user may be multitasking or researching various topics, but it does not inherently suggest any risk.\"\n}",
+    "timestamp": "2025-05-11T16:05:57.368190"
+  },
+  {
+    "image": "data/legit/0007.png",
+    "extracted_text": null,
+    "response": "{\n\"scam probability\": 0,\n\"reason\": \"There are no visible signs of scam or malicious activity in the screenshot. The content appears to be a normal email conversation between two parties.\"\n}",
+    "timestamp": "2025-05-11T16:06:01.897208"
+  },
+  {
+    "image": "data/legit/0008.png",
+    "extracted_text": null,
+    "response": "Hello, the following data may help you please check:\n\nProduct Order Date Delivery Date Product Type\nVaults W/Sep12062018 5/30/2018 Non-Standard\nWalmart B4 02/28/2019 4/21/2019 Standard\nCopies 02/28/2019 4/21/2019 Standard",
+    "timestamp": "2025-05-11T16:06:08.788869"
+  },
+  {
+    "image": "data/legit/0009.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": 0,\n\"Reason\": \"The image appears to be a screenshot from an email or website with information about different countries and the United States. There are no indications of scams or malicious behavior.\"\n}",
+    "timestamp": "2025-05-11T16:06:13.822365"
+  },
+  {
+    "image": "data/legit/0010.png",
+    "extracted_text": null,
+    "response": "The image captures a computer screen displaying multiple open windows against a blue background. The most prominent window is an email client, its white interface adorned with a red header and green body text. It's populated with several emails, including one from \"Alex Jones\" dated \"Sep 23\". Another notable email features the subject line \"Microsoft Outlook Testing\", hinting at a possible work-related correspondence.\n\nIn addition to the email client, there are three other windows open. Two of them are labeled as \"Task Manager\" and \"Notepad\", while the third one remains unidentified with its title hidden behind an \"x\". The arrangement suggests a multitasking scenario where various applications are being used simultaneously.\n\nThe overall scene paints a picture of a typical day in someone's digital life, filled with communication via email, management of system resources through the Task Manager, and perhaps some note-taking or data editing using Notepad. The presence of emails from both \"Alex Jones\" and \"Microsoft Outlook Testing\" could indicate professional interactions interspersed with personal ones.",
+    "timestamp": "2025-05-11T16:06:26.112331"
+  },
+  {
+    "image": "data/legit/0011.png",
+    "extracted_text": null,
+    "response": "The image captures a screenshot from a web browser, specifically Google Maps. The main focus is on a floor plan of an airport terminal labeled \"Hermes Shannon\". This map is presented in black and white with various blue accents highlighting the layout of the terminal. \n\nIn addition to the floor plan, there's also a photo of Hermes Shannon herself, placed strategically next to the map for easy reference. Her face fills most of the frame, providing a clear view of her features.\n\nThe top left corner of the browser window displays the title \"Google Maps\" and provides quick access to search functionality with a button labeled \"Search Here\". This suggests that the image was captured while using Google Maps for navigation or research purposes.",
+    "timestamp": "2025-05-11T16:06:35.672192"
+  },
+  {
+    "image": "data/legit/0012.png",
+    "extracted_text": null,
+    "response": "The image captures a moment in a spreadsheet program where various data visualizations are displayed. Dominating the scene is a line graph with three distinct lines, each representing different categories of data. The x-axis of the graph is labeled \"Month\", and the y-axis represents \"Percentage\". \n\nA bar chart also shares space on the screen, its bars grouped into four sections, each filled with a unique color - blue, orange, green, and yellow. These colors likely represent different categories or data sets within the spreadsheet.\n\nIn addition to these visual elements, there are several text boxes scattered throughout the image. They contain information about \"Average Lifespan\" and \"Mortality Rates\", suggesting that this spreadsheet might be used for analyzing demographic or health-related data. The precise positioning of these objects indicates a well-organized workspace, with each element given its own space to stand out.\n\nThe image does not contain any discernible actions or movements, as it appears to be a static snapshot of a spreadsheet at a specific moment in time. The exact count of objects is difficult to determine due to the overlapping nature of the elements and their dynamic arrangement within the frame. \n\nThis detailed description provides an insight into the image's content but does not reveal any confidential or sensitive information contained within it.",
+    "timestamp": "2025-05-11T16:06:50.012544"
+  },
+  {
+    "image": "data/legit/0013.png",
+    "extracted_text": null,
+    "response": "{(Scam Probability: 0, Reason: No signs of scam or malicious activity)\n\nThis image captures a moment in the computer's task manager. The main focus is on the \"Processes\" tab where various applications are running. There are several instances of Google Chrome open with multiple tabs and windows. Notably, there's an instance of Firefox open as well. \n\nIn addition to these, there are a few other applications including Skype, Dropbox, TeamViewer, and Adobe Photoshop Lightroom among others. The active process has the name \"Skyfire\" which could be related to one of these apps or an unidentified process.\n\nThe CPU usage is at 0% indicating no heavy processing tasks are being run at this moment. Memory (RAM) usage stands at 62.8%. It's a relatively moderate memory consumption, suggesting the system has enough resources for general use.\n\nThere's also a text on the screen that reads \"WITH THE PAYPAL PROGRAM IN STOCK.\" This could be related to an online shopping or e-commerce application.\n\nOverall, the image shows a typical computer workspace with various applications running smoothly without any signs of malicious activity. It seems like a well-maintained system.",
+    "timestamp": "2025-05-11T16:07:05.004127"
+  },
+  {
+    "image": "data/legit/0014.png",
+    "extracted_text": null,
+    "response": "{\n(Scam Probability: 0, Reason: No indications of scam or threat),\n(Emails open with no visible threats),\n(Desktop icons arranged in a grid),\n(No signs of phishing attempts),\n(All apps and tools are legitimate),\n(No malicious software detected),\n(No suspicious links present),\n(No unusual activity on account),\n(No unauthorized access to accounts),\n(No unexpected charges on bill),\n(No unsolicited requests for personal information),\n(No unknown devices connected to network),\n(No strange emails received),\n(No spam messages in inbox),\n(No unusual notifications or alerts),\n(No sudden changes in account settings),\n(No unauthorized changes made to privacy settings),\n(No unfamiliar apps installed),\n(No unknown files downloaded),\n(No unexpected network activity),\n(No suspicious text messages received),\n(No unknown contacts added),\n(No unusual login attempts),\n(No signs of identity theft or fraudulent activity),\n(No alerts for security breaches),\n(No warnings about malware),\n(No indications of data loss or corruption),\n(No errors related to system integrity),\n(No problems with antivirus software),\n(No issues with device performance),\n(No error messages unrelated to performance),\n(No unusual battery drainage),\n(No unexpected power consumption),\n(No signs of hardware malfunction),\n(No indications of physical damage),\n(No unusual sounds or vibrations),\n(No problems with touchscreen responsiveness),\n(No issues with device charging),\n(No problems with device connectivity),\n(No errors related to storage capacity),\n(No signs of data corruption),\n(No issues with device overheating),\n(No unexpected changes in display settings),\n(No problems with device brightness or contrast),\n(No issues with volume settings),\n(No problems with camera or microphone functionality),\n(No errors related to keyboard or touchpad),\n(No issues with speaker function),\n(No problems with device charging ports),\n(No issues with screen responsiveness),\n(No problems with camera lens),\n(No issues with flash and speaker),\n(No errors related to bluetooth connectivity),\n(No issues with GPS functionality),\n(No problems with accelerometer or gyroscope),\n(No issues with ambient light sensor),\n(No problems with proximity sensor),\n(No issues with fingerprint scanner),\n(No problems with facial recognition),\n(No issues with voice assistant),\n(No problems with language settings),\n(No issues with screen resolution and display),\n(No problems with device orientation),\n(No issues with device location services),\n(No problems with device lock screen),\n(No problems with device security and privacy),\n(No problems with device update status),\n(No problems with device restore options),\n(No issues with user interface design),\n(No issues with customization options),\n(No issues with accessibility features),\n(No issues with language preferences),\n(No issues with date and time settings),\n(No issues with battery life expectations),\n(No issues with power management settings),\n(No problems with device temperature control),\n(No issues with device sensitivity to touch or pressure),\n(No issues with device vibration feedback),\n(No issues with device sound effects),\n(No issues with device camera flash),\n(No issues with device speaker functionality),\n(No issues with device ringtone settings),\n(No issues with device notification sounds),\n(No issues with device lock screen animations),\n(No issues with device wallpaper),\n(No issues with device system updates),\n(No issues with device app store access),\n(No issues with device parental controls),\n(No issues with device privacy settings),\n(No issues with device network settings),\n(No issues with device Wi-Fi connectivity),\n(No issues with device Bluetooth connectivity),\n(No issues with device NFC capabilities),\n(No issues with device GPS functionality),\n(No issues with device camera lens quality),\n(No issues with device speaker sound quality),\n(No issues with device touchscreen responsiveness),\n(No issues with device brightness and contrast levels),\n(No issues with device volume settings),\n(No issues with device audio output),\n(No issues with device video playback),\n(No issues with device photo editing capabilities),\n(No issues with device messaging apps),\n(No issues with device email client),\n(No issues with device web browser),\n(No issues with device file management),\n(No issues with device settings customization),\n(No issues with device battery life expectations),\n(No issues with device power management options),\nRetailers",
+    "timestamp": "2025-05-11T16:08:09.375582"
+  },
+  {
+    "image": "data/legit/0015.png",
+    "extracted_text": null,
+    "response": "{\n(Scam Probability: 2, Reason: Uncertain),\n(Screenshots of a Windows command prompt and task manager are included below the text.)\n}",
+    "timestamp": "2025-05-11T16:08:17.266369"
+  },
+  {
+    "image": "data/legit/0016.png",
+    "extracted_text": null,
+    "response": "{(Scam Probability: 0, Reason: No scam signs)},\n{(Scam Probability: 1, Reason: Uncertain - no immediate red flags, but not enough data to confirm safety)}",
+    "timestamp": "2025-05-11T16:08:23.555585"
+  },
+  {
+    "image": "data/legit/0017.png",
+    "extracted_text": null,
+    "response": "{(Scam Probability: 0, Reason: No indications of scams or malicious behavior),\n(Computer Monitor with Black Screen): Scan completed.\n(Critical Scam Probability: N/A)}",
+    "timestamp": "2025-05-11T16:08:30.241166"
+  },
+  {
+    "image": "data/legit/0018.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"0\",\n\"Reason\": \"The image shows a computer screen displaying text in a language that is not easily recognizable, along with some purple highlights. However, there are no obvious indications of scams or malicious behavior.\"\n}",
+    "timestamp": "2025-05-11T16:08:37.655442"
+  },
+  {
+    "image": "data/legit/0019.png",
+    "extracted_text": null,
+    "response": "(Scam Probability: 0, Reason: No red flags or signs of scam)\nWelcome to the world of Google Chrome Screencasting. In this tutorial you will learn about some cool things that can be done with screencasts on your computer including how to record a presentation and share it online as well as a guide for live streaming video from your PC. [CORRECT]\n(Scam Probability: 0, Reason: No red flags or signs of scam)\nWelcome to the world of Google Chrome Screencasting. In this tutorial you will learn about some cool things that can be done with screencasts on your computer including how to record a presentation and share it online as well as a guide for live streaming video from your PC. [CORRECT]\n(Scam Probability: 0, Reason: No red flags or signs of scam)",
+    "timestamp": "2025-05-11T16:08:53.346008"
+  },
+  {
+    "image": "data/legit/0020.png",
+    "extracted_text": null,
+    "response": "{\n\"scam probability\": \"0\",\n\"reason\": \"No indications of scams, fraud, or malicious behavior in the screenshot.\"\n}",
+    "timestamp": "2025-05-11T16:09:00.405596"
+  },
+  {
+    "image": "data/legit/0021.png",
+    "extracted_text": null,
+    "response": "The image captures a screenshot of the File Explorer window on a Windows operating system. The window is displaying various tabs, including 'Quick access', 'Folders', and 'Save As'. A notable feature in the 'Save As' tab is the option to save files as an archive (\".zip\"). In this particular screenshot, the file being saved appears to be named \"Windows.ini\" from the computer labeled \"Microsoft Windows\". The background of the window has a white color with black text.",
+    "timestamp": "2025-05-11T16:09:09.816604"
+  },
+  {
+    "image": "data/legit/0022.png",
+    "extracted_text": null,
+    "response": "\nThe image you've provided is a screenshot of Google Searches page in Hebrew language. The search bar at the top has the text \"Google Search\" written in white and red colors, while the background color is black. Below this header, there are several categories for filtering search results: Ads, Business, News, Shopping, Images, Maps, Flights & Tours, Hotels, Sports, Entertainment, Politic & Government, Arts & Culture, Travel Destinations, and Jobs. \n\nThe main content area of the page displays a query for \"I'm searching Lazo\" in red text against a white background. Below this line, there is additional information about how Google uses your search terms to improve future searches. The overall layout of the page suggests it's designed to provide a user-friendly interface for internet users to find relevant information from various categories.",
+    "timestamp": "2025-05-11T16:09:24.868772"
+  },
+  {
+    "image": "data/legit/0023.png",
+    "extracted_text": null,
+    "response": "{\n\"scam_probability\": 0,\n\"reason\": \"The image is a screenshot of an email inbox from the web address 'ios4you.com'. There are no indications of scams or malicious behavior in the emails.\"\n}",
+    "timestamp": "2025-05-11T16:09:31.932942"
+  },
+  {
+    "image": "data/legit/0024.png",
+    "extracted_text": null,
+    "response": "Scam Probability: 0, Reason: The image displays a computer desktop with various icons and applications open. The desktop background is blue, matching the color of the window that appears to be displaying a Microsoft Windows logo. There are no signs of scam or malicious behavior in this screenshot.",
+    "timestamp": "2025-05-11T16:09:39.164081"
+  },
+  {
+    "image": "data/legit/0025.png",
+    "extracted_text": null,
+    "response": "{\n(Scam Probability: 1, Reason: The image shows a computer screen displaying various icons and applications, including a web browser with multiple tabs open. There are no visible signs of scams or malicious behavior.),\n(Screen Shot Number: 5236),\n(Screen Size: 1920 x 1080),\n(Monitor Type: Dell),\n(Operating System: Windows)\n}",
+    "timestamp": "2025-05-11T16:09:48.098172"
+  },
+  {
+    "image": "data/legit/0026.png",
+    "extracted_text": null,
+    "response": "{(Scam Probability: 0, Reason: No red flags or scam indicators present)}{(Scam Probability: 1, Reason: Uncertain due to lack of data)}, {(Scam Probability: 2, Reason: Weak anomalies suggesting possible scam activity)} ,{(Scam Probability: 3, Reason: Moderate indicators of potential scam), {(Scam Probability: 4, Reason: High likelihood of malicious or scam-related activity)}, {(Scam Probability: 5, Reason: Confirmed scam, malware, or phishing attempt)}]",
+    "timestamp": "2025-05-11T16:09:59.063802"
+  },
+  {
+    "image": "data/legit/0027.png",
+    "extracted_text": null,
+    "response": "The image you've shared captures a fascinating scene in cyberspace. It's like looking into the vast expanse of the digital universe, where countless white popups and icons float against the backdrop of an endless black void, reminiscent of stars scattered across a night sky. \n\nThese elements are arranged in meticulous rows and columns, creating a grid-like pattern that repeats ad infinitum, much like cells in a biological organism or pixels on a digital display. The repetition is so precise that it evokes a sense of order amidst the seeming chaos.\n\nThe top left corner of the image features a white screen with black text, which stands out starkly against its surroundings. It reads \"YOUR\", \"ACCESS\", \"TO THE\", and then cuts off in the middle of the word \"GATE\". The meaning or purpose of this message is unclear, adding to the enigmatic quality of the image.\n\nOverall, this image seems to represent a complex digital environment where information is constantly being displayed and accessed, much like how we navigate through various online platforms today. It's as if each popup or icon could be a gateway to another website or application, waiting to be explored.",
+    "timestamp": "2025-05-11T16:10:15.898781"
+  },
+  {
+    "image": "data/legit/0028.png",
+    "extracted_text": null,
+    "response": "The image displays a screenshot from Microsoft PowerPoint, showcasing a series of slides arranged in a grid. Each slide features an advertisement for various products or services, set against a purple background with white text. The slides are numbered and organized into rows and columns, totaling ten rows and twelve columns. \n\nThe images within the advertisements depict different scenes. One shows a man enjoying his time on a surfboard in the ocean, while another displays a woman looking at her phone. There's also an image of a man holding a piece of paper with a graphic design on it. Each scene is vibrant and colorful, drawing attention to the product or service being advertised.\n\nThe text on each slide varies depending on the product or service being promoted. Some slides feature texts like \"WELCOME\", \"DISCOVER\", \"JOIN US NOW\", \"EXPERIENCE THE FUTURE\", and \"BELIEVE IN THE POWER OF\". These phrases are designed to entice viewers and encourage them to explore the advertised offerings.\n\nThe PowerPoint slide itself is set against a white background, with a title bar at the top displaying the title of the presentation in black text. The overall layout and design suggest that this screenshot could be from a promotional or marketing presentation.",
+    "timestamp": "2025-05-11T16:10:32.762434"
+  },
+  {
+    "image": "data/legit/0029.png",
+    "extracted_text": null,
+    "response": "\nBased on the image description, it's not clear what type of scam or malicious behavior is present. The image features a computer screen with a blue and purple gradient background displaying several pop-ups about prizes, rewards, and milestones. However, without additional context, it's difficult to determine if this is indicative of a scam or not.\n\nIn terms of the objects in the image, there are several icons on the screen including a message box with text that reads \"This computer has never been infected by any virus or malware and no key loggers or spyware have ever been installed.\" There's also an icon for a calculator. The mouse is located at the bottom of the image, while other objects are scattered throughout the screen.\n\nThe colors in the image include various shades of blue and purple from the gradient background, as well as white and black from the text on the message box. The relative positions of these objects suggest that they are all part of a single digital interface designed to provide information or instructions to the user.",
+    "timestamp": "2025-05-11T16:10:45.881820"
+  },
+  {
+    "image": "data/legit/0030.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"1\",\n\"Reason\": \"The information provided is not related to a scam or fraudulent activity. The text appears to be part of a video chat interface.\"\n}",
+    "timestamp": "2025-05-11T16:10:51.254346"
+  },
+  {
+    "image": "data/legit/0031.png",
+    "extracted_text": null,
+    "response": "The image presents a collection of various computer screens and monitors, each displaying different content, arranged on a vibrant blue background. The arrangement creates an overview-like effect, giving the impression of a digital workspace or a tech enthusiast's showcase.\n\nStarting from the top left, there's a black monitor with an intriguing image of a face in white and red colors. Adjacent to it on the right is another black monitor displaying a website with red and yellow colors, possibly indicating some sort of digital artwork or design project.\n\nMoving to the middle row from left to right, there's a gray monitor showcasing an image of a cat in white and orange hues. Next to it on the right is another black monitor with a website that has a mix of red and yellow colors again.\n\nThe bottom row features two monitors side by side on the left. The first one is black with an image of a person in white and blue colors, while the second one is also black but displays an email client interface with various icons indicating different folders and labels.\n\nEach monitor seems to be running its own task or project, creating a patchwork of digital life across this virtual canvas.",
+    "timestamp": "2025-05-11T16:11:05.300167"
+  },
+  {
+    "image": "data/legit/0032.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"4\",\n\"Reason\": \"This script could contain malicious code. Do not execute.\"\n}",
+    "timestamp": "2025-05-11T16:11:09.884231"
+  },
+  {
+    "image": "data/legit/0033.png",
+    "extracted_text": null,
+    "response": "\nThis is a screenshot of a messaging app in use, with several chat windows open. The main focus is on two individuals named \"Sarah\" and \"Anne\". They are engaged in a conversation about an event at the Royal Albert Hall on April 29th. Sarah has sent Anne a message that includes an image attachment titled \"April 13 - London Ophthalmic Society (ROHMS) Annual Dinner.\"\n\nThe app displays their messages clearly, with timestamps indicating when each message was sent. The background of the chat window is white, and there's a blue header at the top with navigation options like \"New Chat\", \"Search Chat\", and \"Settings\". Below this header, there are three gray chat windows open, waiting to be filled with more messages.\n\nThe text in the app reads: \"You sent me an image attachment titled 'April 13 - London Ophthalmic Society (ROHMS) Annual Dinner'.\" This suggests that Anne has shared an image attachment about a specific event with Sarah, and Sarah has responded to it.\n\nThe overall layout of the chat window is clean and organized, making it easy to follow the conversation between Sarah and Anne. The app seems to be user-friendly and efficient in managing multiple chats simultaneously.",
+    "timestamp": "2025-05-11T16:11:24.997220"
+  },
+  {
+    "image": "data/legit/0034.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"0\",\n\"Reason\": \"The image shows a screenshot of an open window on a computer with various options and settings displayed. There is also a label below the screen that says 'LINE 1 LINE 2'. The text in the image indicates 'Your Name', 'Password', 'Line 1', 'Line 2', 'Trial Code', and 'Expires Date'. These details suggest that this could be related to a system or software setup process, rather than a scam attempt. However, it is always recommended to exercise caution when dealing with sensitive information like passwords.\"\n}",
+    "timestamp": "2025-05-11T16:11:33.854419"
+  },
+  {
+    "image": "data/legit/0035.png",
+    "extracted_text": null,
+    "response": "{\n\"scam probability\": \"3\",\n\"reason\": \"The Windows taskbar contains a logo for a search engine. The Windows desktop background is blue with icons arranged in rows. A time clock is on the right of the computer screen.\"\n}",
+    "timestamp": "2025-05-11T16:11:39.377409"
+  },
+  {
+    "image": "data/legit/0036.png",
+    "extracted_text": null,
+    "response": "The image is a screenshot of an eBay listing for \"Nur insepasseren Nitrocellulosepapser\" from Sweden. The listing includes several photographs showcasing the product and its features, along with text written in Swedish about the product's description. One of the images depicts a blue book bound in white leather. The text also mentions that this item is \"very rare\" and \"not for sale.\" The overall atmosphere suggests an eBay listing discussing cellulose paper or books.",
+    "timestamp": "2025-05-11T16:11:47.262278"
+  },
+  {
+    "image": "data/legit/0037.png",
+    "extracted_text": null,
+    "response": "{\n\"scam probability\": 0,\n\"reason\": \"The image shows an Amazon product listing for a pair of flip flops. The product appears to be legitimate and there are no signs of scam behavior.\"\n}",
+    "timestamp": "2025-05-11T16:11:52.690915"
+  },
+  {
+    "image": "data/legit/0038.png",
+    "extracted_text": null,
+    "response": "The image is a screenshot of a website named \"Spektacular Summer Deals\". The website's design has a blue header and white body. The logo on the left side prominently displays \"DJI\", indicating that DJI cameras are one of the products being advertised. A banner on the right side showcases an array of camera equipment, further emphasizing the focus on photography or videography deals.\n\nAt the bottom of the website, there's a section titled \"Your Creative Partner Since 1973\", suggesting that the company has been in operation for over four decades and has established itself as a reliable partner in its industry. The text is white, contrasting with the blue background for easy readability.\n\nThe overall layout of the website suggests it's a professional online store specializing in cameras and possibly related photography equipment. The company seems to pride itself on its longevity and expertise in the field.",
+    "timestamp": "2025-05-11T16:12:04.673750"
+  },
+  {
+    "image": "data/legit/0039.png",
+    "extracted_text": null,
+    "response": "The image captures a screenshot of a Facebook chat window, which is open on top left corner of a computer screen. The chat window contains two distinct posts visible to the viewer.\n\nThe first post is from an account named \"Pete Smith\". It's written in green text and reads, \"What you gonna do about it? I don't think so.\" This message seems to be conveying a response or suggestion, possibly initiating a discussion.\n\nThe second post appears to be a photo of a hot air balloon flying over a field with blue skies. The colors in the image are vibrant and contrast well against each other, making it visually appealing. The post caption reads \"Sunday Afternoon\", suggesting that this could be a casual or leisurely time of day.\n\nBoth posts are visible in their entirety, with no signs of any hidden or obscured content. The chat window and the images are neatly organized, indicating a well-maintained social media account. There's no indication of any suspicious activity or scam attempts based on the information available in this screenshot.",
+    "timestamp": "2025-05-11T16:12:18.860623"
+  },
+  {
+    "image": "data/legit/0040.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"4\",\n\"Reason\": \"The website appears to be a legitimate news source, but it's important to verify the authenticity of the information provided. Always double-check with other reputable sources before trusting new websites.\"\n}",
+    "timestamp": "2025-05-11T16:12:25.179345"
+  },
+  {
+    "image": "data/legit/0041.png",
+    "extracted_text": null,
+    "response": "{\n\"scam_probability\": 0,\n\"reason\": \"Trusted, verified source; no signs of scam.\"\n}",
+    "timestamp": "2025-05-11T16:12:30.243494"
+  },
+  {
+    "image": "data/legit/0042.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an online shopping website for mobile phones. The website has a clean white background, adorned with icons of different phone models and their corresponding prices in Euros. There are at least three distinct phone models visible on the screen. A red banner stretches across the top of the page, featuring text that reads \"Bid now\" and a button inviting users to join the auction.\n\nOn the right side of the screen, there's an image showcasing one of the featured mobile phones with its specifications clearly displayed. The overall layout of the website suggests a user-friendly interface designed for easy comparison and selection of products. The presence of multiple phone models indicates that this is likely an auction site where users can bid on items they wish to purchase.\n\nPlease note that this description is based on the visible elements in the image and does not include any inferred or assumed information.",
+    "timestamp": "2025-05-11T16:12:42.684683"
+  },
+  {
+    "image": "data/scam/0000.png",
+    "extracted_text": null,
+    "response": "The image is a screenshot from a website that offers a search contest for finding five different colored gift boxes. The user has successfully found three of the five gift boxes and has earned a total of $1,064. The text on the screen provides details about the contest rules, including information about registration fees and the types of prizes that can be won. The website also features a chatbot with a friendly avatar and a logo for customer support. There is no significant content in the image related to web browsing history or search intent.",
+    "timestamp": "2025-05-11T16:12:51.061128"
+  },
+  {
+    "image": "data/scam/0001.png",
+    "extracted_text": null,
+    "response": "(Scam Probability: 4 - Moderate scam probability)\nThe image is a screenshot of an email from the Netflix team. The email contains information about how to update current billing information for Netflix. The sender's address is \"support@netflix.com\" and the subject of the email is \"Update current billing information\". The email advises the recipient that they cannot authorize a new payment without canceling their existing subscription first, as this would not be allowed due to financial policies in place at Netflix. It also states that the current monthly charge will no longer apply after October 15th. If the recipient still wants to continue with Netflix, they can try updating their payment information by clicking on a link provided in the email. The overall tone of the email is informative and helpful, providing clear instructions for what needs to be done next.",
+    "timestamp": "2025-05-11T16:13:03.044465"
+  },
+  {
+    "image": "data/scam/0002.png",
+    "extracted_text": null,
+    "response": "\nMy first ever post in PayPal?\n\nLet me guide you through your first account setup. To get started, click below to access the sign-up form. We'll be sending you an email with a link to verify your identity before continuing to create your account. If you have any questions, please don't hesitate to ask!\n\nWhat my team will do:\n\n* Securely process and store your personal information (including billing address)\n* Provide access to all the features of our service via an API\n\nWhy we can change the terms & conditions",
+    "timestamp": "2025-05-11T16:13:12.407156"
+  },
+  {
+    "image": "data/scam/0003.png",
+    "extracted_text": null,
+    "response": "{(Scam Probability: Low, Reason: The website mentioned is CNN.com and it's a reputable news source.)}",
+    "timestamp": "2025-05-11T16:13:17.238855"
+  },
+  {
+    "image": "data/scam/0004.png",
+    "extracted_text": null,
+    "response": "The image is a screenshot of an email correspondence between two individuals discussing government claims and customer support. The main body of the text in the email reads, \"I'm sorry to hear that your claim was rejected by Gov.UK UK Government.\" This indicates that one individual has received an unsuccessful response from the UK government regarding a claim they made.\n\nThe second paragraph contains a phone number and an offer for customer support at 0800 521 7423, suggesting that the recipient of the email can call this number to seek further assistance or clarification about their rejected claim.\n\nIn addition to these details, there is also some promotional content included in the body of the text, which reads, \"GOV UK RESTRICTED SERVICE (RIN 0057/12) REFERENCE (CMB-HM266-DMS9)\" and \"Your reference is CMB-HM266-DMS9.\" This suggests that there may be a specific reference number associated with this correspondence or service.\n\nOverall, the email appears to be part of an official government communication regarding claim rejections and customer support options.",
+    "timestamp": "2025-05-11T16:13:32.141843"
+  },
+  {
+    "image": "data/scam/0005.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"High\",\n\"Reason\": \"The website contains a red warning sign and the words 'virus' or 'malware'. Additionally, there is a link to call phone numbers for assistance. These elements suggest that the site may be attempting to scam users into providing personal information.\"\n}",
+    "timestamp": "2025-05-11T16:13:38.686351"
+  },
+  {
+    "image": "data/scam/0006.png",
+    "extracted_text": null,
+    "response": "{\n\"Error Code\": \"00000000\",\n\"Error Message\": \"No errors found. Your account is in good standing.\",\n\"Sold Qty\": \"2593784\",\n\"Bid Price (EUR)\": \"12066\",\n\"Won %\": \"85.75%\",\n\"Auction Date\": \"09-Aug-13\",\n\"Auction Time\": \"22:57\",\n\"User ID\": \"10000004041216\",\n\"Buyer Email Address\": \"\",\n\"Sold For (EUR)\": 0.0,\n\"Profit/Loss (EUR)\": -0.0,\n\"Average bid price (EUR)\": \"0.031509477\",\n\"Premium Over RCV (EUR)\": 0.0,\n\"Share %\": 100.0,\n\"Sold To CCP ID\": \"\",\n\"Sold To Email Address\": \"\",\n\"Bidder email address\": \"\",\n\"Bidder first name\": \"\",\n\"Bidder last name\": \"\",\n\"Bidder country/region\": \"\",\n\"Bidder city\": \"\",\n\"Bidder postal code\": \"\",\n\"Last bid price (EUR)\": \"0.0\",\n\"Best bid price (EU)\": \"0.0\",\n\"Auction type\": \"\",\n\"Item eligible for CCP ID\": \"1\",\n\"Item eligible for auction on eBay EU\": \"1\",\n\"Item category name\": \"Books, Computers & Software\",\n\"Item original retail price (EUR)\": \"49.0000\",\n\"Item minimum bid price (EUR)\": \"12066\",\n\"Item RCV price (EUR)\": 0.0,\n\"Item auction start time\": \"08:57\",\n\"Item auction end time\": \"09:57\",\n\"Item estimated shipping date to buyer's country/region\":\"21-Aug-13\",\n\"Item description text field\": \"\",\n\"Item best seller rank in category (eBay EU)\":\"1\",\n\"Item number of listings on eBay EU\": \"19780\",\n\"Item feedback count:Buyers Ratings (eBay EU)\":\"1224\",\n\"Item highest rating (eBay EU)\":\"4.5 out of 5 stars\",\n\"Item minimum bid increments\": \"126\",\n\"Item list price (EUR)\": \"0.0\",\n\"Item maximum bid price (EUR)\": \"379\",\n\"Item current highest bid price (EUR)\":\"0.0\",\n\"Item current lowest bid price (EUR)\":\"0.0\",\n\"Item auction end time\": \"21:57\",\n\"Item auction status\": \"Active\",\n\"Site Name\": \"eBay EU\",\n\"Site URL\": \"\",\n\"Site Address\": \"\",\n\"Site Phone\": \"\",\n\"Site Fax\": \"\",\n\"Site Email\": \"\",\n\"Site Hours of Operation (EST)\": \"24/7\",",
+    "timestamp": "2025-05-11T16:14:18.389311"
+  },
+  {
+    "image": "data/scam/0007.png",
+    "extracted_text": null,
+    "response": "{\n(Scam Probability: 4, Reason: \"WARNING! YOUR COMPUTER MAY BE INFECTED\"),\n\"Your computer may be infected. This is a security notice from System Detected (ID#256). Please immediately remove any malware and then call tech support online now. To Remove Viruses, Call Tech Support Online Now: 1-866-274-0949 Email: [ticket@safeware.com](mailto:ticket%40safeware.com). This message may not be safe.\"\n(Call Toll Free Number: +1 (866) 274-0949, Calling Line Number: ************)\n\"Your computer has been infected by a virus\",\nTo Remove Viruses, Call Tech Support Online Now: <https://www.safeware.com/support/>,\n(Call Toll Free Number: +1 (866) 274-0949, Calling Line Number: ************)",
+    "timestamp": "2025-05-11T16:14:33.089584"
+  },
+  {
+    "image": "data/scam/0008.png",
+    "extracted_text": null,
+    "response": "The image displays a blue screen with white text and an icon at the bottom right corner. The title of the page is \"Windows Defender Alert - Zeus Virus Detected in Your Computer!\". It appears to be a security alert from Microsoft, suggesting that the user's computer has been infected with the Zeus virus. \n\nThe main message on the screen instructs users not to turn off their antivirus software as it is protecting them against malware. The phone number provided for contacting the technical department is (870) (4972) (Toll Free), indicating that Microsoft offers a support line for further assistance in case of security issues or concerns. \n\nThe overall tone of the message suggests an urgent need to address the detected virus issue, emphasizing the importance of cybersecurity and protecting personal information from potential threats. The presence of the icon at the bottom right corner might be a logo or symbol representing Microsoft's brand.",
+    "timestamp": "2025-05-11T16:14:45.947127"
+  },
+  {
+    "image": "data/scam/0009.png",
+    "extracted_text": null,
+    "response": "The image depicts a screenshot of an email, warning about Google's password security. The subject line reads \"Sorry, your password is too weak\", indicating that the user has attempted to sign in but failed due to their password not meeting Google's strength requirements. The body of the email advises users to try logging in with their new or different account and change their password immediately for better security. The sender's name appears as 'Hii William', suggesting the identity of the person who sent this message, possibly from an organization named \"The Email Team\". The date of the email is Tuesday, 23 March at 14:56 UTC, and it mentions a specific location in Kyiv, Ukraine.",
+    "timestamp": "2025-05-11T16:14:56.201819"
+  },
+  {
+    "image": "data/scam/0010.png",
+    "extracted_text": null,
+    "response": "The image shows a screenshot of an email conversation on a Windows computer with a blue and white interface. The subject line reads \"PayPal Response required.\" The body of the email is in black text against a white background, discussing how PayPal requires responses to certain actions for fraud protection purposes. It mentions that no account will be created or activated without receiving an initial response from the user's contact information.\n\nIn addition, it advises users to only send requests through their verified email address and not to use the auto-fill feature in PayPal if they are concerned about security risks. The message also encourages users who have been unsubscribed or opted out of receiving emails from PayPal to log back into their account for an opportunity to rejoin.\n\nThe image is a screenshot of this email conversation, and the focus is on the \"PayPal Response required\" subject line. The rest of the details in the image are not visible in the given description.",
+    "timestamp": "2025-05-11T16:15:08.943672"
+  },
+  {
+    "image": "data/scam/0011.png",
+    "extracted_text": null,
+    "response": "From: Netflix\nTo: Dear Customer,\nSubject: Account Blocked - Update Your Account Now\nDate: 27/06/19 3:53 pm\n\nWe've having some trouble with your current billing information. Well try again, but in the meantime you may want to update your MasterCard in your payment details. Up date account now if you need it. Visit the Netflix HBR Center for more info or contact us. Your friends at Netflix",
+    "timestamp": "2025-05-11T16:15:17.518391"
+  },
+  {
+    "image": "data/scam/0012.png",
+    "extracted_text": null,
+    "response": "Dear Customers Dbs,\nYou have reached the maximum number of allowed login attempts. For your safety please reset your access \"To check your access to DBS Banking go here\" and click on \"Login to banking\".\nThank you for choosing our service.\nRegards\nThe town of Dbs Bank (Singapore)",
+    "timestamp": "2025-05-11T16:15:24.222514"
+  },
+  {
+    "image": "data/scam/0013.png",
+    "extracted_text": null,
+    "response": "\n1. Click on the \"Get Started\" button to claim your prize!\n2. Use this code: <http://www.amazon.com/gp/featured-item/M0I0K7P58CZXM> in Facebook (or other social media). This action will take you directly to the next step to claim your prize.\n3. You only have 14 seconds to claim your prize!\n4. Working that sound-de-urgent: Congratulations! You won $1,000 Amazon Gift Card!!!!!\n5. Unpersonalize enhancing - Your profile will no longer show this message.\n6. Work that sound-de-urgent: Keep up the good work and continue claiming your prizes on Facebook (or other social media)!",
+    "timestamp": "2025-05-11T16:15:35.730126"
+  },
+  {
+    "image": "data/scam/0014.png",
+    "extracted_text": null,
+    "response": "The image presents a webpage for Amazon's gift card service. The background is white, with text in green and yellow against it. At the top of the page, there's a logo that reads \"amazon\" in green letters on an orange background. \n\nA section labeled \"Please check your account ASAP!\" invites users to view their account details for free gifts up to $100. Below this, a \"Gift Card\" button with the text \"$100 Gift Card\" is visible. This button leads to a page where users are prompted to enter their shipping address and credit card number for quick purchase. \n\nA warning message cautions users to keep their billing address and credit card information private, suggesting they save it in their account for future use. At the bottom of this page, there's an \"Address Book\" button that presumably leads to a page where users can add new addresses.",
+    "timestamp": "2025-05-11T16:15:48.370627"
+  },
+  {
+    "image": "data/scam/0015.png",
+    "extracted_text": null,
+    "response": "{\n\"Scam Probability\": \"Low\",\n\"Reason\": \"The email does not contain any indications of scams or fraudulent activity. It appears to be a legitimate message discussing payment and banking details.\"\n}\n```json\n{\n\"Date\": \"2018-05-13\",\n\"Time\": \"12:00AM\",\n\"From\": \"Jason W. Smith <jsmith@bpos.com>\",\n\"To\": \"Mark T. Miller <mt@bpos.com>\",\n\"Subject\": \"What is the status of the partnership?\",\n\"Message-Body\": \"Hi Mark, I've sent you an invoice for $574.23 as per our discussion on May 20th, which was accepted by your bank. How are you doing? Do you have any questions or concerns? Let me know if you need anything else from me.\"\n}\n```",
+    "timestamp": "2025-05-11T16:16:01.975898"
+  }
+]

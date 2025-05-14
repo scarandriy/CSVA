@@ -43,7 +43,6 @@ def descriptor():
     cap = FastCaptioner(device="cpu",threads=4) 
     vit2 = ViTGPT2Captioner(device="cpu")
 
-
     image_paths = [
         "data/legit/0041.png",
         "data/legit/0000.png",

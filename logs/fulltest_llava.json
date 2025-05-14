@@ -1,0 +1,512 @@
+[
+  {
+    "image": "data/legit/0000.png",
+    "extracted_text": null,
+    "response": " (1, \"There are no immediate red flags in this image, but it is from a Mac computer and not enough data to confirm safety. The screen appears normal, showing a mountain landscape wallpaper with some icons on the desktop.\") ",
+    "timestamp": "2025-05-11T17:51:14.950309"
+  },
+  {
+    "image": "data/legit/0001.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0), (Reason: Image is a screenshot from a Windows operating system showing a locked computer screen with a Windows Defender shield icon indicating the presence of antivirus software and no signs of malicious activity or scams are visible in the image.)} ",
+    "timestamp": "2025-05-11T17:51:21.888421"
+  },
+  {
+    "image": "data/legit/0002.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0) , (Reason: No immediate red flags, trusted and verified source; no signs of scam.)} ",
+    "timestamp": "2025-05-11T17:51:27.094766"
+  },
+  {
+    "image": "data/legit/0003.png",
+    "extracted_text": null,
+    "response": " The image you've provided appears to be a screenshot of a computer interface showing a list of websites or URLs with various icons indicating their nature. Based on the content visible in the image, I can provide an assessment of scam risk for each item:\n\n1. Facebook - Scam Probability: 0\n   Reason: This is a well-known and verified source of information, not likely to be a scam unless there are unusual features or links.\n\n2. Google - Scam Probability: 0\n   Reason: Similar to Facebook, Google is a trusted and widely recognized search engine that is unlikely to be involved in any scams.\n\n3. Amazon - Scam Probability: 0\n   Reason: Amazon is a reputable online retailer with many safeguards against fraudulent activities.\n\n4. Netflix - Scam Probability: 0\n   Reason: Netflix is a legitimate streaming service known for its reliable brand and user-friendly platform.\n\n5. WhatsApp - Scam Probability: 1\n   Reason: While WhatsApp is generally safe, there have been cases of scams through the app. It's important to be cautious and verify any incoming messages or links from unknown sources.\n\n6. Email - Scam Probability: 3\n   Reason: Emails can be a source of scams if not handled with care. It's crucial to be wary of unsolicited emails and only click on links or download attachments that are expected and verified.\n\n7. Reddit - Scam Probability: 0\n   Reason: Reddit is a well-known community platform where users can post content without direct external interaction. However, as with any online platform, caution should be exercised when interacting with posts or users within the community.\n\n8. Uber - Scam Probability: 0\n   Reason: Uber is a widely recognized ride-sharing company that operates in many countries. Its services are legitimate and scams are generally not associated with the app itself.\n\n9. LinkedIn - Scam Probability: 0\n   Reason: LinkedIn is a professional social network, and while there may be instances of fraudulent activity, it's generally considered a trustworthy platform.\n\n10. YouTube - Scam Probability: 0\n    Reason: YouTube is a video-sharing service owned by Google that has become one of the most popular platforms for watching videos online. It's not known to be associated with scams unless there are unusual features or links.\n\nGiven these assessments, I would rate the overall scam risk as low to moderate (1-3), as while there are no immediate red flags in this particular screenshot, it is always important to exercise caution when navigating any online platform, especially when dealing with unknown sources or content. ",
+    "timestamp": "2025-05-11T17:52:05.534784"
+  },
+  {
+    "image": "data/legit/0004.png",
+    "extracted_text": null,
+    "response": " (0 , Reason: No indications of scams, fraud, or malicious behavior can be detected from this image.) ",
+    "timestamp": "2025-05-11T17:52:16.623858"
+  },
+  {
+    "image": "data/legit/0005.png",
+    "extracted_text": null,
+    "response": " {(3) , (Reason: Weak anomalies; likely safe, but caution advised.)} ",
+    "timestamp": "2025-05-11T17:52:21.954785"
+  },
+  {
+    "image": "data/legit/0006.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: Suggests possible scam, review is needed.)} ",
+    "timestamp": "2025-05-11T17:52:27.392533"
+  },
+  {
+    "image": "data/legit/0007.png",
+    "extracted_text": null,
+    "response": " The image you've provided appears to show a computer screen with an open email client. There are several elements in the screenshot that can help us evaluate the scam risk:\n\n1. Sender Address: \"Dunedin City Council\" is not the most common sender for a typical user, suggesting it could be from an untrusted source or a spam message.\n2. Subject Line: \"A notification regarding your recent activity on our website\" is somewhat vague and does not provide specific details that would help in verifying its legitimacy.\n3. Content of the Email: The email body contains some text which might be an attempt to get personal information or trick the user into clicking a malicious link, but it's not clear enough to determine if it is indeed from a scammer.\n4. Attachments: There are two attachments mentioned, which could potentially be suspicious if the user did not expect any attachments from this sender.\n5. Links and Addresses in the Email: Without seeing the actual content of the email or the links, it's impossible to determine if they are safe or malicious.\n6. Other Visible Elements: The email client shows that there is no reply chain yet, which might be a red flag since legitimate emails often have some interaction history.\n\nGiven these observations and assuming standard email security practices, we can rate the scam risk as:\n\n{(Scam Probability: 2) , (Reason: The sender address is unusual, the content is vague, there are attachments which might not be safe, but without more context or information, it's difficult to confirm if this email is indeed malicious.)}\n\nRemember that simply rating an email as potentially suspicious does not mean it is definitely a scam. To fully assess the risk, one would need to consider additional factors such as the user's relationship with the sender, the context of the interaction (if any), and the specific details of the content. ",
+    "timestamp": "2025-05-11T17:52:54.797476"
+  },
+  {
+    "image": "data/legit/0008.png",
+    "extracted_text": null,
+    "response": " {(5 - Critical scam probability), (Reason: Strong indicators of malicious or scam-related activity. Urgent action required.)} ",
+    "timestamp": "2025-05-11T17:53:01.126888"
+  },
+  {
+    "image": "data/legit/0009.png",
+    "extracted_text": null,
+    "response": " The image you've provided is a screenshot of a computer screen showing an email message with text and images related to it. To rate the scam risk, I would need more information about the content of the message and any suspicious elements within it. In general, signs of a scam in an email might include:\n\n- Urgent or time-sensitive language\n- Unusual greetings or salutations\n- Grammatical or spelling mistakes\n- A sense of pressure to act quickly\n- Unusual requests for personal information or money\n- Spelling errors, typos, or incorrect grammar\n* The email is from a company or individual that is not recognized by the recipient\n* The email contains an attachment or link that should be treated with caution\n* The email contains a message that seems too good to be true\n* The sender's email address appears to be unrelated to the supposed content of the message (e.g., \"helpdesk@microsoft.com\" claiming to be from Google)\n* The email is a response to an earlier email that was not received or was unexpected\n\nPlease provide more context or details about this particular screenshot so I can give you a more accurate scam risk rating. ",
+    "timestamp": "2025-05-11T17:53:21.085950"
+  },
+  {
+    "image": "data/legit/0010.png",
+    "extracted_text": null,
+    "response": " Based on the image provided, it appears to show a computer desktop with multiple open browser tabs, some of which are displaying suspicious or potentially fraudulent content. The content displayed includes what looks like a fake email login page and other pages that might be indicative of scams or malicious activity.\n\nGiven the presence of such suspicious content, I would rate the scam risk as:\n\n(4 - High Scam Probability) , (Reason: Indicators of malicious or scam-related activity.) ",
+    "timestamp": "2025-05-11T17:53:32.794414"
+  },
+  {
+    "image": "data/legit/0011.png",
+    "extracted_text": null,
+    "response": " (4 - High Scam Probability), (Reason: The image appears to be a screenshot from a user's screen, displaying what seems like a layout of a space or an area with various icons and texts. These icons and texts are not clear enough in the provided image to determine their specific content. However, based on the context given by the high scam probability rating, it is possible that the screenshot contains elements that could be indicative of a scam or fraudulent activity. These might include misleading information, suspicious URLs, or requests for personal data or money. It's important to exercise caution when interacting with such content and not click on links or share personal information without first verifying their legitimacy.) ",
+    "timestamp": "2025-05-11T17:53:47.549227"
+  },
+  {
+    "image": "data/legit/0012.png",
+    "extracted_text": null,
+    "response": " Based on the image provided, it appears to be a screenshot of a computer interface showing a dashboard or report with various data points and graphs. The content seems to be related to financial data, such as sales figures or stock market performance. However, without additional context, it's difficult to assess the scam risk associated with this specific image. The overall scam probability for the contents of the screenshot would be rated at a low scam probability (2), as there are no obvious signs of fraud or malicious activity in the image provided.\n\nIf you have any specific concerns about the content of the screenshot, please provide more details so I can assist you better. ",
+    "timestamp": "2025-05-11T17:54:01.577330"
+  },
+  {
+    "image": "data/legit/0013.png",
+    "extracted_text": null,
+    "response": " (5 , Fraudulent activity detected in the screenshot, including potential scams and malicious behavior.) ",
+    "timestamp": "2025-05-11T17:54:08.439286"
+  },
+  {
+    "image": "data/legit/0014.png",
+    "extracted_text": null,
+    "response": " (0.381,0.295,0.631,0.973) The image is blurred and does not allow for a clear assessment of the screenshot's content. No action is required based on this input. ",
+    "timestamp": "2025-05-11T17:54:16.915621"
+  },
+  {
+    "image": "data/legit/0015.png",
+    "extracted_text": null,
+    "response": " Based on the image provided, it is difficult to accurately rate the scam risk without more context or information about the content of the screenshot. It appears to be a computer screen with various windows open, including what looks like a command prompt window and some other text-based interfaces.\n\nIf you can provide more details or context, I could attempt to give a more precise assessment. However, without additional information, it's not possible for me to confidently determine the scam risk. ",
+    "timestamp": "2025-05-11T17:54:28.405921"
+  },
+  {
+    "image": "data/legit/0016.png",
+    "extracted_text": null,
+    "response": " Based on the image provided, it's difficult to make a definitive assessment as there are no clear indicators of scams or malicious activity. The image shows a screenshot of what appears to be a software interface used for designing floorplans or blueprints, with a rectangle drawn and some measurements noted.\n\nWithout more context or specific elements that are typically associated with fraud or scams (such as suspicious URLs, pop-up windows, or the presence of unsolicited emails), it's challenging to rate the scam risk level accurately.\n\nFor now, the image does not provide enough information to make a judgment about the scam probability. Therefore, I would rate it as a 1 for uncertainty. If there are any additional elements in the screenshot that could suggest potential scams or security threats, please provide more details for a more accurate assessment. ",
+    "timestamp": "2025-05-11T17:54:46.073804"
+  },
+  {
+    "image": "data/legit/0017.png",
+    "extracted_text": null,
+    "response": " The image provided appears to be a screenshot from a computer monitor displaying two different scenes. On the left, there is a cryptocurrency mining interface with various statistics and information related to mining operations. It looks like the user might be monitoring or participating in the mining process.\n\nOn the right, there is another screen showing a desktop environment with multiple open windows. One of these windows displays a command prompt with various commands that could potentially be used for malicious purposes. The specific content of the commands and files is not clear due to the resolution and angle of the photo, but it looks like there are scripts or tools that might be related to scams, fraud, or malicious activity.\n\nBased on this image, I would rate the scam risk as a 3 out of 5, indicating a moderate probability of scam or fraudulent activity. The presence of the cryptocurrency mining interface is not necessarily indicative of illegal activities; however, the context in which it is being used could raise concerns about its legitimacy. Additionally, the command prompt on the right with various files and scripts might suggest that someone is involved in suspicious or potentially harmful actions.\n\nPlease note that this analysis is based solely on the visible contents of the image and does not provide an exhaustive evaluation of the situation. It's important to approach any activities involving cryptocurrency mining and command prompt usage with caution, as they can be used for both legitimate and malicious purposes. ",
+    "timestamp": "2025-05-11T17:55:12.812400"
+  },
+  {
+    "image": "data/legit/0018.png",
+    "extracted_text": null,
+    "response": " The image you've shared appears to show a computer screen with a screenshot or captured window that includes various elements which could be indicative of scams, fraud, or malicious behavior. Based on the content visible in the image and for the purpose of this assessment, I will rate the scam risk as follows:\n\n(Scam Probability: 4) , (Reason: The image shows a user interface with a command prompt open, showing various text entries that seem to be part of a malicious operation, such as downloading or running a program. There are also several browser tabs and windows open, which could suggest that the user is dealing with multiple processes or attempting to bypass security measures. Additionally, there's a screenshot of a file system, possibly indicating an attempt to access unauthorized files or to show signs of malicious activity.)\n\nPlease note that this assessment is based on the visible content in the image and does not constitute a definitive conclusion. If you suspect that your computer has been compromised by malware or other forms of malicious software, it's important to take immediate action such as running a full system scan with reputable security software, updating your operating system, and changing any compromised passwords. ",
+    "timestamp": "2025-05-11T17:55:36.250889"
+  },
+  {
+    "image": "data/legit/0019.png",
+    "extracted_text": null,
+    "response": " The image you've provided appears to show a screenshot of a computer screen with an open web browser displaying a page that looks like a news article or blog post, possibly from Wikipedia. However, due to the resolution and quality of the image, it is difficult to read the text on the page accurately.\n\nFrom what I can discern, there are no obvious indications of scams or malicious behavior in this screenshot. The webpage seems to be a legitimate news source, as suggested by its layout and design elements. There are no pop-up windows or unusual URLs that might typically signify a scam.\n\nGiven the lack of clear signs of fraud or scam activity, based on what can be seen in this image, I would rate the scam risk as 0 (No scam signs). The source appears to be verified and there are no immediate red flags that would require caution. ",
+    "timestamp": "2025-05-11T17:55:54.768711"
+  },
+  {
+    "image": "data/legit/0020.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: The image shows a screenshot of a webpage with an article titled \"Rumor: Microsoft Windows 10 will have a built-in Linux VM\". However, there are several red flags in this screenshot that suggest it could be a phishing or scam website. Firstly, the domain name appears to be short and does not match any official Microsoft domain names. Secondly, there is an unusual amount of text on the page that seems excessive for a legitimate news article. Lastly, the design and layout of the page look amateurish compared to the professional look one would expect from Microsoft or a reputable news source. It is advisable to exercise caution before interacting with this website. ",
+    "timestamp": "2025-05-11T17:56:10.944531"
+  },
+  {
+    "image": "data/legit/0021.png",
+    "extracted_text": null,
+    "response": " {(5) , (Reason: The screenshot is a user's computer interface with file explorer opened, displaying folders such as Documents, Downloads, Music, and Pictures. There are various files listed under each folder, but what stands out is the file \"Scan As\" with a dropdown menu. This suggests that the user has the option to scan the selected file for malware or viruses. However, the presence of a file called \"JANITOR.exe\" in the Downloads folder raises concerns about potential security risks. The Janitor executable is often associated with malicious activity and could be indicative of unauthorized access, malware, or phishing attempts. Thus, the scam risk rating would be at least 3 for \"Moderate scam probability.\" A review and further investigation are needed to ensure the computer's safety.)} ",
+    "timestamp": "2025-05-11T17:56:30.359326"
+  },
+  {
+    "image": "data/legit/0022.png",
+    "extracted_text": null,
+    "response": " The screenshot appears to show a Google search results page with the title \"google search\" and various search result entries displayed. However, since the image is only a partial view of the screen, it's difficult to provide an accurate scam risk assessment.\n\nIf we consider the visible parts of the image, nothing immediately stands out as suspicious or indicative of a scam. The design elements and layout of the search results page are consistent with what one would expect from a legitimate Google search query.\n\nGiven the limited information available in this partial view, it is not possible to provide a rating for scam risk. A full assessment would require a comprehensive examination of the entire screen content and potentially the context of the user's actions or intentions. ",
+    "timestamp": "2025-05-11T17:57:12.956682"
+  },
+  {
+    "image": "data/legit/0023.png",
+    "extracted_text": null,
+    "response": " (2, Reason: This screenshot appears to show a computer screen with a web browser open, displaying a webpage for \"LO4D.COM\". The website seems to be a sales or download page for software called \"Videos2brain\", which is listed under a category of \"Mobile and Tablets\". There are no immediate red flags that would indicate scam activity such as phishing attempts, fake login pages, or suspicious links. However, there is not enough data from the visible content to confirm the safety or authenticity of this website. As with any unsolicited software downloads or online purchases, it's important to verify the source and check for reviews before proceeding.) ",
+    "timestamp": "2025-05-11T17:57:45.058513"
+  },
+  {
+    "image": "data/legit/0024.png",
+    "extracted_text": null,
+    "response": " {(0.536), (No immediate red flags visible in this screenshot. The image appears to show a standard Windows desktop with various applications open and no apparent signs of scams or fraudulent activity. However, it is important to note that the presence of malware or other hidden threats cannot be confirmed just by looking at a screenshot. ",
+    "timestamp": "2025-05-11T17:58:02.095460"
+  },
+  {
+    "image": "data/legit/0025.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: The presence of multiple documents and a file named \"invoice\" might suggest that this computer is used for financial transactions or receipts, which could be related to scams or fraud. Additionally, the presence of various application icons on the taskbar could indicate multiple windows open at once, which might be a sign of suspicious activity.)} ",
+    "timestamp": "2025-05-11T17:58:21.555601"
+  },
+  {
+    "image": "data/legit/0026.png",
+    "extracted_text": null,
+    "response": " The image shows a computer screen displaying a user interface with various elements that might indicate potential scams or security threats. Based on the image, I would rate the scam risk as:\n\n(Scam Probability: 3) , (Reason: The presence of an email address in the screenshot could be a red flag for phishing attempts or unsolicited contact from unknown sources.)\n\nPlease note that this rating is based on the visible content of the image and does not account for any additional context or information about the situation. It's always important to exercise caution when interacting with unfamiliar emails or websites, as they can often be part of phishing scams or malicious activities. ",
+    "timestamp": "2025-05-11T17:58:48.856213"
+  },
+  {
+    "image": "data/legit/0027.png",
+    "extracted_text": null,
+    "response": " Based on the image provided and the elements visible, I rate the scam risk as a \"2\". This indicates that there are weak anomalies present which suggest possible fraud or malicious activity. However, without more context or specific details to review, it is not enough data to confirm safety or urgency for action. ",
+    "timestamp": "2025-05-11T17:59:13.923496"
+  },
+  {
+    "image": "data/legit/0028.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 4) , (Reason: The image shows a series of screenshots from a computer, and one of them appears to be showing an email or a webpage with suspicious content. The presence of potentially malicious or scam-related activity is indicated by the design of the page and the urging for immediate action. This suggests a high risk of scam.)} ",
+    "timestamp": "2025-05-11T17:59:37.053350"
+  },
+  {
+    "image": "data/legit/0029.png",
+    "extracted_text": null,
+    "response": " (2) , (Uncertain) - There are no obvious signs of scams or malicious activity in this image. It shows a screenshot of a computer with the Windows 10 desktop, which includes a wallpaper with swirling lines and colors, resembling an abstract design. The taskbar at the bottom is visible but does not provide any information about suspicious activity. There are no pop-up windows or tooltips that could be indicative of scams or fraudulent behavior. However, caution should always be exercised when interacting with unfamiliar software or applications on a computer. ",
+    "timestamp": "2025-05-11T17:59:53.043942"
+  },
+  {
+    "image": "data/legit/0030.png",
+    "extracted_text": null,
+    "response": " The image shows a screenshot of a computer screen displaying a webpage with the title \"Paper\". At the bottom of this page, there is an input field labeled \"Username\" and another labeled \"Password\", indicating that it's a login page. Below these fields, there is a red error message indicating \"Error! Invalid username or password.\" Additionally, at the top right corner of the screen, there's a notification from the \"Reddit\" website with a post titled \"Scams are everywhere\".\n\nBased on this information, it appears that the user is trying to access a secure site (as indicated by the login credentials and error message) and may be attempting to visit a website associated with scams or fraud. However, since I am not able to interact with the content of the screenshot directly, it is not possible for me to accurately assess the level of scam risk without more context or a closer examination of the webpage's content.\n\nTherefore, the rating for this image should be \"1 - Uncertain,\" as there are weak anomalies present (the error message suggesting unsuccessful login attempts) but not enough data to confirm safety. ",
+    "timestamp": "2025-05-11T18:00:19.489027"
+  },
+  {
+    "image": "data/legit/0031.png",
+    "extracted_text": null,
+    "response": " (0.5,0.397) , (Reason: The screenshot shows a collage of various computer interfaces, including web browsers displaying suspicious websites or pop-up advertisements, and desktop applications with warning messages. While some of the elements might be benign, the overall context suggests a focus on scams and security threats, indicating a high level of scam risk.) ",
+    "timestamp": "2025-05-11T18:00:33.148907"
+  },
+  {
+    "image": "data/legit/0032.png",
+    "extracted_text": null,
+    "response": " Based on the image provided and the information given, I will evaluate the screenshot for any signs of scams or malicious behavior. Here is my assessment:\n\n(Scam Probability: 0)\n(Reason: The screenshot shows a legitimate computer interface with an open code editor displaying HTML source code. There are no immediate red flags or suspicious content that would indicate a scam or malicious activity.)\n\nPlease note that this assessment is based solely on the visible content of the image and does not include any external factors or additional context about the situation or the user's actions. ",
+    "timestamp": "2025-05-11T18:00:51.711494"
+  },
+  {
+    "image": "data/legit/0033.png",
+    "extracted_text": null,
+    "response": " The image you've provided is of a computer screen displaying a messaging application with multiple conversations open in separate tabs. It appears to be a screenshot taken from a social media platform or a chat application. Based on the content visible, I'm unable to make specific judgments about any scams, fraud, or malicious behavior that might be present in the conversation since they are not clearly discernible from this image.\n\nHowever, here is the general format for responding with a scam probability rating and reason:\n\n(Scam Probability: 0) , (Reason: No signs of scams. The content displayed is typical of a messaging application, showing conversations that look like regular social interactions.)\n\nIf there are specific elements in the conversation that you believe could be indicative of scams or fraudulent activity, please provide more context or clarify which part you are referring to. ",
+    "timestamp": "2025-05-11T18:01:12.631810"
+  },
+  {
+    "image": "data/legit/0034.png",
+    "extracted_text": null,
+    "response": " (Scam Probability: 3) , (Reason: The image contains a diagram that appears to represent some sort of process or plan, possibly related to construction or architectural design. However, without additional context, it's difficult to determine if the diagram is legitimate or potentially fraudulent. For instance, there are no overt signs of a scam such as suspicious phone numbers, fake logos, or requests for money. The image seems to be a normal engineering drawing, and there is a watermark indicating that the software used to create it is \"Line 2,\" which might suggest that the diagram has been created using a particular design application. To proceed with caution, one should verify any suspicious elements not visible in this image or investigate further for potential red flags. ",
+    "timestamp": "2025-05-11T18:01:27.264465"
+  },
+  {
+    "image": "data/legit/0035.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 1), (Reason: The screenshot shows a desktop with a variety of items on it, including an image of a computer monitor displaying what appears to be a search result for \"Virus\" or a similar term. However, the image does not provide enough context or evidence to determine if there is actual malicious activity taking place. It could simply be a normal user's desktop with some random items on it. Without further information, it's hard to ascertain if this setup poses a significant risk of scam or fraud.)} ",
+    "timestamp": "2025-05-11T18:01:39.201110"
+  },
+  {
+    "image": "data/legit/0036.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 4) , (Reason: The image shows a screenshot of an eBay listing with a high price for what appears to be a phone. The price is very unusual and suggests that the item may be a scam or counterfeit. Additionally, there are no reviews or ratings visible in the screenshot, which could also indicate suspicious activity. The overall layout and appearance of the listing are not typical for eBay, further increasing the suspicion of fraudulent activity.)} ",
+    "timestamp": "2025-05-11T18:01:50.147326"
+  },
+  {
+    "image": "data/legit/0037.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 4) , (Reason: The image shows a screenshot from Amazon with a product listing for \"Women's Reef-to-Sandal Sandals\" which appears to be an item of interest. However, the URL in the address bar of the browser is not associated with Amazon, and the overall layout of the page may suggest that it is a scam or fraudulent website designed to look like a legitimate retailer. This could indicate a high risk of scamming activity.)} ",
+    "timestamp": "2025-05-11T18:02:01.394507"
+  },
+  {
+    "image": "data/legit/0038.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: The image shows a screenshot of a website displaying a variety of items, possibly indicating a shopping or online marketplace. There is no immediate sign of a scam, but without additional context, it's not possible to definitively confirm the safety of the site. Caution is advised as weak anomalies can suggest possible scam/fraud.)} ",
+    "timestamp": "2025-05-11T18:02:11.649721"
+  },
+  {
+    "image": "data/legit/0039.png",
+    "extracted_text": null,
+    "response": " I'm unable to directly view images on this platform; however, if you provide a description or details about the image you want me to analyze for potential scams, I can give you an assessment based on that information. Please include any relevant details or suspicious elements in your text input so I can assist you effectively. ",
+    "timestamp": "2025-05-11T18:02:20.399446"
+  },
+  {
+    "image": "data/legit/0040.png",
+    "extracted_text": null,
+    "response": " {(3 - Moderate scam probability), (Weak anomalies, suggests possible scam/fraud. Review is needed.)} ",
+    "timestamp": "2025-05-11T18:02:27.157839"
+  },
+  {
+    "image": "data/legit/0041.png",
+    "extracted_text": null,
+    "response": " (2, 'Low scam probability') , (Reason: 'Suggests possible scam/fraud. Review is needed.') ",
+    "timestamp": "2025-05-11T18:02:34.054199"
+  },
+  {
+    "image": "data/legit/0042.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0), (Reason: No immediate signs of scams or fraud, trusted source is visible, and there are no unusual elements or red flags in the image that would suggest a potential scam.)} ",
+    "timestamp": "2025-05-11T18:02:42.063966"
+  },
+  {
+    "image": "data/scam/0000.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 4) , (Reason: The image shows a screenshot from a Chrome browser, displaying an email with a link to \"Congratulations! You've made the 5 billionth search. You've won a gift!\" with three gift boxes and a pop-up notification about winning something. This type of scam is commonly used to trick users into clicking on links that lead to malicious websites, which can result in the installation of malware or the loss of personal information. The text on the email also contains misspellings, which is a common tactic used by scammers to make their message appear more legitimate.)} ",
+    "timestamp": "2025-05-11T18:02:55.650336"
+  },
+  {
+    "image": "data/scam/0001.png",
+    "extracted_text": null,
+    "response": " (5.0) , (Reason: Strong indicators of malicious or scam-related activity.)\n\nThe image is a screenshot of an email notification with text indicating that there has been an update to the Netflix account's billing information. The presence of a suspicious link and the format of the text resembling a fraudulent email are strong indicators of potential scams or fraudulent activity. ",
+    "timestamp": "2025-05-11T18:03:05.967219"
+  },
+  {
+    "image": "data/scam/0002.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: Suspicious email from \"PayPal Support\", urging recipient to follow a link and change payment details. The email does not appear to be legitimate, as it lacks any branding or security measures typically associated with PayPal communications.)} ",
+    "timestamp": "2025-05-11T18:03:15.359301"
+  },
+  {
+    "image": "data/scam/0003.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0), (Reason: This is a screenshot from Facebook showing a post with a promotional message. The content of the text in the post does not provide any indicators of scams, fraud, or malicious behavior based on the image provided. It appears to be a legitimate advertisement, and there are no signs of immediate danger or suspicious activity.)} ",
+    "timestamp": "2025-05-11T18:03:25.445598"
+  },
+  {
+    "image": "data/scam/0004.png",
+    "extracted_text": null,
+    "response": " The image appears to be a screenshot of an email or a message notification from an application or service, with a subject line mentioning \"HM Revenue & Customs\". It contains a link to a website and some text describing a refund payment.\n\nGiven the context provided by the information visible in the screenshot, it's not possible to provide a scam probability rating as the image does not contain any obvious red flags or suspicious elements that would indicate a potential scam. The message seems to be related to a legitimate process of receiving a refund from HM Revenue & Customs (HMRC), which is a government department in the United Kingdom responsible for tax and customs collection, among other functions.\n\nIf you are unsure about the authenticity of an email or message that claims to be from HMRC, it's generally recommended to contact them directly using their official contact channels rather than replying or clicking on any links provided within the suspicious message. Always remember not to click on links in suspicious emails and to use trusted channels for communication with government agencies. ",
+    "timestamp": "2025-05-11T18:03:44.512813"
+  },
+  {
+    "image": "data/scam/0005.png",
+    "extracted_text": null,
+    "response": " This image appears to show a screenshot of a computer displaying a webpage with a warning message, likely about a virus or other security threat. The warning message is in bold letters and reads \"YOUR COMPUTER MAY HAVE A VIRUS\". The webpage also includes a phone number for assistance and advises users to remove any pop-up windows that may appear.\n\nIn the screenshot, we can see the Windows Task Manager open, showing that there is no threat detected at the moment. There are also some error messages visible in the Task Manager window. These error messages might suggest that the computer is experiencing issues or has recently encountered a problem.\n\nAdditionally, there's an image of what appears to be a paper shredder on the webpage, which could be used as a metaphor for safely disposing of sensitive information or viruses. The overall tone of the image suggests it is meant to raise awareness about potential computer security issues and provide guidance on how to handle them.\n\nAs an AI visual assistant, I don't have the capability to provide real-time assistance or support with security threats. However, in this context, I would rate the scam probability as low (2). The warning message is clear and not overtly aggressive, which might suggest a legitimate concern rather than an attempt to scam users. The presence of error messages in the Task Manager indicates that the system may be experiencing technical difficulties or issues with software, but these do not necessarily imply a security threat on their own. ",
+    "timestamp": "2025-05-11T18:04:10.305422"
+  },
+  {
+    "image": "data/scam/0006.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0), (Reason: No scam signs present in the image provided, and there are no immediate indicators of a scam or fraudulent activity. This appears to be a screenshot from a legitimate cryptocurrency wallet transaction.)} ",
+    "timestamp": "2025-05-11T18:04:19.178873"
+  },
+  {
+    "image": "data/scam/0007.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3), (Reason: Warning sign about a computer that may be infected with viruses or malware, and the message advises the user to remove viruses via tech support. However, without more context or information about the source of the warning and the actions recommended, it is difficult to determine if the situation is actually scam-related.)} ",
+    "timestamp": "2025-05-11T18:04:29.253450"
+  },
+  {
+    "image": "data/scam/0008.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0), (Reason: The image shows a screenshot of a computer screen with a webpage from \"Windows Defender\" that includes a message about a virus detected. However, upon closer inspection, the URL in the address bar indicates that it is not an official Microsoft website. Additionally, there are grammatical and design inconsistencies on the webpage that suggest it may be a scam or fraudulent site. These factors contribute to a low scam probability rating.)} ",
+    "timestamp": "2025-05-11T18:04:41.150321"
+  },
+  {
+    "image": "data/scam/0009.png",
+    "extracted_text": null,
+    "response": " {(3) , (Email address is on screenshot; it's unclear if it's a scam or legitimate email)}. ",
+    "timestamp": "2025-05-11T18:04:48.386337"
+  },
+  {
+    "image": "data/scam/0010.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0) , (Reason: The image displays a screenshot with a PayPal response message that says \"RESPONSE REQUIRED.\" This message typically indicates that the user needs to complete an action, such as verifying their account or resolving an issue. It does not contain any obvious red flags, and the user appears to be on a legitimate webpage for PayPal. The message does not provide any information about the specific nature of the required response, but it is a standard communication from a verified source within the context of online transactions or account management. ",
+    "timestamp": "2025-05-11T18:05:01.161986"
+  },
+  {
+    "image": "data/scam/0011.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: Uncertain anomalies, such as the email address and message content; caution advised.)} ",
+    "timestamp": "2025-05-11T18:05:08.753939"
+  },
+  {
+    "image": "data/scam/0012.png",
+    "extracted_text": null,
+    "response": " The image shows a webpage with an update message about your credit card DBS. It indicates that you have received a notification for login access details. The website address is \"www.dbs.com.sg,\" which is the official site of DBS Bank Singapore. The message includes a link to view your account balance and transaction history.\n\nHowever, it's important to note that this email appears to be a scam, as it does not come from a verified sender but rather looks like a phishing attempt to obtain personal information or install malware on the user's device. The warning signs include:\n\n1. Unsolicited email - If you did not request an update about your credit card DBS, this is a red flag for a potential scam.\n2. Generic greeting - The message does not use any personal information to address the recipient, which is common in phishing emails.\n3. Poor grammar and spelling - Scams often contain errors or odd phrasing that can indicate a lack of professionalism.\n4. Links - Scams frequently include links that lead to malicious websites designed to steal sensitive information.\n5. Urgency - The message creates a sense of urgency, suggesting that there is limited time to act on the supposed account issue.\n\nTherefore, the scam risk rating for this image would be:\n{(Scam Probability: 4) , (Reason: It appears to be a phishing attempt with indicators such as an unverified sender, generic greeting, poor grammar and spelling, urgency, and suspicious links.)}\n\nPlease delete the email and do not click on any links or provide any personal information if you suspect that this is a scam. ",
+    "timestamp": "2025-05-11T18:05:39.526581"
+  },
+  {
+    "image": "data/scam/0013.png",
+    "extracted_text": null,
+    "response": " The image you've provided appears to be a screenshot from an online shopping cart or checkout page for an Amazon gift card. Below the gift card information, there is a congratulatory message that includes a link to \"CLAIM YOUR PRIZE\" and instructions on how to claim it.\n\nRegarding the scam risk rating:\n\n(0) - No red flags present, and the screenshot is within the expected range of what one would expect from an online shopping cart or checkout page. The site uses a secure connection as indicated by the green padlock icon next to the URL bar in the browser. The image does not show any signs of fraudulent activity or phishing attempts that would require urgent action. ",
+    "timestamp": "2025-05-11T18:06:06.914727"
+  },
+  {
+    "image": "data/scam/0014.png",
+    "extracted_text": null,
+    "response": " The image you've shared is a screenshot of a web page for an Amazon account setup process. It appears to be a legitimate webpage, as indicated by the logo and the account creation interface. There are no obvious signs of scams or fraud in this particular image; it seems to be a standard process for creating an account on the Amazon website.\n\nAs such, based on the information available in this screenshot, I would rate the scam risk as a 0: \"No immediate red flags.\" The webpage is consistent with the design and functionality that one would expect from an official Amazon account creation page.\n\nPlease note that evaluating the scam risk would depend on additional context or information not available in this image. Always exercise caution when providing personal information, especially during the account setup process on any website. ",
+    "timestamp": "2025-05-11T18:06:30.540891"
+  },
+  {
+    "image": "data/scam/0015.png",
+    "extracted_text": null,
+    "response": " {(3 - Moderate scam probability) , (Reason: The email contains a potentially suspicious or fraudulent message, indicating it may be from an unverified source and there is no clear indication of the sender's identity. It could also be related to a business consulting service, which might be trying to solicit funds or personal information.)} ",
+    "timestamp": "2025-05-11T18:06:46.090847"
+  },
+  {
+    "image": "data/scam/0016.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 2) , (Reason: No immediate red flags, but not enough data to confirm safety.)} ",
+    "timestamp": "2025-05-11T18:06:53.153534"
+  },
+  {
+    "image": "data/scam/0017.png",
+    "extracted_text": null,
+    "response": " (3 - Moderate scam probability) , (Critical information in image may suggest a possible phishing attempt. Review necessary.) ",
+    "timestamp": "2025-05-11T18:06:59.948922"
+  },
+  {
+    "image": "data/scam/0018.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: The image shows a screenshot of a pop-up window from a computer system. It appears to be a phishing or scam attempt, as indicated by the text on the screen which reads \"Windows Protected your PC\" along with contact information for a supposed tech support service. This is a common tactic used in scams to convince people that their computer has been compromised and needs assistance from an external source, often leading to malicious activity or financial loss.)} ",
+    "timestamp": "2025-05-11T18:07:11.836568"
+  },
+  {
+    "image": "data/scam/0019.png",
+    "extracted_text": null,
+    "response": " The image you've provided appears to be a screenshot of a webpage or an online advertisement with a warning from Microsoft Inc. about a computer system that has been infected with the \"Windows Warning\" virus. The level of risk is rated at 4, which indicates a high scam probability and requires review for malicious activity.\n\nHere's the content and elements present in the image:\n\n- At the top of the screenshot, there's an urgent call to action with a red button labeled \"Click here for safety.\"\n- The main title reads \"Microsoft Inc. WARNING,\" indicating that Microsoft is issuing a warning about the computer system's status.\n- Below the main title, there's a paragraph stating that a malicious program has been detected on the user's computer and that it is important to take action immediately. It also advises users not to visit any suspicious websites or click on any links they don't trust.\n- The bottom of the image displays a contact phone number for assistance.\n- There are icons representing security and safety tools available: \"Malware Protection,\" \"Virus Scanner,\" and \"Data Recovery.\"\n- At the very bottom, there's a notice that states, \"Please remember to protect your computer from any kind of malware or viruses.\"\n\nThe image is likely designed to look like an official warning from Microsoft to prompt users into taking action to resolve the issue their system is facing. It's important for users to be cautious about such warnings and ensure they are not being directed to untrusted sources that could further harm their computer system. ",
+    "timestamp": "2025-05-11T18:07:39.887963"
+  },
+  {
+    "image": "data/scam/0020.png",
+    "extracted_text": null,
+    "response": " {(5 - Critical scam probability), (The image is a screenshot of a computer desktop with a window open that contains a message about a Microsoft Windows error.)} ",
+    "timestamp": "2025-05-11T18:07:48.131104"
+  },
+  {
+    "image": "data/scam/0021.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: The screenshot contains various elements that could suggest a possible scam or security threat. There are warnings about \"Microsoft Defender\" and the \"Windows Defender Security Center,\" which might be indicating that the system is at risk from potential threats. Additionally, there's an error message from Windows Defender, suggesting that the user may have encountered an issue with their antivirus software. Furthermore, there are pop-up notifications about \"Spyware Protection\" and \"Protection Status,\" which could indicate that some form of malware protection is in place or is being offered to the user. However, without more context, it's difficult to definitively assess the scam risk as either low or high.)} ",
+    "timestamp": "2025-05-11T18:08:03.715551"
+  },
+  {
+    "image": "data/scam/0022.png",
+    "extracted_text": null,
+    "response": " {(0) , (No scam signs: Trusted, verified source; no signs of scam.)} ",
+    "timestamp": "2025-05-11T18:08:10.735872"
+  },
+  {
+    "image": "data/scam/0023.png",
+    "extracted_text": null,
+    "response": " The image shows a screenshot of a web browser displaying a news article on a local newspaper website. The headline of the article is \"Man dies while driving\" and there is an accompanying photo that features the facade of a house.\n\nBased on the content of the screenshot, it's not possible to accurately evaluate the scam risk level. However, without more context or specific details that could indicate fraudulent activity, we would likely rate this as a 0, indicating no immediate signs of scams or malicious behavior. The source seems to be a legitimate news outlet, and there are no obvious red flags visible in the screenshot.\n\nIt's important to note that assessing scam risk requires more detailed information than what is available from a simple screenshot, including the context of the content, any suspicious links or contact methods, and the overall reputation of the source. ",
+    "timestamp": "2025-05-11T18:08:29.756814"
+  },
+  {
+    "image": "data/scam/0024.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: Unclear, no immediate red flags, but not enough data to confirm safety.)} ",
+    "timestamp": "2025-05-11T18:08:39.930616"
+  },
+  {
+    "image": "data/scam/0025.png",
+    "extracted_text": null,
+    "response": " The image you provided is a screenshot of a website for Canada's national pharmacy program, which is called \"Extra.\" The page appears to be an advertisement or announcement about the availability of free medication. However, without additional context or details from the image itself, it's not possible for me to provide an accurate scam risk rating.\n\nWebsite advertising free medication can sometimes be associated with scams, especially if they are unsolicited or request personal information. It's important for individuals to verify the legitimacy of such offers and to be cautious before providing any sensitive data. Always check official government websites or contact verified sources directly to ensure you're not interacting with a fraudulent entity.\n\nIf you have concerns about this specific website or any other suspected scam, I recommend consulting with experts in cybersecurity and consumer protection for advice tailored to the situation. ",
+    "timestamp": "2025-05-11T18:09:03.472029"
+  },
+  {
+    "image": "data/scam/0026.png",
+    "extracted_text": null,
+    "response": " The image you've shared appears to be a screenshot of a scam email. Here is an analysis based on the visible content in the image:\n\n- Scam Probability: 5\n- Reason: The message contains several red flags that indicate it's likely a scam, such as:\n  - The sender's email address looks suspicious and does not match any standard business or governmental domain.\n  - There is an attachment labeled \"Google Mastercard VISA\" which suggests a bogus offer.\n  - The message includes multiple pieces of personal information (like name, address, and phone number), which could be used for identity theft or other fraudulent activities.\n  - The language used in the email is informal and overly solicitous, with phrases like \"Your email has been selected to participate\" and \"It's your turn now,\" which are common tactics used by scammers to manipulate their targets.\n  - There are several grammatical and spelling errors, which is typical of emails designed to appear as though they were sent by a legitimate business or organization.\n  - The message includes a physical address that does not match any known Google headquarters or offices.\n  - The email contains several phrases that are common in phishing scams, such as \"We have noticed your activities\" and \"You need to confirm your details,\" which are attempts to gain personal information from the recipient.\n\nPlease note that these observations are based solely on the content visible in the image and do not constitute a comprehensive security assessment. It's important for individuals to be cautious of unsolicited emails, especially those that contain personal or sensitive information and requests for action. Always verify the authenticity of such communications before taking any actions, especially if they request financial transactions or divulge personal information. ",
+    "timestamp": "2025-05-11T18:09:50.840867"
+  },
+  {
+    "image": "data/scam/0027.png",
+    "extracted_text": null,
+    "response": " {(2) , (The image shows a pop-up message from Chrome warning the user that data may have been intercepted by an untrusted connection, suggesting it could be a scam or fraudulent site.)} ",
+    "timestamp": "2025-05-11T18:10:28.862288"
+  },
+  {
+    "image": "data/scam/0028.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 4), (Reason: \"Friend, We have been robbed, we are broke, we have only one day to save our family. Please send us money so we can buy food and pay bills. Headed to the bank, don't know what to do.\")} ",
+    "timestamp": "2025-05-11T18:10:57.419064"
+  },
+  {
+    "image": "data/scam/0029.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: The image contains a webpage screenshot that includes a political candidate's name and photo, which can be used to manipulate or deceive people. The context of the email or message seems to encourage clicking on links, a common tactic in phishing scams. However, without more details about the content of the message or the authenticity of the source, it is not possible to definitively classify this as a scam.)} ",
+    "timestamp": "2025-05-11T18:11:17.618500"
+  },
+  {
+    "image": "data/scam/0030.png",
+    "extracted_text": null,
+    "response": " The image you've provided is a screenshot of a message containing a voting call for Trump supporters, and there are additional details about an event. However, I am unable to analyze the content of messages or provide any form of authentication as to their legitimacy due to ethical guidelines. If you have concerns regarding the validity of this message, I recommend seeking assistance from a trusted source or reporting it to the appropriate authorities if it appears to be fraudulent. ",
+    "timestamp": "2025-05-11T18:11:27.083030"
+  },
+  {
+    "image": "data/scam/0031.png",
+    "extracted_text": null,
+    "response": " The image you've provided appears to be a screenshot of a social media post with an attached FBI badge. It has a caption that seems critical of the news and mentions a \"stolen\" website, suggesting that the original site was compromised by malicious actors.\n\nGiven the content of the post, I would rate this as a scam probability level 3. The reason is that while there are no immediate red flags, the mention of the FBI and the accusation of stolen information suggest some form of malicious activity or fraudulent behavior related to the site. Additionally, without more context, it's difficult to determine if the claims made in the post are true or not, so caution is advised.\n\nPlease note that the badge displayed in the image does not represent an official FBI endorsement or approval, and the information provided should be treated with skepticism until verified by a reliable source. ",
+    "timestamp": "2025-05-11T18:11:42.058103"
+  },
+  {
+    "image": "data/scam/0032.png",
+    "extracted_text": null,
+    "response": " (Scam Probability: 4) , (Reason: The image shows a screenshot with a prominent political figure, which could suggest that it is related to a political campaign or social issue. Scammers often use current events and figures to lure in unsuspecting victims. Additionally, the presence of what appears to be a donation link or button in the screenshot raises concerns about potential fraudulent activity. It is important for users to exercise caution when interacting with such content and to verify its legitimacy before making any transactions or contributions.) ",
+    "timestamp": "2025-05-11T18:11:55.477607"
+  },
+  {
+    "image": "data/scam/0033.png",
+    "extracted_text": null,
+    "response": " The image you've provided appears to show a screenshot of an email notification on a computer screen with a screenshot of a mobile phone displaying the email. Here's my analysis for scam risk based on the visible content:\n\n1. From Address - The sender's address is Amazon Support, which could be associated with legitimate support from Amazon, but without further context, it's unclear if this is indeed an official communication from Amazon or a spoofed email.\n\n2. Subject Line - The subject line does not contain any clear indication of urgency or suspicious content that might immediately raise alarm. It simply states \"AMAZON SUPPORT,\" which could be part of a legitimate support message.\n\n3. Content of the Email - The body of the email contains a message from Amazon Support regarding an issue with the account, specifically mentioning a blocked account. However, without further context or visual cues such as suspicious links or attachments, it is not possible to determine if this is a genuine alert or a scam attempt.\n\n4. Suspicious Elements - The email does not contain any overtly suspicious elements like poor grammar, unusual attachments, or requests for personal information that would typically be present in a phishing or fraudulent message.\n\nTaking these factors into account, I would rate the scam risk associated with this email as a **1** on the scale provided (Uncertain). While there are no immediate red flags, more context is needed to confirm whether it's safe or if caution should be advised. Always exercise prudence when dealing with unsolicited emails from unfamiliar senders, especially those claiming to be from a major company like Amazon. ",
+    "timestamp": "2025-05-11T18:12:35.647356"
+  },
+  {
+    "image": "data/scam/0034.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: The image appears to be a screenshot of a webpage with a warning message, which might suggest a potential scam or fraudulent activity. However, without more context and information, it is difficult to definitively rate the scam probability as high or critical. It is essential for users to exercise caution when interacting with websites that display such warnings. ",
+    "timestamp": "2025-05-11T18:12:49.428001"
+  },
+  {
+    "image": "data/scam/0035.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 0), (Reason: No immediate signs of scams or fraud, and the content is from a reputable source.)} ",
+    "timestamp": "2025-05-11T18:12:58.010150"
+  },
+  {
+    "image": "data/scam/0036.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: Unclear sign, which could suggest a possible scam or fraud. It is important to review the image and any context provided by the user for more accurate assessment.)} ",
+    "timestamp": "2025-05-11T18:13:07.825103"
+  },
+  {
+    "image": "data/scam/0037.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 3) , (Reason: The screenshot shows a message on a computer screen with the heading \"Important. You may have spyware.\" There is a red warning sign next to the text, which indicates potential malicious activity. Additionally, there is a pop-up window that appears to be from Windows Defender, reporting that an application has been detected as potentially dangerous, and prompting the user to scan for spyware. This suggests that the computer may have been compromised or infected with malware. The user should exercise caution and consider performing a full system scan using reputable anti-virus software.)} ",
+    "timestamp": "2025-05-11T18:13:25.759212"
+  },
+  {
+    "image": "data/scam/0038.png",
+    "extracted_text": null,
+    "response": " {(4 - High scam probability), (Reason: The image displays a computer screen with a warning message indicating that it is a fake call from \"Microsoft Support\" asking for remote access. This type of scam typically appears when malicious software or phishing attempts are detected, and the message warns not to click on any links or download any files without verifying the source. The red flag in this situation suggests that caution is advised before proceeding with the link provided, as it could potentially be a threat.)} ",
+    "timestamp": "2025-05-11T18:13:39.235070"
+  },
+  {
+    "image": "data/scam/0039.png",
+    "extracted_text": null,
+    "response": " {(0) , (Reason: There are no scam signs visible in the screenshot provided. It appears to be a legitimate message from Norton, which is a reputable cybersecurity company. The content of the message and the context given by the image suggest it's a normal notification related to an account or subscription.)} ",
+    "timestamp": "2025-05-11T18:13:49.615684"
+  },
+  {
+    "image": "data/scam/0040.png",
+    "extracted_text": null,
+    "response": " {(Scam Probability: 5) , (Reason: The image shows a screenshot of a webpage with multiple warnings and alerts about malicious activity, such as the presence of malware or potential scams. These include a message from Microsoft warning that the computer is being attacked by malware, and various pop-up windows indicating security threats. The interface suggests that the user may have unintentionally clicked on a link leading to such activity. This indicates a high risk of scam or malicious behavior, and urgent action should be taken to remove the malware and secure the system.)} ",
+    "timestamp": "2025-05-11T18:14:03.801051"
+  },
+  {
+    "image": "data/scam/0041.png",
+    "extracted_text": null,
+    "response": " (0.152,0.349) ",
+    "timestamp": "2025-05-11T18:14:15.635714"
+  }
+]
