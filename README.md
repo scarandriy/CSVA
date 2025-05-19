@@ -1,4 +1,5 @@
-# CSVA - Content Scam Visual Analyzer
+# Large Language and Visual Assistant for
+User-Centric Cybersecurity
 
 A sophisticated AI-powered system for detecting and analyzing potential scam content in images and text using advanced language models and computer vision techniques.
 
