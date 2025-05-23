@@ -14,7 +14,7 @@ true_negatives = 0  # Correctly identified legit (grade < 3 for legit images)
 false_positives = 0  # Incorrectly flagged as scam (grade >= 3 for legit images)
 false_negatives = 0  # Missed scams (grade < 3 for scam images)
 
-with open("logs/evaluation_log_20250514_151732.json", "r") as f:
+with open("logs/evaluation_log_20250519_223449.json", "r") as f:
     data = json.load(f)
 
 for item in data:

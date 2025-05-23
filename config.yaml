@@ -1,6 +1,5 @@
 # config.yaml
-active_profile: gemma3_4b_small_prompt
-small_llm: gemma3_1b
+active_profile: gemma3_4b
 
 
 profiles:
@@ -138,13 +137,6 @@ profiles:
 
         Thought: I now know the final answer.
 
-        Final Answer:
-        {
-          "Scam Probability": <integer from 0 to 5>,
-          "scam_type": "<type of scam, if applicable>",
-          "reason": "<...>"
-        }
-
         Scam Probability Scale:
         - 0 - No scam signs: Trusted, verified source; no signs of scam.
         - 1 - Uncertain: No immediate red flags, but not enough data to confirm safety.
@@ -152,11 +144,22 @@ profiles:
         - 3 - Moderate scam probability: Suggests possible scam/fraud. Review is needed. ANY popups about prizes, rewards, or milestones MUST be at least this level.
         - 4 - High scam probability: Strong indicators of malicious or scam-related activity.
         - 5 - Critical scam probability: Confirmed scam, malware, or phishing attempt. Urgent action required.
+        Respond using JSON.
+
+        Output Format:
+        {  
+          "reasoning": "<...>" 
+          "scam_type": "<type of scam, if applicable>",
+          "Scam Probability": <integer from 0 to 5>,
+        }  
+  
+      format: "json"
       params:
         stop: ["<end_of_turn>"]
         temperature: 1
         top_k: 64
         top_p: 0.95
+        
   gemma3_4b_small_prompt:
     image_processor: inherent
     llm:

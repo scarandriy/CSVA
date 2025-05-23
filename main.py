@@ -19,7 +19,7 @@ def one_time(pipeline):
 def full_test(pipeline):
 
     print("SUPPOSED TO BE LEGIT:")
-    for i in range(43):
+    for i in range(0, 189):
         if i < 10:
             i = "0" + str(i)
         t0 = time.perf_counter()              # start timer
@@ -29,7 +29,7 @@ def full_test(pipeline):
         print(f"{img_path} – {dt:.2f} s → {result}")
 
     print("SUPPOSED TO BE SCAM:")
-    for i in range(42):
+    for i in range(0, 189):
         if i < 10:
             i = "0" + str(i)
         t0 = time.perf_counter()              # start timer
@@ -62,16 +62,11 @@ def descriptor():
 def main():
     cfg       = load_full_config()
     prof_key  = cfg["active_profile"]
-    small_key  = cfg["small_llm"]
 
     profile   = cfg["profiles"][prof_key]
-    profile_small   = cfg["profiles"][small_key]
 
     img_proc  = make_image_processor(profile["image_processor"])
     llm       = make_llm(profile["llm"])
-
-
-    small_llm = make_llm(profile_small)
 
     memory   = MemoryBuffer(max_size=10)
     logger   = EvaluationLogger()
@@ -81,7 +76,6 @@ def main():
         llm             = llm,
         memory_buffer   = memory,
         logger          = logger,
-        small_llm       = small_llm
     )
 
 
