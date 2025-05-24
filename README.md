@@ -72,11 +72,4 @@ python test.py
 - `captures/`: Screenshot storage
 - `captions/`: Image caption storage
 
-## Performance Optimization
-
-The system is optimized for:
-- Efficient image processing
-- Parallel content analysis
-- Memory-efficient model loading
-- Configurable processing parameters
 
