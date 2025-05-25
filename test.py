@@ -14,7 +14,7 @@ true_negatives = 0  # Correctly identified legit (grade < 3 for legit images)
 false_positives = 0  # Incorrectly flagged as scam (grade >= 3 for legit images)
 false_negatives = 0  # Missed scams (grade < 3 for scam images)
 
-with open("logs/evaluation_log_20250519_223449.json", "r") as f:
+with open("logs/evaluation_log_20250525_002819.json", "r") as f:
     data = json.load(f)
 
 for item in data:
@@ -79,7 +79,7 @@ total_accuracy = ((true_positives + true_negatives) / total_files * 100) if tota
 print(f"True Positives (correctly identified scams): {true_positives}")
 print(f"True Negatives (correctly identified legit): {true_negatives}")
 print(f"False Positives (incorrectly flagged as scam): {false_positives}")
-print(f"False Negatives (missed scams): {false_negatives}")
+print(f"False Negatives (incorrectly flagged as legit): {false_negatives}")
 print(f"\nLegitimate Images Accuracy: {total_legit_accuracy:.1f}%")
 print(f"Scam Images Accuracy: {total_scam_accuracy:.1f}%")
 print(f"Overall Accuracy: {total_accuracy:.1f}%")

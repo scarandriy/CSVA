@@ -83,10 +83,11 @@ profiles:
         - Lack of Personalization: Generic greetings or sign-offs
 
         Website Scam Indicators:
+        - URL mismatch: URL doesn't match with the web site
+        - Suspicious URL: unusual patterns, attempts to seem like a trusted URL
         - Low Prices / Free Claims: Unrealistically low prices or freebies
         - High Payout Promises: Promises of unusually large sums
         - Non-existent Company Info: Fake or ambiguous company details
-        - Suspicious URL: Unusual URL patterns or IP-based addresses
         - Branding Inconsistencies: Inconsistent logos or color schemes
         - Image Manipulation: Signs of tampering or low-quality images
         - Text-Image Mismatch: Discrepancies between text and visuals
@@ -148,9 +149,10 @@ profiles:
 
         Output Format:
         {  
-          "reasoning": "<...>" 
+          "reasoning": "<...>",
+          "scam_indicators": "[indicators]"
           "scam_type": "<type of scam, if applicable>",
-          "Scam Probability": <integer from 0 to 5>,
+          "Scam Probability": <integer from 0 to 5>
         }  
   
       format: "json"

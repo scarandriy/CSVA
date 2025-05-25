@@ -1,0 +1,650 @@
+[
+  {
+    "image": "data/legit/00228.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Amazon login page. It contains the standard elements for logging into an Amazon account: email/phone number field, password field, and a 'Show password' option. There are no immediately obvious red flags. It\u2019s a standard login page. This is a common and expected interface.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:29:17.184447"
+  },
+  {
+    "image": "data/legit/00229.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a Gmail inbox with two unread emails. The subject of one email is 'Security alert' and the other is 'Google Community Team'. The content of the emails appears to be standard promotional or informational messages from Google. There are no immediate red flags or suspicious elements visible in the screenshot. The overall appearance is consistent with a legitimate email client interface.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:30:00.428600"
+  },
+  {
+    "image": "data/legit/00230.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Apple Music app interface. It presents a list of radio stations categorized by genre. There are no immediately obvious indicators of scamming or malicious behavior. The interface is standard for a music streaming application. The app is legitimate and there are no unusual elements present.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:30:40.116141"
+  },
+  {
+    "image": "data/legit/00231.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows an email from Google Account Team regarding a security alert. There are also emails from Expedia. The Google email appears legitimate, as it confirms a security recovery. The Expedia emails advertise deals on luxury getaways. No immediate red flags are present. The presence of promotional emails doesn't automatically indicate a scam, but it's important to be cautious about unsolicited offers. It is also a browser with a UI for an email client, likely an outlook or similar. The email window is an email client, which is normal.\",\n  \"scam_indicators\": \"None observed.\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-25T00:31:21.822031"
+  },
+  {
+    "image": "data/legit/00232.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Apple Books interface. It displays a list of popular books and categories, including titles such as \\\"Code Red\\\", \\\"The Chronicles of Kerrian Box Set\\\", and \\\"Elon Musk\\\". There are no immediately apparent scam indicators. The interface is standard for a legitimate e-commerce platform.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:32:01.917335"
+  },
+  {
+    "image": "data/legit/00233.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a calculator application on a macOS environment. There are no immediately obvious signs of a scam. The interface is standard for a calculator, and there are no unusual or suspicious elements visible in the screenshot. The interface is clean and there are no obvious red flags.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:32:41.108789"
+  },
+  {
+    "image": "data/legit/00234.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot depicts a to-do list application. There are no immediately apparent scam indicators present. The interface is clean and standard for a task management application.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:33:19.602956"
+  },
+  {
+    "image": "data/legit/00235.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a typical macOS Finder window. There are several folders open, including Downloads, iCloud Drive, and various project folders. There are no immediately obvious indicators of a scam or malicious activity. The interface looks normal and there's no suspicious content visible.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:34:02.193760"
+  },
+  {
+    "image": "data/legit/00236.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the sound settings panel within a Linux desktop environment. There are several audio settings like volume levels, output device selection, balance adjustments, and alert sound customization options. There are no immediately obvious scam indicators present. The interface appears to be legitimate and standard for audio configuration.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:34:43.585962"
+  },
+  {
+    "image": "data/legit/00237.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a map of London. There is no suspicious activity or unusual elements present. It\u2019s a standard map interface, and doesn't exhibit any indications of scams, fraud, or malicious behavior. \",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:35:25.545794"
+  },
+  {
+    "image": "data/legit/00238.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a standard desktop environment with icons for applications like Documents, Downloads, Music, Pictures, Videos, and Templates. There are no immediately apparent scam indicators present. The interface is clean and typical of a desktop operating system.  No unusual elements or red flags are visible.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:36:06.909826"
+  },
+  {
+    "image": "data/legit/00239.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a simple PDF file. There are no immediately obvious scam indicators present. The text content is generic and unremarkable. The UI seems standard for a PDF viewer. No unusual links, urgent requests, or deceptive elements are present.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:36:46.961426"
+  },
+  {
+    "image": "data/legit/00240.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot depicts the Microsoft 365 app store. There are several apps for purchase, including financial management and weather apps. There are no immediately obvious scam indicators. The apps appear legitimate, and the interface is standard for an app store.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:37:27.724860"
+  },
+  {
+    "image": "data/legit/00241.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a standard desktop environment with a typical system tray and applications. There are no immediately obvious signs of scams or malicious behavior. The system tray shows icons for CM-Secure, Bluetooth Settings and a clock. The background is a dark gray with a white wolf. There are no unusual popups or visual elements present. The interface appears to be clean and standard.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:38:08.202956"
+  },
+  {
+    "image": "data/legit/00242.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a calendar application displaying January 5, 2024. There is no specific content or elements that immediately suggest a scam or security threat. The interface appears standard and typical for a calendar application. No unusual links, or suspicious text are detected. The UI/UX is straightforward and does not contain any obfuscating elements. The calendar seems legitimate and safe.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:38:49.332844"
+  },
+  {
+    "image": "data/legit/00243.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a timer interface with a stopwatch and lap data. There are no visual cues suggesting a scam or malicious activity. The interface is functional and appears to be a standard timer application.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:39:28.808974"
+  },
+  {
+    "image": "data/legit/00244.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Expedia homepage. It displays a typical travel booking website interface with various travel options (Stays, Flights, Cruises, Packages). There are no immediately obvious scam indicators such as unusual links, high-pressure messaging, or false promises. The page is clean and standard for a travel booking site. There is a promotional message about earning OneKey cash, but it doesn't appear manipulative. The URL is likely valid and hosted by Expedia. The visual elements are typical of a legitimate travel website.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:40:13.261433"
+  },
+  {
+    "image": "data/legit/00245.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a chat window with several messages. There are no immediately obvious scam indicators present. The messages are casual and friendly, discussing plans and activities. There is a reference to \"50 bucks,\" which could be a potential red flag if it's associated with a request for money, but without further context, it's difficult to determine if it's legitimate or a manipulative tactic. The overall tone and content are normal and do not suggest any malicious intent. No suspicious URLs or urgent requests for information are present.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-25T00:40:55.358532"
+  },
+  {
+    "image": "data/legit/00246.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Apple News app interface. It displays top stories, including headlines about Hunter Biden and a news article about Donald Trump. There are no obvious scam indicators present in the screenshot itself. The interface appears standard and legitimate.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:41:36.565367"
+  },
+  {
+    "image": "data/legit/00247.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Audible Library interface. The interface displays a list of Audible audiobooks, including titles like \\\"The Sweet Spot\\\", \\\"The Ants of Bimbledy Hill\\\", and \\\"Three Steps, Three Knocks\\\". There is nothing overtly suspicious about the layout or content displayed. The interface appears to be a legitimate audiobook library application.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:42:16.590641"
+  },
+  {
+    "image": "data/legit/00248.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a document being edited with Grammarly. The text discusses the ethical arguments around euthanasia, specifically comparing active and passive euthanasia. While the document itself isn't a direct scam, the topic of euthanasia is frequently associated with fraudulent schemes, particularly those involving financial exploitation. The text contains complex arguments, which could be used to mislead users. The existence of Grammarly itself isn't a scam indicator, but the subject matter and the tool's presence warrant a cautious assessment.\",\n  \"scam_indicators\": [\"Complex arguments on a sensitive topic\", \"Presence of Grammarly (a potentially distracting/misleading tool)\"],\n  \"scam_type\": \"Potentially misleading content\",\n  \"Scam Probability\": 2\n}\n```",
+    "timestamp": "2025-05-25T00:42:58.713793"
+  },
+  {
+    "image": "data/legit/00249.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a webpage displaying stock market data and news headlines related to various economic events including the U.S., Saudi Arabia, E.U. and the Russian rail port deal. There are no immediate signs of scams or malicious activities. However, the overall presentation includes elements of confirmation bias and framing to promote a certain narrative regarding rising health insurance costs. The article itself is likely to contain a biased opinion regarding the rising health insurance costs which is a potentially misleading element.\",\n  \"scam_indicators\": [\n    \"Confirmation bias\",\n    \"Framing to promote a certain narrative\"\n  ],\n  \"scam_type\": \"Information Manipulation\",\n  \"Scam Probability\": 2\n}\n```",
+    "timestamp": "2025-05-25T00:43:42.035214"
+  },
+  {
+    "image": "data/legit/00250.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Spotify app, displaying audiobook covers. There is a prominent 'Sponsored' label, indicating that the current view is promoted content. This alone doesn't necessarily indicate a scam, but it's a common tactic used in advertising and promotions. There are no obvious red flags like suspicious links, urgent requests, or unusual website URLs. The screenshot presents a legitimate audio streaming service interface.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-25T00:44:23.536885"
+  },
+  {
+    "image": "data/legit/00251.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a photo app interface. It shows an album named \u2018Travel 2023\u2019 along with thumbnails of images, indicating a user is browsing through their photo collection. There are no obvious red flags or suspicious elements present in the interface itself. The interface is consistent with a standard photo application, suggesting a safe browsing experience.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:45:06.237439"
+  },
+  {
+    "image": "data/legit/00252.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot depicts a calendar application showing various scheduled events and reminders. There are no overtly suspicious elements present. The UI is clean and standard, without any unusual features or manipulations that would immediately indicate a scam. The application appears to be a standard calendar. No immediate red flags detected.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:45:46.086022"
+  },
+  {
+    "image": "data/legit/00253.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a text editor window with a paragraph about William Shakespeare. There are some spelling errors and awkward phrasing (\\\"at least 37 plays, 154 sonnets, and 2 narrative poems-capture the range of human emotion and conflict more than 480 years.\\\"). There are no immediately obvious scam indicators. However, the writing quality suggests it may be a low-quality source. The text itself is not inherently malicious, but the quality warrants caution.\",\n  \"scam_indicators\": [\"Poor Writing Quality\"],\n  \"scam_type\": \"Low-Quality Content\",\n  \"Scam Probability\": 2\n}\n```",
+    "timestamp": "2025-05-25T00:46:28.641198"
+  },
+  {
+    "image": "data/legit/00254.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a chat window with a conversation between two users. The messages are casual and friendly, discussing plans for the weekend. There are no unusual links, suspicious requests, or misleading elements. The interface is standard for a messaging application. The image doesn't display anything that looks malicious or scam-related.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:47:09.187337"
+  },
+  {
+    "image": "data/legit/00255.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the Microsoft Outlook calendar. There are several dates highlighted, including September 16th for \\\"Columbus Day\\\" and September 19th for \\\"Indigenous Peoples' Day.\\\" There are no immediately obvious scam indicators present. The UI is standard for Outlook, and there\u2019s no unusual text, URLs, or design elements suggesting a scam.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:47:50.814016"
+  },
+  {
+    "image": "data/legit/00256.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a terminal window with a command prompt. The command `sh -c 'open https://support.apple.com/HT288859'` is visible, which is an attempt to open a support page for Apple. While not inherently malicious, it is a potential phishing attempt, given the user might be tricked into visiting a fake support page. The fact that the URL is initiated from the terminal suggests an attempt to direct the user to a potentially fraudulent resource.\",\n  \"scam_indicators\": [\n    \"Suspicious URL: The URL provided is a support link to Apple, but it is a link initiated from the terminal, which is concerning.\",\n    \"Urgent Financial Requests: Not immediately apparent, but the URL is a possible phishing attempt to gather information or install malware.\"\n  ],\n  \"scam_type\": \"Phishing\",\n  \"Scam Probability\": 3\n}\n```",
+    "timestamp": "2025-05-25T00:48:34.736842"
+  },
+  {
+    "image": "data/legit/00257.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the System Preferences window of a macOS environment. There are no immediately apparent scam indicators present. The window is a standard macOS application and doesn't display any suspicious elements like fake offers, misleading language, or unusual UI elements. The window is the standard System Preferences, and it does not contain any popups or elements that suggest a scam. \",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:49:15.501816"
+  },
+  {
+    "image": "data/legit/00258.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a desktop environment with a beach-themed wallpaper. There is an open window displaying a video (likely a nature video). There are several open applications, including a file manager, a video player, and a system settings window. There are no obvious elements that indicate a scam or security threat.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:49:59.010344"
+  },
+  {
+    "image": "data/legit/00259.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a world map with weather forecasts for various cities. There are no immediate red flags or suspicious elements present in the image itself. The layout is clean and doesn't appear to utilize manipulative design techniques like fake scarcity or confusing language. The inclusion of weather forecasts is a normal and expected feature of this type of interface.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:50:44.418633"
+  },
+  {
+    "image": "data/legit/00260.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Windows 11 Settings app. There are no immediately obvious scam indicators present. The interface is standard and doesn't exhibit any suspicious elements like fake scarcity, unusual links, or coercion. The presence of 'Rewards' suggests a legitimate promotion, but without further investigation, it's difficult to confirm its legitimacy.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:51:27.448178"
+  },
+  {
+    "image": "data/legit/00261.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a Windows 11 desktop with several commonly used apps arranged in the taskbar and start menu. There are no immediately obvious scam indicators present. The apps displayed are standard productivity and entertainment applications, suggesting a typical user environment. I don't see any unusual links, urgent requests, or visual manipulations.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:52:12.880442"
+  },
+  {
+    "image": "data/legit/00262.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the macOS interface with various apps like Zoom and Calendar. There are no immediately obvious scam indicators present. The interface is clean and professional, with no unusual elements or deceptive practices evident.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:52:56.102023"
+  },
+  {
+    "image": "data/legit/00263.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a standard Windows 11 desktop environment with a file explorer window open. The window contains several folders such as \\\"documents\\\", \\\"downloads\\\", \\\"pictures\\\" and \\\"programs\\\". There are no immediately obvious scam indicators such as unusual links, high-pressure messages, or suspicious offers. The file explorer is a standard application and there is no indication of malicious activity.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:53:41.191237"
+  },
+  {
+    "image": "data/legit/00264.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Apple Books interface. It displays a book titled \\\"Great Expectations\\\". There are no unusual elements, suspicious links, or pressure tactics. The interface is standard for the Apple Books application. There are no immediate scam indicators present.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:54:24.193427"
+  },
+  {
+    "image": "data/legit/00265.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a very basic, empty travel booking page. There are fields for selecting destinations, dates, and number of travelers. There is a search button. There are no obvious red flags or scam indicators present. The page is clean and straightforward.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:55:07.547407"
+  },
+  {
+    "image": "data/legit/00266.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a typical file explorer window with various folders and files. There are no immediately obvious red flags or suspicious elements. The folders include \\\"Backup\\\", \\\"Desktop\\\", \\\"Downloads\\\", \\\"Personal\\\", \\\"Projects\\\", \\\"Report.xml\\\", and \\\"Work\\\". The files appear to be standard documents and images. No unusual URLs, prompts, or layouts are present. It's a standard file system view.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:55:52.095349"
+  },
+  {
+    "image": "data/legit/00267.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a screenshot of Grammarly Editor. There are several suggestions from Grammarly, indicating potential issues with the text. While not inherently malicious, the presence of numerous suggestions from a writing assistant suggests a potential attempt to influence the user's writing or possibly a misleading presentation of a writing assistance tool. The \"USD 0.00/54%...\" suggests a premium subscription offering, which could be a tactic to lure users into a paid service. The use of a writing assistant like Grammarly is legitimate, but the sheer number of suggestions combined with the premium subscription details raises a moderate level of suspicion.\",\n  \"scam_indicators\": [\n    \"Fake Scarcity / Fake Urgency (USD 0.00/54%)\",\n    \"Jargon (USD 0.00/54%)\"\n  ],\n  \"scam_type\": \"Potential Misleading Marketing/Subscription Trap\",\n  \"Scam Probability\": 3\n}\n```",
+    "timestamp": "2025-05-25T00:56:41.314564"
+  },
+  {
+    "image": "data/legit/00268.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot depicts a standard file explorer interface. There are no immediately obvious signs of scam activity. The interface is clean and well-organized, with common folders such as Desktop, Documents, Downloads, and Pictures displayed. The presence of a few files (readme.md, manual.bat) doesn\u2019t inherently indicate any malicious intent. No unusual popups or indicators of urgency are visible.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:57:24.933931"
+  },
+  {
+    "image": "data/legit/00269.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a calendar. There are no obvious scam indicators present. It's a standard calendar interface. The window is open, but it\u2019s just a calendar. No prompts, unusual calls to action, or suspicious URLs are present.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:58:08.886013"
+  },
+  {
+    "image": "data/legit/00270.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the settings for the Archive Manager application. There are no immediately obvious scam indicators present. The interface is standard and clean, displaying configuration options for file handling and system features. No suspicious URLs, unusual links, or pressure tactics are visible.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:58:50.798447"
+  },
+  {
+    "image": "data/legit/00271.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a calendar application. There is no immediately obvious indication of a scam or malicious activity. The interface looks standard and doesn\u2019t contain any of the typical indicators of fraudulent websites or messages.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T00:59:31.997130"
+  },
+  {
+    "image": "data/legit/00272.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a typical desktop environment with several open windows. There are lists, calendar items, and standard application icons. There are no obvious visual red flags that immediately suggest a scam. The screens appear to be fairly standard.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:00:14.402854"
+  },
+  {
+    "image": "data/legit/00273.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a screenshot of Apple Music\u2019s library. There are no immediately obvious scam indicators present. The interface is standard and functional. There are no unusual links, high-pressure prompts, or any other red flags visible in the screenshot itself. It appears to be a genuine display of a music library.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:00:57.961484"
+  },
+  {
+    "image": "data/legit/00274.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a map of Regent's Park in London. The interface shows various map features, information about the park, and some standard map elements. There are no immediately obvious scam indicators present in the visual elements. It\u2019s a standard mapping application interface. No suspicious URLs, offers, or messaging are visible. \",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:01:41.197734"
+  },
+  {
+    "image": "data/legit/00275.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a webpage from TastingTable. The page is promoting various food items and recipes. There are several elements that could be considered potential scam indicators. Firstly, the article content itself doesn't immediately scream 'scam'. However, the use of multiple high-quality food images and direct calls to action (\"Shop Now\", \"Read More\") is common in affiliate marketing, which can be associated with scams. The URL itself is not provided, but the site does not provide specific details about the authors or its mission beyond basic information. The images are appealing, but the lack of transparency is a concern. I will use the tools to analyze the specific text and URL (if available).\",\n  \"scam_indicators\": [\"Promotional content\", \"Lack of transparency\"],\n  \"scam_type\": \"Affiliate Marketing / Potential Scam\",\n  \"Scam Probability\": 3\n}\n```",
+    "timestamp": "2025-05-25T01:02:27.937399"
+  },
+  {
+    "image": "data/legit/00276.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The email claims \\\"macOS was granted access to your Google account.\\\" This is a classic phishing attempt. The sender address, jdoe0779@gmail.com, is a generic Gmail address and doesn't align with typical Google communication. The subject line \\\"Security alert\\\" is also a common tactic to create urgency and mislead the recipient. The email directs the user to \\\"check activity\\\" which is likely a link to a fake Google account page designed to steal credentials.\",\n  \"scam_indicators\": [\n    \"Suspicious Sender\",\n    \"Sense of Urgency\",\n    \"Unsolicited Messaging\"\n  ],\n  \"scam_type\": \"Phishing\",\n  \"Scam Probability\": 5\n}\n```",
+    "timestamp": "2025-05-25T01:03:13.067485"
+  },
+  {
+    "image": "data/legit/00277.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows an email inbox with multiple emails. One email is from Expedia with the subject \\\"Plan your luxury getaway for less\\\". Another email is from an unknown sender with Chinese text and a screenshot of a cutout of a webpage. The URL of the webpage is not visible. There is also a Chinese email with a Chinese URL. The presence of an unsolicited email with a vaguely worded subject like \\\"Plan your luxury getaway for less\\\" raises suspicion, alongside the unknown sender. The presence of Chinese text also raises suspicion.\\n\\nI will use the tools to analyze the URLs and the text.\",\n  \"scam_indicators\": [\n    \"Unsolicited Messaging\",\n    \"Suspicious URL\",\n    \"Jargon\"\n  ],\n  \"scam_type\": \"Phishing/Deceptive Marketing\",\n  \"Scam Probability\": 3\n}\n```",
+    "timestamp": "2025-05-25T01:03:57.766618"
+  },
+  {
+    "image": "data/legit/00278.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a standard account creation form for Prime Video. The form requests basic information such as first name, mobile number, and password. There are no immediate red flags or suspicious elements present. The presence of a disclaimer about Terms of Use further indicates a legitimate service.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:04:38.057985"
+  },
+  {
+    "image": "data/legit/00279.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a blank document with a few lines of text. There are no immediately obvious scam indicators present. The document itself appears to be a basic text editor, and the text content is unremarkable.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:05:18.507622"
+  },
+  {
+    "image": "data/legit/00280.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a beautiful tropical landscape, likely a promotional image for a resort or travel destination. There are no immediately obvious scam indicators present. The image is high-quality, the scene appears natural, and the UI elements visible (play buttons, thumbnails) are typical of a media player or photo gallery application.  I don't see any unusual links, pressure tactics, or misleading information.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:06:01.936999"
+  },
+  {
+    "image": "data/legit/00281.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a macOS terminal window. There is a bash shell prompt with the username 'raghavs-mbp-2' and a directory listing. There are no obvious scam indicators present in the screenshot itself. The interface is a standard terminal window. The appearance is consistent with a normal user interacting with their operating system, with no signs of deceptive or manipulative design.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:06:43.761217"
+  },
+  {
+    "image": "data/legit/00282.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a blank Notepad window. There are no obvious indicators of scams or malicious behavior. The interface is clean and doesn\u2019t contain any suspicious elements. It is a simple text editor.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:07:23.488692"
+  },
+  {
+    "image": "data/legit/00283.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the System Preferences window for Desktop & Screen Saver on macOS. It shows options for selecting wallpapers, including dynamic and light/dark themes. There are no immediately obvious scam indicators present. It\u2019s a standard macOS interface. No suspicious links, URLs, or requests for personal information are visible.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:08:06.176986"
+  },
+  {
+    "image": "data/legit/00284.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a weather dashboard with various cities and their corresponding weather information. There are no immediately apparent scam indicators present. The interface consists of weather forecasts, city names, and temperature readings. The design is clean and functional, with no manipulative elements or unusual features. The interface appears to be a standard weather app.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:08:49.204062"
+  },
+  {
+    "image": "data/legit/00285.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a text editor window with a paragraph of text describing William Shakespeare. The text itself does not contain any immediately obvious scam indicators. It appears to be a basic biographical description, which is a safe scenario. There are no unusual links, aggressive language, or requests for personal information. This is a standard document, so I have a low probability of detecting a scam.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:09:30.204812"
+  },
+  {
+    "image": "data/legit/00286.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a typical desktop environment with several open windows, including a video player and a video player. The screen is mostly empty with a search bar in the top right corner.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:10:09.682472"
+  },
+  {
+    "image": "data/legit/00287.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a reminder app interface. It displays a list of reminders with titles and times. There is no immediately suspicious elements in the screenshot. It seems like a standard reminder application interface.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:10:48.776557"
+  },
+  {
+    "image": "data/legit/00288.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a Spotify playlist view. The interface appears standard for Spotify. There are no immediately obvious scam indicators present, such as unusual links, high-pressure messaging, or deceptive offers. The interface is clean and functional, indicating a legitimate music streaming service.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:11:30.849187"
+  },
+  {
+    "image": "data/legit/00289.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a financial dashboard with various stock information for Apple (AAPL). There are charts displaying stock performance over different timeframes (1D, 1M, 3M, 6M, YTD, 1Y, 2Y, 5Y, 10Y), along with key financial metrics such as price, volume, P/E ratio, S2H, and EPS. There are also news snippets related to Apple. No immediate indicators of a scam are present. The dashboard displays legitimate financial data.\\n\\n\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:12:13.478793"
+  },
+  {
+    "image": "data/legit/00290.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the App Store page for the game 'Township'. It displays information about the game including the rating, age recommendation, developer, and size. There are no obvious red flags or suspicious elements present. The visuals are consistent with a standard app store listing for a mobile game. The text doesn't contain any urgent requests or misleading language.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:12:56.695163"
+  },
+  {
+    "image": "data/legit/00291.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a desktop environment, likely Ubuntu Linux (based on the 'Cheese' app icon). There is a window open displaying the Cheese app. The window has a picture of an exit sign. The overall appearance seems normal. No suspicious elements are immediately visible.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:13:38.214293"
+  },
+  {
+    "image": "data/legit/00292.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows multiple Audible windows open, displaying audiobook covers and controls. There's no immediately obvious scam indicators present. The interface appears to be a legitimate audiobook application. The windows display titles such as 'Three Steps, Three Knocks', 'Pearl on Her Toes', 'Gingerella', and 'A Tale of Fierie'. No suspicious URLs, urgent requests, or unusual design elements are visible.\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:14:20.306180"
+  },
+  {
+    "image": "data/legit/00293.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a simple timer application. There are no obvious signs of scamming or malicious activity. It is a standard timer interface with basic controls.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:14:59.489755"
+  },
+  {
+    "image": "data/legit/00294.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a calendar interface within Microsoft Outlook. There are no apparent scam indicators present in the UI. It\u2019s a standard calendar application, and there's nothing to suggest malicious behavior or a scam attempt. The display is clean and consistent with a typical calendar interface.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:15:39.443747"
+  },
+  {
+    "image": "data/legit/00295.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a simple text message: 'ypb@andrew.cmu.edu'. There is no website, no form, no unusual elements. The URL is a valid email address for Carnegie Mellon University. It appears to be an invitation or notification. The screenshot doesn't show any apparent scam indicators.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:16:20.223406"
+  },
+  {
+    "image": "data/legit/00296.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a standard Windows 11 desktop environment. There are icons representing common folders like Documents, Downloads, Pictures, and Programs. There are no immediately obvious scam indicators present based on this visual inspection. The interface is clean and unremarkable.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:16:59.926513"
+  },
+  {
+    "image": "data/legit/00297.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Xbox Game Bar settings window in Windows. There are no immediately apparent scam indicators present. The interface is standard and does not exhibit any of the deceptive tactics typically associated with scams.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:17:39.253429"
+  },
+  {
+    "image": "data/legit/00298.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the Microsoft Store gaming section. There are several popular games displayed, including Forge of Empires, Roblox, Candy Crush Saga, and Minecraft. There are no immediately obvious scam indicators based on the visual elements shown. The screenshots showcase legitimate gaming apps, and the interface is consistent with the Microsoft Store design.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:18:20.301551"
+  },
+  {
+    "image": "data/legit/00299.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Apple Music app interface. There are no immediately obvious scam indicators present. The interface is standard for a music streaming application. There are no unusual links, pressure tactics, or false promises visible.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:19:01.860120"
+  },
+  {
+    "image": "data/legit/00300.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Windows 10 Battery settings. There are no immediately obvious scam indicators present. The settings are standard and relate to power management. The screenshot contains no suspicious links, urgent requests, or misleading information. The UI appears normal and consistent with the Windows operating system.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:19:42.239197"
+  },
+  {
+    "image": "data/legit/00301.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Microsoft Store interface. There are several apps listed, including Microsoft Photos, Mail and Calendar, Windows Media Player, and others. No immediately suspicious elements are visible. However, the unusual app name \u201c\u8d44\u884c\u827a\u201d (Z\u012bx\u00edngy\u00ec) is a potential red flag. It\u2019s a Chinese phrase that translates to \u2018skill and craft\u2019.  This could be a malicious app disguised as a legitimate one. Further investigation into this app is warranted.  The other apps are standard Microsoft products, and the UI elements appear normal. \\n\\n\",\n  \"scam_indicators\": [\"Unusual App Name\"],\n  \"scam_type\": \"Potential Malware/Phishing\",\n  \"Scam Probability\": 3\n}\n```",
+    "timestamp": "2025-05-25T01:20:25.651458"
+  },
+  {
+    "image": "data/legit/00302.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a world clock application displaying the current time in New Delhi and Adelaide. There are no unusual elements, suspicious links, or pressures for immediate action. The interface appears clean and straightforward, displaying relevant information in an organized manner. There are no visual irregularities or deceptive design elements that would suggest a scam.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:21:07.463951"
+  },
+  {
+    "image": "data/legit/00303.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Zoom app\u2019s \u2018My Apps\u2019 screen. This is a legitimate app interface. There are no obvious scam indicators present. The UI elements are standard and consistent with the Zoom app's design.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:21:46.951775"
+  },
+  {
+    "image": "data/legit/00304.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a calendar showing dates in January 2024. There are no immediately apparent scam indicators. The calendar is a standard format and doesn't contain any unusual elements or suspicious wording.  It is a simple calendar display.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:22:28.109777"
+  },
+  {
+    "image": "data/legit/00305.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Amazon Prime Video interface, displaying a list of profiles. There are no obvious scam indicators present. The interface is standard and does not contain any elements suggestive of phishing, fraud, or malicious activity. The UI is clean and unremarkable.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:23:10.152710"
+  },
+  {
+    "image": "data/legit/00306.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a Microsoft Calendar window. There is no immediately obvious scam indicator. The interface appears legitimate, and there's no unusual content, links, or prompts. It is a standard calendar application.\\n\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:23:50.242189"
+  },
+  {
+    "image": "data/legit/00307.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a Google Maps interface with the Regent's Park highlighted. There are no immediately obvious scam indicators present. The interface is clean and professional, showing standard Google Maps features. I can see a location search bar, a list of recent searches, and a map view. The interface seems legitimate.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:24:31.703881"
+  },
+  {
+    "image": "data/legit/00308.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a typical macOS desktop with several open applications (Slack, Safari, etc.). There are no immediately obvious scam indicators present. The screen is clean and doesn't contain any suspicious elements or unusual interface quirks.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:25:12.620919"
+  },
+  {
+    "image": "data/legit/00309.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a Grammarly Editor interface. There are several text boxes with notes related to a discussion about Federated Learning and a paper by Hume. The content seems to be purely academic and intellectual. There are no obvious scam indicators present in the text or interface.\\n\\nI will now use the tools to verify the screenshot.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:25:53.192077"
+  },
+  {
+    "image": "data/legit/00310.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a photo app interface, specifically the \u2018Nature\u2019 album. The interface is standard for a photo gallery application and doesn\u2019t exhibit any immediately obvious indicators of scams or malicious behavior. There are no unusual URLs, pressured messages, or deceptive design elements. The interface is clean and focused on displaying images.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:26:36.683507"
+  },
+  {
+    "image": "data/legit/00311.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a code editor with Python code that implements the Sieve of Eratosthenes algorithm to find prime numbers. There is no indication of any scam or malicious activity. The code appears legitimate and focuses on a mathematical algorithm.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:27:16.247314"
+  },
+  {
+    "image": "data/legit/00312.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Spotify app displaying the \\\"Encore (Deluxe Version)\\\" album. There are no immediately obvious scam indicators. The interface appears standard for Spotify, and there isn't any unusual or suspicious elements within the Spotify interface itself.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:27:56.263766"
+  },
+  {
+    "image": "data/legit/00313.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a website offering tours and attractions in New York City. There are several tour options listed with prices ranging from $33 to $49. The website prominently displays a \\\"September Sales Deals\\\" banner and mentions discounts for members. The overall design appears legitimate, but the prominent discounts and member benefits might be used to entice users. There isn\u2019t an obvious strong indication of a scam, but it warrants caution. I'll use the tools to investigate further.\",\n  \"scam_indicators\": [\"September Sales Deals\", \"Take advantage of our discounted rates! Members can save even more on our activities!\"],\n  \"scam_type\": \"Potentially misleading offers, Discount Scams\",\n  \"Scam Probability\": 2\n}\n```",
+    "timestamp": "2025-05-25T01:28:43.178703"
+  },
+  {
+    "image": "data/legit/00314.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a news article from Reuters about the G20 summit and the unveiling of a multinational rail and ports deal linking the Middle East and South Asia. The content of the screenshot doesn't appear to contain any obvious scam indicators. The image features people at a conference, news headlines, and logos of various companies, which are standard for a news article. There are no unusual links, pressure tactics, or misleading claims.\",\n  \"scam_indicators\": \"None\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:29:25.798216"
+  },
+  {
+    "image": "data/legit/00315.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Battery settings in macOS. There are several options for optimizing battery usage, such as dimming the display, optimizing video streaming, and enabling Low Power Mode. There are no immediate signs of a scam or malicious activity. The interface appears legitimate, and the settings are typical for a macOS device.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:30:08.898003"
+  },
+  {
+    "image": "data/legit/00316.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a weather application interface. It shows current weather conditions, forecasts, and maps. There are no immediately obvious scam indicators. However, the presence of a weather app itself isn\u2019t inherently suspicious. I need to ensure there aren\u2019t any hidden mechanisms or redirects that could lead to a scam. A URL verification check could be useful if this was a web page.\",\n  \"scam_indicators\": \"None apparent\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-25T01:30:52.816611"
+  },
+  {
+    "image": "data/legit/00317.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows an email from \\\"The Google Account Team\\\". The subject line says \\\"Security alert\\\". The body text mentions a password change and an account recovery success. While it's a legitimate Google email, this type of message is often used in phishing attacks to trick users into clicking malicious links or providing sensitive information. The sender address is jdo0779@gmail.com, which is an unusual Gmail address. The email appears to be an attempt to gain trust and then leverage the user into potentially compromising their Google account. It\u2019s a classic phishing tactic.\",\n  \"scam_indicators\": [\n    \"Suspicious Sender: Sender address mismatch or unknown\",\n    \"Urgent Financial Requests: Demands for immediate transfers\",\n    \"Sense of Urgency: Pressures for immediate action\"\n  ],\n  \"scam_type\": \"Phishing\",\n  \"Scam Probability\": 4\n}\n```",
+    "timestamp": "2025-05-25T01:31:37.920205"
+  },
+  {
+    "image": "data/legit/00318.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a webpage with a text excerpt from a book. There are no immediately obvious scam indicators. The text discusses a man named Jorge Castro who is trying to lose weight. There are no unusual links, suspicious URLs, or any other elements commonly associated with scams. The content is relatively benign and does not appear to be designed to trick the user.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:32:19.808877"
+  },
+  {
+    "image": "data/legit/00319.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a standard desktop environment with several installed applications such as Additional Drive, Aisleriot Solitaire, Audible, Brave Web Browser, Calculator, Calendar, Cheese, Discord, Document Scan, Extensions, Files, Firefox Web Browser, gedit, Help, Language Support, LibreOffice Calc, LibreOffice Draw, LibreOffice Writer, Livepatch, Mahjongg, Mines, NVIDIA X Server, Power Statistics. There are no immediately obvious scam indicators present. The icons are standard and the layout appears normal.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:33:02.233528"
+  },
+  {
+    "image": "data/legit/00320.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a weather application displaying weather information for various cities. There are no immediate visual or textual cues suggesting a scam or malicious activity. The interface appears standard for a weather app, and there are no unusual elements or deceptive practices present. The information is presented clearly, and no immediate indicators of fraud are present. \",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:33:45.623253"
+  },
+  {
+    "image": "data/legit/00321.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a Yahoo Finance page showing the stock information for Alphabet (GOOG). There are several sections displayed, including stock price, charts, and news snippets. There is a popup window from Yahoo Finance showing financial data. The overall design and layout appear legitimate. No immediate red flags are visible, such as unusual offers or urgent calls to action. The presence of a popup window is noted, but doesn't immediately indicate a scam.\",\n  \"scam_indicators\": \"None apparent.\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-25T01:34:28.759651"
+  },
+  {
+    "image": "data/legit/00322.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a simple alarm clock interface. There are no obvious signs of scams or malicious behavior. It simply shows time and alarm settings.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:35:10.685854"
+  },
+  {
+    "image": "data/legit/00323.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Amazon Prime Video interface. There are many popular movies and shows displayed. No immediate red flags are present. This is a legitimate streaming service interface.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:35:51.302821"
+  },
+  {
+    "image": "data/legit/00324.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a calendar application displaying the year 2024. There are no visual or textual elements that immediately suggest a scam or security threat. The interface appears standard for a calendar application. I will use the Image-to-Text tool to see if I can detect anything suspicious.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:36:33.710779"
+  },
+  {
+    "image": "data/legit/00325.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a macOS desktop with several open windows, including Slack, Zoom, and various app icons. There are no obvious signs of scams, fraud, or malicious behavior. The interface appears standard for macOS. The windows are open, but there is no specific content within them to indicate a scam.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:37:16.408438"
+  },
+  {
+    "image": "data/legit/00326.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a blank flight search page for a major airline (likely United, based on the UI). There are no immediately obvious scam indicators. The page is clean, minimalist, and focuses on the core functionality of searching for flights.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:37:56.113924"
+  },
+  {
+    "image": "data/legit/00327.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Apple Books interface, displaying three book titles: \\\"The Last Kingdom\\\", \\\"Heat 2\\\", and \\\"The Secret Keeper\\\". There are no immediately apparent scam indicators within the screenshot itself. The interface is standard for Apple Books and does not display any unusual elements or manipulative tactics. The descriptions of the books are also standard.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:38:37.921471"
+  },
+  {
+    "image": "data/legit/00328.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows Apple Music\u2019s library interface. There are several songs listed, and a \u2018playing next\u2019 section. I don\u2019t see any immediately obvious red flags or scam indicators. The UI appears standard and doesn\u2019t contain any text or visuals that scream \u2018scam\u2019. However, it is worth noting that while no explicit indicators are present, the platform itself is a common target for phishing attacks.  Therefore, caution is still warranted.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-25T01:39:20.402456"
+  },
+  {
+    "image": "data/legit/00329.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a calendar application. There are no visible red flags or suspicious elements. The interface is clean and straightforward, displaying a calendar with event entries. There's an 'Add New Event' button and the current date is February 13, 2024. No unusual patterns or elements are detected.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:40:01.323305"
+  },
+  {
+    "image": "data/legit/00330.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the Apple Music Cloud Music Library interface. It shows a list of albums, artists, and playlists. There are no immediately obvious scam indicators present. The interface is standard for Apple Music, and there are no unusual elements or deceptive practices visible. The screenshot looks like a legitimate application interface.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:40:44.322416"
+  },
+  {
+    "image": "data/legit/00331.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a simple alarm clock interface. The interface has fields for setting the time, selecting a repeat pattern (daily, weekdays, every Monday, or every Wednesday), and selecting a label. There are buttons for 'Save' and 'Cancel'. There are no unusual elements or indicators of scam activity.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:41:26.259311"
+  },
+  {
+    "image": "data/legit/00332.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the Prime Video page for \\\"The White Lotus\\\" Season 2. There are no immediate red flags or suspicious elements visible in the screenshot. The page includes standard purchase options and information about the show. The URL is from Amazon, which is a trusted source.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:42:08.400157"
+  },
+  {
+    "image": "data/legit/00333.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a New York CityPASS promotional page. The page includes pricing for various attractions and a promotional message. There is a strong emphasis on a 'Member Price' and a call to action with a discount. The overall design is typical for a travel booking site. There are no immediately obvious red flags. However, the promotional messaging regarding discounts and member prices should be treated with caution and warrants closer scrutiny of the actual terms and conditions.\",\n  \"scam_indicators\": [\"Promotional Messaging\"],\n  \"scam_type\": \"Potential Misleading Promotion\",\n  \"Scam Probability\": 2\n}\n```",
+    "timestamp": "2025-05-25T01:42:51.512805"
+  },
+  {
+    "image": "data/legit/00334.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot depicts a Kindle app interface showing a list of books. There are no immediately obvious scam indicators present. The interface is typical of a legitimate e-reader application. The presence of \u2018NEW\u2019 labels suggests recently added titles, but doesn't inherently indicate malicious intent.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:43:34.378344"
+  },
+  {
+    "image": "data/legit/00335.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a Prime Video page for the TV show 'The Good Place'. There are no immediate red flags or unusual elements. The page displays standard information about the show, including cast, episode details, and similar recommendations. There are no suspicious URLs, manipulative UI elements, or pressure tactics.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-25T01:44:17.111897"
+  }
+]
