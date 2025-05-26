@@ -14,7 +14,7 @@ true_negatives = 0  # Correctly identified legit (grade < 3 for legit images)
 false_positives = 0  # Incorrectly flagged as scam (grade >= 3 for legit images)
 false_negatives = 0  # Missed scams (grade < 3 for scam images)
 
-with open("logs/evaluation_log_20250525_002819.json", "r") as f:
+with open("logs/full_legit.json", "r") as f:
     data = json.load(f)
 
 for item in data:
@@ -28,7 +28,14 @@ for item in data:
     response_str = re.sub(r"^```json|```$", "", response_str.strip(), flags=re.MULTILINE).strip()
     try:
         response_json = json.loads(response_str)
-        scam_prob = response_json.get("Scam Probability")
+        # Normalize to int, skip if missing/invalid
+        raw = response_json.get("Scam Probability")
+        try:
+            scam_prob = int(raw)
+        except (TypeError, ValueError):
+            print(f"Invalid scam probability: {raw!r}, skipping")
+            failed_parses += 1
+            continue
         print(f"Scam Probability: {scam_prob}")
         
         if is_scam:
