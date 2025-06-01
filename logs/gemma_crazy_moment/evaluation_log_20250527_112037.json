@@ -1,0 +1,26 @@
+[
+  {
+    "image": "data/legit/00401.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a product page on Walmart's website for Celestron Eclipse Glasses. There are no immediate red flags. The URL appears to be a standard Walmart page. There are no indicators of fake scarcity, unusually low pricing, or hidden costs. The seller has a good rating and a substantial number of reviews. The delivery options are standard. No signs of a scam are present.\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:21:25.411192"
+  },
+  {
+    "image": "data/legit/00402.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a United Airlines website for booking flights to Chicago. The design elements, branding, and overall layout appear legitimate and consistent with a standard airline booking platform. I see no immediate red flags. The claim 0 - No scam probability 0 - 0 - No scam indicators 0. It seems to 0\",\n  \"scam_ 0\n}\nthe 0\nthe 0\n0\n0\nthe 0\n 0\n0\n 0\n 0\n0\n 0\n 0 0\",\n}\n} 0 0\n} 0 0\n} 0\n 0 0\n 0\n 0 0 0 0 0\n 0 0\n 0 0 0\n 0 0 0\n 0 0 0 0\n 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000000000000000000000000000",
+    "timestamp": "2025-05-27T11:23:39.885975"
+  },
+  {
+    "image": "data/legit/00403.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Tripadvisor website. It's a legitimate travel platform used for booking hotels, flights, and other travel arrangements. There are no scam probability.\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n```json\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{\n{ \n{\n{ \n{ \n{\n```json\n{ \n{\n```\n{\n{\n{\n}\n}\n```json\n{\n{\n{\n{\n{\n{\n```json\n{\n{\n{\n}\n{\n```json\n{\n{\n{\n{\n{\n}\n{\n}\n}\n```json\n{\n{\n}\n{ 0}\n```\n{\n}\n{\n}\n}\n}\n```\n{\n```\n{\n```json\n```\n",
+    "timestamp": "2025-05-27T11:24:47.501476"
+  },
+  {
+    "image": "data/legit/00404.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a Best Buy webpage listing Sony TVs. The URL appears legitimate, and the site's design is consistent with Best Buy's official website. There are no obvious signs of phishing, scams, or malicious activity. The pricing seems reasonable for OLED TVs, and there's no unusual urgency or pressure. The presence of standard e-commerce features like pickup and shipping options further supports the legitimacy of the site.\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:25:23.752513"
+  }
+]

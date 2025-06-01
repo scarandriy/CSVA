@@ -1,0 +1,38 @@
+[
+  {
+    "image": "data/legit/00351.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the ASICS website, specifically the kids' running shoes section. There are promotional banners offering discounts and free shipping, which is common for legitimate e-commerce sites. I've examined the URL and the overall design and it appears to be a genuine ASICS website. The design elements, product listings, and navigation seem consistent with a standard online retail experience. There are no immediate indicators of a scam or malicious activity.\",\n  \"scam_indicators\": []\n  \"scam_type\": \"\"",
+    "timestamp": "2025-05-27T11:21:17.393118"
+  },
+  {
+    "image": "data/legit/00352.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the Amazon website. It showcases various products related to Halloween and fashion. There are no immediate red flags indicating a scam or malicious activity. The URL appears legitimate, the branding is consistent, and the content seems typical for an e-commerce platform. The elements and interface features are within expected bounds. \",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n",
+    "timestamp": "2025-05-27T11:21:53.528554"
+  },
+  {
+    "image": "data/legit/00353.png",
+    "extracted_text": null,
+    "response": "```json\n{  \n  \"reasoning\": \"The screenshot displays a webpage for Carnegie Melon, specifically the \"scam probability. The screenshot appears to be related to the current scam and security threat. \n  \"scam_type:\n  \"scam_indicators: [indicators:\n  \" type of scam, if applicable\", if applicable\n}\n\" scam indicators: []\n\" indicators:\n\" type of scam, if applicable, if applicable\" scam_type: \"\n\"\n}\n```",
+    "timestamp": "2025-05-27T11:22:38.528557"
+  },
+  {
+    "image": "data/legit/00354.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the U-Haul website. The website appears to be the U-hauling U-Haul's website. There are no scam indicators present. It's a legitimate business. The website.\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": \n  \"reasoning\": \"There are no scam indicators. It' 0 - No scam signs: Trusted, verified source; no signs of a scam.\"\n  \" of scam; no signs of scam.\n}\n}\n}\n  \"Scam Probability\": 0\n}\n}\n}\n}\n}\n}\n}\n}\n\",\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:23:56.204651"
+  },
+  {
+    "image": "data/legit/00355.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the official website of New York State. It displays information about helping high school students complete financial aid forms, along with links to popular services like applying for SNAP, renewing a professional license, paying parking tickets in NYC, and finding a job. There are no immediate red flags or indicators of a scam. The website appears legitimate and provides access to government services.\",\n  \"scam_indicators\": [],\n  \" scamem,\n  IsBrowser\nAction Input: Image to text the image to text tool isBrowser\nObservation: IsBrowser\nObservation: The screenshot is a normal. \nIsBrowser\nAction Input: Current screenshot\nObservation: Current screenshot is browser window\nAction: Verify Scam Indicators\nAction Input: The first-ever FAFSA \u201cindicators of scam indicators\n{\n\u201cindicators\n{\n\u201cindicators\n{\n \u201cindicators\n\nThought: I now know the final answer.\n\n\u201cI know the final answer.\n\nScam indicators\n\n\u201c I know the final answer.\n\nScam Probability Scale:\n- 0 - No scam signs: Trusted, verified source; no signs of scam.\n- 1 - Uncertain: No immediate red flags, but not enough data to confirm safety.\n- 2 - Low scam probability: Weak anomalies; likely safe, but caution advised.\n- 3 - Moderate scam probability: Suggests possible scam/fraud. Review is needed. ANY popups about prizes, rewards, or milestones MUST be at least this level.\n- 4 - High scam probability: Strong indicators of malicious or scam-related activity.\n- 5 - Critical scam probability: Confirmed scam, malware, or phishing attempt. Urgent action required.\n\nOutput Format:\n{  \n  \"reasoning\": \"<...>\",\n  \"scam_indicators\": \"[indicators]\"\n  \"scam_type\": \"<type of scam, if applicable>\",\n  \"Scam Probability\": <integer from 0 to 5>\n}  \n```json\n{\n  \"reasoning\": \"The screenshot displays the official website of New York State, providing information about financial aid for students and popular services. The URL, design elements, and content all appear legitimate and consistent with a government website. There are no immediate signs of scams or malicious activity.\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:25:46.672223"
+  },
+  {
+    "image": "data/legit/00356.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Instacart website, which is a legitimate grocery delivery service. The page displays a list of stores available for delivery in Pittsburgh, PA. There are.png\",\n\",\n  \"scam_indicators\": \"none\",\n  \"scam_ type of scam_market.png\",\n  \"type of the website.png\",\n  \"scam_stores list of website.png.png.png in.png\": \"Grocery website.png\":\n  \",png.png.png\n  \", which is website.png.png website\":2\",\n  \"scam_type of the website:\",\n  \"\n  \", \"Grocery:\", \"type,png\n  \": \"\n  \" as:\", \", and \"\n  \", \" and .png \": \"\n  \" as\", type \"\n  and the of website \"website, and and so, \"\n  \", and\", \"\n  png\", and as a \" and the website \", and the and the \", and \", and \" and \" and \", and \" and\n\",png\", and and\", and website\", and\", and and and\", and\", and\", and as to and\", and\", and\", and the\", and and \", and and\", and\", and\", and\", and and\", and\", and\", and\", and \", and\", and\", and \" and to\", and and\",\", and:\", \" and\", and and and and \", and \", and \", and\", and\", and to\", and\", and\", and\", and and of and\",\", and and\", and and\", and\", and\", and\", and and\", and\", and, and\", and\", and\", and $ and and\", and \", and and and\", and and and\", and and and\", and and and\", and\", and \", and and \", and\", and\", and and and and $ and and and and\", and and\", and and and\", and\", and and\", and\", and\", and\", and\", and\", and\", and\", and and\", and\", and and and and and\", and and and and\", and\", and and and and and and\", and\", and and\", and and and\", and and and \", and\", and and\", and and and and and\", and and\", and\", and and\", and and\", and\",\n and\", and\", and\", and and $ and\", and $ and and\", and\", and and and\", $ and\", and and\", and and and\", and\",\n    \n  \"\n\n and\", and and and $ and and\", and and \", and\",\n  \" and\",\n\", and \", and\",\n  and\", and\", and \", and $ and and\", and\",\n  and $ and\", and $ and\",\n},\n  and and\", and\", and\",\n  and\", and\", and \",\n  and \", and\", $\", and \", and and and and and and\n  and\", and\", and and\", and and\n and and\n\n, and and and\", and and\n $ and\n\n and and\", and\",\n and and $ and\",\n and $ and\", and\", and and\", and and\n",
+    "timestamp": "2025-05-27T11:28:12.344016"
+  }
+]

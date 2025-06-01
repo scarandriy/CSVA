@@ -17,9 +17,9 @@ def one_time(pipeline):
     print(f"{result}")
 
 def full_test(pipeline):
-
+    
     print("SUPPOSED TO BE LEGIT:")
-    for i in range(228, 450):
+    for i in range(441, 442):
         if i < 10:
             i = "0" + str(i)
         t0 = time.perf_counter()              # start timer
@@ -29,15 +29,14 @@ def full_test(pipeline):
         print(f"{img_path} – {dt:.2f} s → {result}")
 
     print("SUPPOSED TO BE SCAM:")
-    for i in range(1, 233):
+    for i in range(73, 74):
         if i < 10:
             i = "0" + str(i)
-        t0 = time.perf_counter()              # start timer
+        t0 = time.perf_counter()            
         img_path= "data/scam/00" + str(i) + ".png"
         result = pipeline.run_batch([img_path])
-        dt = time.perf_counter() - t0         # seconds elapsed
+        dt = time.perf_counter() - t0         
         print(f"{img_path} – {dt:.2f} s → {result}")
-
 
 def descriptor():
     cap = FastCaptioner(device="cpu",threads=4) 
@@ -86,8 +85,8 @@ def main():
 
     
 
-
-
+# cd csva
+# python main.py
 
 
 

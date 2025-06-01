@@ -1,0 +1,44 @@
+[
+  {
+    "image": "data/legit/0051.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the ProtonMail website, which is a legitimate and well-known provider of end-to-end encrypted email services. The page promotes downloading the ProtonMail app for various platforms (web, iOS, Android). There are no obvious indicators of scams or malicious activity. The URL appears to be legitimate, and the website design is consistent with ProtonMail's branding. I will use the Verify URL tool to confirm the URL's legitimacy.\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:19:49.570065"
+  },
+  {
+    "image": "data/legit/0052.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the ProtonMail download page. It provides options for downloading the ProtonMail app for iOS and Android, or using the web app. There are no immediate signs of scams or malicious behavior. The URL appears legitimate (protonmail.com), and the branding seems consistent. The page provides clear instructions for downloading and accessing ProtonMail.\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:20:16.475206"
+  },
+  {
+    "image": "data/legit/0053.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \n  \"reasoning\": \"The screenshot shows a webpage for \\\"Slatus AI\\\", a tool that integrates with other applications. The webpage promotes features like custom document templates and integration with apps like Greenhouse and Jira. There are no immediately obvious scam indicators, such as unrealistic promises, suspicious URLs, or requests for personal information. The website appears professionally designed, and the content seems legitimate. However, it's always wise to be cautious about new software and services. I will use tools to verify the URL and extract the text to search for any scam indicators within the text on the page.\",\n  \"scam_type\": \"Unknown\",\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-27T11:21:25.406373"
+  },
+  {
+    "image": "data/legit/0054.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a webpage for \\\"Silatus\\\", a platform that seems to offer document generation and integration with other apps. The page highlights features like custom document templates and integrations with Greenhouse, Jira, and more. There are no immediate red flags such as suspicious URLs or urgent requests for personal information. The content appears to be legitimate marketing material for a software product. There's no obvious scam present in the screenshot. However, it's always good to exercise caution when visiting new websites and to verify the legitimacy before trusting the product of this is the web site looks and scam probability is low.\",\n  \"scam_ is low. scam or security threats.\",\n  indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:22:24.042868"
+  },
+  {
+    "image": "data/legit/0055.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays the ProtonMail pricing page. It presents different subscription plans with varying features and costs. There are no immediate red flags suggesting a scam. The \n  \"scam_indicators\": [],\n  \"scam_type\": \"0\"\n  \"scam_type of scam\", 0\n  \"Scam Probability\": \n  \"Scam Probability\": 0\n}\n```\n}\n```\n```json\n{\n\"0\n}\n```\n```json\n{\n\"reasoning\": \"The screenshot shows Protonmail pricing and \n0\n```\n0\n0\n0\n0",
+    "timestamp": "2025-05-27T11:23:15.651296"
+  },
+  {
+    "image": "data/legit/0056.png",
+    "extracted_text": null,
+    "response": "```json\n{  \n  \"reason\n}\n```\n",
+    "timestamp": "2025-05-27T11:23:33.466802"
+  },
+  {
+    "image": "data/legit/0057.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the pricing page. The \\\"Save up to 38%\u201d message. This is a typical marketing tactic used to make a product appear more attractive. The pricing information seems legitimate, and there are no visual indicators. The page appears to be a legitimate ProtonMail pricing page. There are no scam.\n{  \n  \"reasoning\": \"The screenshot shows the pricing page of ProtonMail. The layout is standard for a website, offering various subscription options (Free, Plus, Unlimited). The prices are clearly displayed, and the features associated with each plan are listed. There's a 'Save up to 38%' banner, which is a common marketing tactic and isn't necessarily indicative of a scam. The URL appears to be legitimate. I will analyze the url with the tool `Verify URL` to confirm the validity of the site\",\n  \"scam_\n{  \n  \"scam_indicators\": \"[\\\"sense of urgency\\\"]\",\n  \"scam_type\": \"marketing\",\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-27T11:24:34.604625"
+  }
+]

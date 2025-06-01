@@ -1,0 +1,32 @@
+[
+  {
+    "image": "data/legit/00201.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows an Outlook email client interface. Several emails from \\\"ANTONIO RODRIGUEZ RUIZ\\\" are visible in the inbox. The emails contain the subject \\\"Screnshot Dataset email\\\". There is a repetition of the sender's name and a dataset attached. While not immediately alarming, the repeated sending of emails with a dataset could be a potential phishing attempt or a way to distribute malicious files. The sender's email address is not visible, making it difficult to verify its legitimacy. I will use the tools available to further investigate.\",\n  \"scam_indicators\": [\"Unsolicited Messaging\", \"Suspicious Sender\", \"],\n  \"scam_type\": \"Potential Phishing/Malware Distribution\",\n  \"scam_type\": \"Phishing/Malware\",\n  \"Scam Probability\": 2\n}\n```",
+    "timestamp": "2025-05-27T11:20:50.658506"
+  },
+  {
+    "image": "data/legit/00202.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \" indicators of potential scam indicators in indicators within the screenshot for confirmation of scam indicators: [indicators\": \"text for scam indicators in the screenshot for confirmation of scam indicators of for indicators\":\n   scam\\_indicators\": \\[indicators\":\n  \"   \n  \"Scam Probability:   \n  \" type of scam\", if applicable, if applicable\n  \"No\", if applicable\n  \" indicators\": \n  \"applicable\\\": 0\n  \\\"reasoning: \\\"This screenshot displays an email client, specifically Outlook. It shows an email from \\\"ANTONIO RODRIGUEZ RUIZ\\\". The email content appears to be about a screenshot dataset. The sender's address appears valid. No urgent requests for information or financial transfers are visible. There\u2019s no indication of malicious content. The overall context does not indicate any immediate signs of a scam.\",\n  \"scam\\_indicators\": \"[]\",\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-27T11:22:17.508228"
+  },
+  {
+    "image": "data/legit/00203.png",
+    "extracted_text": null,
+    "response": "```json\n{\n{\n  \"reasoning\": \"The screenshot displays a file explorer window filled with numerous screenshot files, alongside a settings window for configuring the lock screen. There are no immediately visible indicators of a scam or malicious activity. The settings window appears to be a legitimate Windows configuration panel, and the file explorer window simply shows a directory full of screenshots.\",\n  \"scam_indicators\": [],\n  \"ScamProbability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:22:59.693797"
+  },
+  {
+    "image": "data/legit/00204.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a standard Windows file explorer and a settings window. It doesn'\\\" indicators of scam, as of, there are doesn'\\\" of, and of, and of, and of. of. the scam.\n  \",\n  \" scam\",\n  \" indicators\",\n}\n  \" scam indicators\",\n}\n}\n}\n  \"Scam Probability\": \n```json\n{\n  \"reasoning\": \n{\n  \"reasoning\": \"The screenshot depicts a standard Windows file and settings,  \n  of  \n\" scam indicators\": \" scam indicators\", \n{\n",
+    "timestamp": "2025-05-27T11:24:02.959753"
+  },
+  {
+    "image": "data/legit/00205.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows an open PDF editor and an email client (Outlook). The email shows a message with an attachment. There's no immediately obvious scam activity visible, but the presence of an email attachment. The sender' \\\"system. The PDF visible tools to review the PDF editor visible tools. The email. The presence of the PDF. The email with an email. The presence of a document with the sender attachment. There's no immediately extract, to, the user. The user. It, by the user open, to, to, along with. It, to, with, to, to, along with. It, to. It, to open, to. It, to get to. There, to open. The. to, to, and, to, in. It, to, and, open, with attachment, to. It with, with, and, and attachment. The, with, with, and, the with, and. It, with, with, the, and with. There, the, the email with, and, and. The and, and. It to identify-to. It, the. The. The email to get to the email. The. The email. The. The, . It. The. It. It. It. The. The. The-and. The. It. The. The. The .the. The. It. The. The. the-to. It. The. It. This user. It. The. It. Its with. With. Scam. Its with. The The. and. with. The. The. with. Its. The. .its. The. Its. Its The The The. The. The. The, the The The. The The. The The\n\"text. The. The The The\nthe. The The The The\nThe The The The The The. The The\nThe The\nThe : \"\nThe : The The The The\nThe : The\nThe\n\" : The\nThe The\nThe The The The The The The The The : The The\nThe The The The The The The The The The The The The The The The The The The The The The The The The The The The The The The",
+    "timestamp": "2025-05-27T11:26:15.053799"
+  }
+]

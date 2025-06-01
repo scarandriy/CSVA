@@ -14,7 +14,7 @@ true_negatives = 0  # Correctly identified legit (grade < 3 for legit images)
 false_positives = 0  # Incorrectly flagged as scam (grade >= 3 for legit images)
 false_negatives = 0  # Missed scams (grade < 3 for scam images)
 
-with open("logs/full_legit.json", "r") as f:
+with open("logs/llava7b_fulltest_450.json", "r") as f:
     data = json.load(f)
 
 for item in data:

@@ -1,0 +1,26 @@
+[
+  {
+    "image": "data/legit/00301.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Microsoft Store's \\\"Library\", \"phishing\", \"phishing\",-phishing\",phishing\",phishing\",phishing\",phishingphishingphishing\",phishing\",phishing\",phishing\",ph-ph-phishingphishing\",phishing\",phishingph-phishingph-ph\",ph\",ph-ph-\",ph-ph-\",ph-ph\",ph-\",Scam\",phishingph\",ph-phishing\",phishingph-\",ph-\",ph-ph-\",ph-ph-ph-\",\n\"ph-\n}\nph-ph-\n}\n\"reasoning\": \"The screenshot appears to be a legitimate Microsoft Store application list. There are no apparent scam indicators, but it is still recommended to download applications only from trusted sources.\",\n  \"scam_indicators\": [],\n  \"Scam Probability\": 1\n}\n```",
+    "timestamp": "2025-05-27T11:21:42.280506"
+  },
+  {
+    "image": "data/legit/00302.png",
+    "extracted_text": null,
+    "response": "```json\n{  \n  \"reasoned_answer: The screenshot depicts a world clock application, displaying time in different time, and. There are no to the. It displays of, and, and. The, \n\n scam \n\n of, \n indicators. \n scam \n of \n\n1, \n scam.\n\n scam, 5, scam. 5, indicators.\n\n application, and, of scam indicators. of scam, and, of, of, of . application of. of of . of , of , of . scam. application, of , of , of . of , of , of . 5 , of . of , of , of , of , of , of , of , of . , of . of , of , of , of , of , of . of , of . of , of . of , of . of , of . of , of . of , of . of , of . of , of . of , of . of .\n\n\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"none\",\n  \"Scam Probability\": 0\n}\n",
+    "timestamp": "2025-05-27T11:23:26.406612"
+  },
+  {
+    "image": "data/legit/00303.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows the Zoom application. The screenshot displays a list of the potential scams \\\"scam_type\": \"scam_indicators\": \"scam_type\": <integer from \n\"Scam Probability\": 0\"scam_indicators\": \"\n\n```json\n{\n\" scam_indicators\": \"\nscam_scam_type\": <type of scam, if applicable\", if applicable\", if applicable\": 0\"\n\n```json\n{  \n  \"reasoning\": \"The screenshot shows a list of the Zoom applications. There are no immediately visible scam indicators. The interface appears legitimate, and the application is a well-known and trusted platform.\n\nAction: IsBrowser (input -- textual representation of an image)\nObservation: No Browser window detected.\nAction: IsEmail (input -- textual representation of an image)\nObservation: No email client window detected.\nAction: IsMessenger (input -- textual representation of an image)\nObservation: No messenger window detected.\nThought: The screenshot does not reveal any scam indicators. The interface appears legitimate and the application is well known.\nScam Probability Scale:\n- 0 - No scam signs: Trusted, verify scam type\": \" scam_indicators\": \"\n{ \"reasoning\": \"The screenshot shows the Zoom application and the list of available applications. There are no indicators of scam or malicious activity. The interface is standard for the application.\n\nAction: Verify Scam Indicators (input -- textual representation of an image)\nObservation: No scam indicators detected.\n\nThought: I now know the final answer.\n\n\", applicable\": \"\n\", applicable\": 0\n}\n```\n",
+    "timestamp": "2025-05-27T11:24:58.559672"
+  },
+  {
+    "image": "data/legit/00304.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a calendar application showing the month of January 2024. There are highlighted dates indicating holidays or special events, such as New Year's Eve, New Year's Day, Martin Luther King Jr. Day, Groundhog Day and Lunar New Year. There are no visible signs of scams, phishing attempts, or malicious activity. The interface appears to be a standard calendar application, and there's no unusual content or requests for sensitive information.\",\n  \"scam_indicators\": [],\n\n\ntext_text\"::text_of the the calendar application, \\\"current the the calendar application of, of, of, of,\u2013Of the application of\u2013's the application of\u2013's application\u2013's application\u2013 application\u2013 application\u2013 application\u2013 application\u2013 the\u2013 the a\u2013 a\u2013 a\u2013 a\u2013 a\u2013 a\u2013 a\u2013 a\u2013 of\u2013\u2013 a\u2013 a\u2013\u2013\u2013 indicator a\u2013 a\u2013 a\u2013 indicator\u2013probability\u2013\u2013 probability:\u2013 probability\u2013 probability:\u2013 probability\u2013 text\u2013 probability:\u2013 application\u2013 application\u2013 application\u2013 application probability of application probability: \" the application:\u2013application the: \"text:\"application:\"\n}\n}\n}\n} to: the}\n} 0\u2013\"\n}\n}#0} }:\n}\n}# [of 00} :\n} the: : :\": : }\n} : :\"\n\n}\n\"\n} of 0\u2013:\" } 0}\n}\n}\n\"} 0}\n}\n\"}\n} 0:{\"\n} 0}\nthe0 the\n0\n}\n}\n} 0\u2013 0}\n\"}\n\"}\n}0 as\u2013\n\"}\n\"}\n\"} 0 0.\"}\n\"} 0. \"text. The 0.\"\n0.\"\n\n}\n\n```",
+    "timestamp": "2025-05-27T11:26:46.629019"
+  }
+]

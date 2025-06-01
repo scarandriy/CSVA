@@ -1,0 +1,26 @@
+[
+  {
+    "image": "data/legit/00251.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot displays a photo library interface, likely from an Apple Photos or similar application. It shows various albums and photos from a \\\"Travel 2023\\\" album. There are no immediately visible indicators of scams, phishing, or malicious activity. The interface appears to be a legitimate photo management application.\",\n  \"scam_indicators\": [],\n  \"scam_type\": null,\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:21:07.522876"
+  },
+  {
+    "image": "data/legit/00252.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a to \"scam_type\": \"type of scam, if_applicable\",\n  \"scam_type\": \"No scam indicators were found in the screenshot. It appears to be a standard task list application, and no red flags are present. The interface seems legitimate, and there are no signs of phishing, fraud, or malicious behavior.\",\n  \"Sc to-related application, so it\u2019 as-related to scam indicators. It is application to-to-related to the application and no scamming to the application, fraud, or malicious behavior.\",\n  \"Scamming to the scam, but no, no indicators of a fraud or malicious activity.\",\n  \"Scam Probability\": 0\n}\n```",
+    "timestamp": "2025-05-27T11:22:09.583529"
+  },
+  {
+    "image": "data/legit/00253.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"\n  \"I'm analyzing a screenshot of a text editor. The document appears to be an essay about William Shakespeare's life and works. The content doesn't seem malicious or fraudulent. I'll use the available tools to confirm.\",\n  \"scam_indicators\": [],\n  \"scam_type\": \"None\",\n  \"Scam Probability: 0\n}\n```",
+    "timestamp": "2025-05-27T11:22:53.227121"
+  },
+  {
+    "image": "data/legit/00254.png",
+    "extracted_text": null,
+    "response": "```json\n{\n  \"reasoning\": \"The screenshot shows a messenger window with a newly accepted friend request. The user, \\\"Jack,\\\" initiates a conversation quickly after the interaction appears normal at first glance, but the speed at which the conversation started immediately after the friend request acceptance is slightly suspicious. The presence of a low-resolution image in the chat also raises a small concern, but it's not immediately alarming. It's important to 5\",\n  \"indicators\": \"Unsolicited Messaging\",\n  \"Scam Probability\": 2\n}\n```",
+    "timestamp": "2025-05-27T11:23:46.373960"
+  }
+]
