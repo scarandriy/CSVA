@@ -1,0 +1,512 @@
+[
+  {
+    "image": "data/legit/0000.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the desktop of a Macbook Pro. The desktop features a photo of a river flowing through a mountainous landscape, with trees and rocks surrounding it. There are several tabs open on the screen, including one that appears to be a note-taking app or a document viewer. Additionally, there is a message displayed in the bottom left corner of the screen, which could be related to the content being viewed on the desktop.",
+    "timestamp": "2025-05-11T15:33:10.015931"
+  },
+  {
+    "image": "data/legit/0001.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the Windows operating system's start menu. The desktop background is dark blue, and there are several icons visible on the screen, including a camera icon, an internet browser icon, and a file explorer icon. The screen also displays the start menu of the Windows operating system, which includes options such as Start, Exit, and Help.\n\nThe image does not contain any text or other objects, focusing solely on the computer's desktop background and the start menu.",
+    "timestamp": "2025-05-11T15:33:16.773638"
+  },
+  {
+    "image": "data/legit/0002.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the Adobe Photoshop website. The webpage is open, and there are several images on it, including one of a person wearing red sunglasses. A clock can also be seen in the background. The overall layout appears to be professional and well-organized, with various sections for different purposes such as editing photos or showcasing products from Adobe Photoshop.\n\nThe computer screen displays the website's title \"Adobe Photoshop\" at the top, along with a list of images on the page. There is also an image of a person wearing red sunglasses in the middle section and another one near the bottom right corner. The clock can be found in the background, adding to the overall design and layout of the webpage.",
+    "timestamp": "2025-05-11T15:33:24.448023"
+  },
+  {
+    "image": "data/legit/0003.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the Google Chrome browser window. The browser window is divided into multiple tabs, each representing a different social media platform such as Facebook, Twitter, and YouTube. These tabs are arranged in a grid format with four rows and six columns, showcasing various social media platforms available on the browser.\n\nThe image also contains some text that reads \"social media\" and \"Google Chrome\", which further emphasizes the focus on social media platforms within the browser window.",
+    "timestamp": "2025-05-11T15:33:31.241681"
+  },
+  {
+    "image": "data/legit/0004.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a beautiful view of the ocean from a high vantage point, possibly on top of a mountain. The landscape features a combination of green trees and rocks, with some of them appearing to be made of stone or concrete. A large body of water can be seen in the background, adding to the overall serene atmosphere of the scene.",
+    "timestamp": "2025-05-11T15:33:37.503452"
+  },
+  {
+    "image": "data/legit/0005.png",
+    "extracted_text": null,
+    "response": "\nThe image shows two sea otters swimming in the water, with one of them resting on its back. The scene is set against a backdrop of ice floating in the ocean, creating an interesting contrast between the warm and active otters and the cold environment surrounding them.",
+    "timestamp": "2025-05-11T15:33:43.625501"
+  },
+  {
+    "image": "data/legit/0006.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the Google Chrome browser window. The browser is open and ready to use, with various options such as \"type here\" and \"open\" displayed on the screen. There are also several icons visible in the bottom right corner of the browser window, which could be related to different applications or services within the Google ecosystem.\n\nThe computer screen itself has a light blue background, providing a visually pleasing contrast for the content displayed. The overall scene suggests that the user is about to embark on their online journey using the Google Chrome browser.",
+    "timestamp": "2025-05-11T15:33:50.893346"
+  },
+  {
+    "image": "data/legit/0007.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email conversation. The main focus is on the message displayed in the chat window, which reads \"Please send me an invitation to your party.\" This indicates that someone has sent an invitation for an event or gathering. The email also contains other details about the event and instructions for attendees.",
+    "timestamp": "2025-05-11T15:33:56.976958"
+  },
+  {
+    "image": "data/legit/0008.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying a spreadsheet with various data columns and rows. The spreadsheet is open in Excel, which is a popular software for creating and analyzing spreadsheets. A cell in the spreadsheet has an arrow pointing to it, possibly indicating that the user wants to highlight or reference specific information within the data.",
+    "timestamp": "2025-05-11T15:34:02.760110"
+  },
+  {
+    "image": "data/legit/0009.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying a Google map with an American flag on it. The map is centered in the window, and there are several tabs open, including one for Google Maps. A person can be seen using the Google Chrome browser to navigate through the various tabs.",
+    "timestamp": "2025-05-11T15:34:08.422269"
+  },
+  {
+    "image": "data/legit/0010.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with three open Excel spreadsheets arranged in a row. The first spreadsheet is located on the left side of the screen, while the second and third are positioned towards the right side. Each of these spreadsheets has a different layout and design, showcasing various features and functions within the Excel software.",
+    "timestamp": "2025-05-11T15:34:14.243489"
+  },
+  {
+    "image": "data/legit/0011.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a screenshot of an office layout displayed on a computer screen. The layout features multiple desks and tables arranged throughout the space, with some desks having chairs placed around them. There are also several people present in the scene, likely employees or visitors to the office. A woman's profile picture is visible at the top left corner of the image, possibly indicating that she is an employee or a visitor who has provided their name and email address for communication purposes.\n\nThe layout appears to be designed with efficiency and organization in mind, as it includes designated areas for different tasks such as working, eating, and socializing. The presence of multiple desks suggests that the office may have several employees or teams working together on projects or collaborating on various tasks.",
+    "timestamp": "2025-05-11T15:34:21.393106"
+  },
+  {
+    "image": "data/legit/0012.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying a graph and some text. The graph is colorful, with bars of different colors representing various data points. There are also lines on the graph that connect these data points, providing a visual representation of the information. The text accompanying the graph provides additional context or explanation about the data displayed.",
+    "timestamp": "2025-05-11T15:34:27.219869"
+  },
+  {
+    "image": "data/legit/0013.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying a SQL query on the left side and a table with rows of data on the right side. The SQL code is written in a text editor, which is open to the SQL statement \"SELECT * FROM employees\". The table has multiple columns and rows filled with information about various employees. To access this specific row or column, one can use the cursor object's `execute` method followed by the SQL command within square brackets.",
+    "timestamp": "2025-05-11T15:34:33.499865"
+  },
+  {
+    "image": "data/legit/0014.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the desktop wallpaper of various icons and applications. The icons include social media platforms like Facebook, Instagram, Twitter, and others as well as common app icons such as Maps, Calendar, Clock, and more. These icons are arranged in rows on the desktop background, providing users with quick access to frequently used features or services.\n\nThe computer screen is situated against a white wall, which further emphasizes the prominence of the displayed icons. The layout appears organized and user-friendly, making it easy for users to navigate through their favorite applications and social media platforms at a glance.",
+    "timestamp": "2025-05-11T15:34:40.596450"
+  },
+  {
+    "image": "data/legit/0015.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying a webpage with multiple tabs open. The main tab is filled with text, while the other tabs have different types of content such as images and videos. There are also several rows of numbers on the page, which could be related to data or information displayed in the tabs. Overall, it seems like an organized layout where each tab has its own purpose and contributes to the user's experience.",
+    "timestamp": "2025-05-11T15:34:46.710817"
+  },
+  {
+    "image": "data/legit/0016.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with various elements displayed on it. The main focus is an online diagram or map, which appears to be in a spreadsheet format and is being edited by someone using a mouse. The diagram features a brown border around the edges of the page, giving it a professional appearance. The creator has made some changes to the diagram, possibly adding new information or altering existing elements.",
+    "timestamp": "2025-05-11T15:34:52.789291"
+  },
+  {
+    "image": "data/legit/0017.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with three different windows open on it. The first window displays a list of files, the second window has a menu bar and several icons, while the third window is filled with text. Each window seems to be serving a specific purpose or providing information related to the user's tasks or interests.",
+    "timestamp": "2025-05-11T15:34:58.597792"
+  },
+  {
+    "image": "data/legit/0018.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with various windows open, including one that displays a program called \"Xcode.\" The screen also has several other windows and icons on it. In the bottom right corner of the screen, there is a small icon representing a mouse.",
+    "timestamp": "2025-05-11T15:35:04.137052"
+  },
+  {
+    "image": "data/legit/0019.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the screengrab of a website. The webpage is titled \"screenencil\" and has various icons, including a book icon on the left side and an apple icon in the center. There are also several other icons scattered across the page, such as a clock icon at the top right corner and a keyboard icon near the bottom left corner.\n\nThe screengrab itself is quite detailed, with multiple windows visible on the screen. The image shows that the website has been screenshoted using a web browser, likely Chrome or Firefox, which are commonly used for browsing the internet.",
+    "timestamp": "2025-05-11T15:35:10.793305"
+  },
+  {
+    "image": "data/legit/0020.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying a webpage with various tabs open. The main focus of the page is a list of recommendations, and it appears to be a search engine results page (SERP) for Windows XP. There are several options available on this page, including \"Newer articles\" and \"How to use windows urms and sprints system performance.\" Additionally, there's an article titled \"The best way to use windows urms and sprints system performance,\" which is likely related to the main recommendations displayed on the webpage.",
+    "timestamp": "2025-05-11T15:35:17.235600"
+  },
+  {
+    "image": "data/legit/0021.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the settings of a folder on a Windows PC. The folder is named \"Creative Cloud Fols\" and contains various files, including documents, pictures, and music. There are also several folders within this main folder. A drop-down menu is visible in the center of the screen, with options to select different file types or folders. The user interface allows for easy navigation and management of the folder's contents.",
+    "timestamp": "2025-05-11T15:35:23.479827"
+  },
+  {
+    "image": "data/legit/0022.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a Google search page with the Google logo displayed at the top. The main content of the page is in English, but there are some foreign words and phrases that may be difficult to understand for non-English speakers. Additionally, the page has a dark background, which could make it harder to read or view certain elements on the screen.",
+    "timestamp": "2025-05-11T15:35:29.872767"
+  },
+  {
+    "image": "data/legit/0023.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the website \"LODD.COM\" with various tabs open, including one for Adobe Photoshop and another for Adobe Premiere Pro. The browser window is filled with information about these software applications, likely providing details on their features, installation process, and compatibility with different operating systems.",
+    "timestamp": "2025-05-11T15:35:36.090361"
+  },
+  {
+    "image": "data/legit/0024.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with various icons and applications displayed on the desktop. The icons include a keyboard, mouse, and several other icons representing different software or services such as web browsers (Google Chrome, Firefox), photo editing tools (Photoshop), and others. The screen is divided into two sections, with one section being larger than the other. The overall layout of the computer screen suggests that it is an active workspace where users can perform various tasks and interact with multiple applications simultaneously.\n\nThe image does not contain any text or specific actions taking place on the screen. Instead, it showcases a collection of icons and applications that are commonly found in most desktop environments.",
+    "timestamp": "2025-05-11T15:35:43.519872"
+  },
+  {
+    "image": "data/legit/0025.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the desktop of a Windows operating system. The desktop features various icons and applications, including a music player icon on the left side, a web browser icon in the center, and several other icons scattered across the screen. There are also multiple windows open, with some appearing larger than others due to their position within the window.",
+    "timestamp": "2025-05-11T15:35:49.959642"
+  },
+  {
+    "image": "data/legit/0026.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the settings of an operating system. The main focus is on the \"Resources\" tab, which contains several options and details about resource management in the system. There are two tabs visible on the screen - one for the \"Resources\" tab and another for the \"History\" tab. The \"History\" tab has a red highlight indicating that it is currently open.",
+    "timestamp": "2025-05-11T15:35:56.238784"
+  },
+  {
+    "image": "data/legit/0027.png",
+    "extracted_text": null,
+    "response": "\nThe image features a computer screen with a large, colorful grid of icons and text. The icons are arranged in rows and columns, covering various aspects such as files, folders, and applications. The background is blue, which complements the vibrant colors of the icons on the screen. The arrangement of the icons suggests that they might be part of an operating system or a software program designed to organize and display different file types and applications for easy access.\n\nThe image does not contain any discernible text other than the names of the icons, which are clearly visible against the blue background. This grid-like structure is likely used as a visual guide for users navigating through the various options available on their computer or device.",
+    "timestamp": "2025-05-11T15:36:03.807128"
+  },
+  {
+    "image": "data/legit/0028.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying a grid of twelve different photos. The photos are arranged in rows and columns, with each row containing three photos. The images vary in size and orientation, creating an interesting visual effect on the page. The layout appears to be designed for easy navigation or viewing, as it is organized into neat sections that allow viewers to easily find specific photos within the grid.",
+    "timestamp": "2025-05-11T15:36:10.211897"
+  },
+  {
+    "image": "data/legit/0029.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with a blue background and purple lines. The screen displays an empty window, suggesting that the user has not yet launched any applications or opened any files.",
+    "timestamp": "2025-05-11T15:36:16.170413"
+  },
+  {
+    "image": "data/legit/0030.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the contents of a web browser window. The main focus is on a webpage that has been edited, with several lines of code visible in red and white text. The webpage appears to be related to video editing or a similar creative field, as indicated by the presence of a video editor tab. The image also contains some text elements such as \"www.\" and \"www.perdb.com\", which may provide additional context about the content displayed on the screen.",
+    "timestamp": "2025-05-11T15:36:22.957211"
+  },
+  {
+    "image": "data/legit/0031.png",
+    "extracted_text": null,
+    "response": "\nThe image displays a computer screen with various windows open, showcasing the desktop of a computer. The screen is divided into multiple tabs and windows, each containing different types of content or applications. Some of these windows include a calendar window, an email window, and a web browser window. Additionally, there are several icons on the desktop that may represent different programs or services. Overall, it appears to be a well-organized and functional computer setup with various tools and resources at one's disposal.",
+    "timestamp": "2025-05-11T15:36:29.471112"
+  },
+  {
+    "image": "data/legit/0032.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the code of a website. The code is written in a text editor, and it appears to be in a programming language such as JavaScript or Python. There are multiple lines of code on the screen, which might include functions, loops, or other elements that make up the website's functionality. The image also shows a window with a menu bar at the bottom left corner, suggesting that the user is navigating through different options within the web browser.",
+    "timestamp": "2025-05-11T15:36:36.097291"
+  },
+  {
+    "image": "data/legit/0033.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a screenshot of an app interface, possibly a messaging or social media platform. The main focus is on the chat window where multiple people are engaged in conversation. There are at least ten individuals visible within the chat room, with some of them being more prominent than others due to their positions and sizes. The chat room appears to be active, as evidenced by the ongoing conversations among the users.",
+    "timestamp": "2025-05-11T15:36:42.446224"
+  },
+  {
+    "image": "data/legit/0034.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with two different designs displayed. One design is a black and white line drawing, while the other is a digital illustration of a building plan or floor plan. The line drawing features a grid-like pattern with various shapes such as rectangles, circles, and triangles. The digital illustration displays a detailed layout of the building's structure, including rooms and hallways.\n\nThe computer screen also has several options for editing and viewing the designs. There is an option to change the color scheme or adjust the size of the drawings. Additionally, there are buttons labeled \"Cut\" and \"Paste\" that can be used to manipulate the design elements on the screen.",
+    "timestamp": "2025-05-11T15:36:49.625065"
+  },
+  {
+    "image": "data/legit/0035.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the Windows Start menu. The desktop background features a blue sky with white clouds, and there are various icons representing different applications or services on the screen. A clock is also visible in the upper right corner of the screen.",
+    "timestamp": "2025-05-11T15:36:55.494481"
+  },
+  {
+    "image": "data/legit/0036.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the Ebay website. The page is filled with various product images, including electronics and clothing items. There are also several descriptions of these products available for viewing on the site. Additionally, there are multiple price tags visible in the image, indicating that the Ebay marketplace offers a wide range of items at different price points.\n\nThe overall layout of the page is well-organized with clear sections for product images and descriptions, making it easy for users to browse and compare products. The presence of price tags allows potential buyers to quickly assess the cost of each item before making a purchase decision.",
+    "timestamp": "2025-05-11T15:37:02.315266"
+  },
+  {
+    "image": "data/legit/0037.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an Amazon page for women's flip flops. The main focus is on the black flip flop, which is prominently featured in the center of the page. There are several other images and descriptions of different styles and colors of flip flops available on the website. The overall layout suggests that the image is part of a product listing or search results for women's flip flops.",
+    "timestamp": "2025-05-11T15:37:08.387471"
+  },
+  {
+    "image": "data/legit/0038.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the website of Sony Electronics. The website is divided into multiple sections, each showcasing different electronic products such as cameras and other devices. There are several images of these items displayed on the page, providing detailed information about their features and specifications. The layout appears to be well-organized, making it easy for users to browse through the available options and make a purchase decision based on their preferences.\n\nThe website also includes a search bar that allows users to enter specific product names or descriptions to find relevant items more efficiently. Additionally, there are several buttons throughout the page, possibly for navigation, adding to the user-friendly experience of browsing and purchasing electronic products from Sony Electronics.",
+    "timestamp": "2025-05-11T15:37:15.462556"
+  },
+  {
+    "image": "data/legit/0039.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the Facebook page of a social club. The page is divided into two sections, with one section containing a photo and the other showing a map. There are also several posts on the page, including a post about a hot air balloon event that took place in May. The layout of the page features multiple tabs for easy navigation and viewing of different content types.",
+    "timestamp": "2025-05-11T15:37:21.522935"
+  },
+  {
+    "image": "data/legit/0040.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the website \"wiwi.org\". The main focus of the screen is an article titled \"From Today's Featured Person to France in January 1883, 1883 was France.\" This article provides information about a man named Francis Pius XII and his involvement with the Catholic Church during World War II.\n\nThe website also features other articles on various topics such as \"France\", \"Lagarde\", and \"Scheduled\". The layout of the website is organized into different sections, making it easy for users to navigate through the content.",
+    "timestamp": "2025-05-11T15:37:28.251723"
+  },
+  {
+    "image": "data/legit/0041.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an open web browser window. The browser window is filled with various tabs and windows, indicating that the user might be multitasking or browsing multiple websites simultaneously. The screen also contains several icons, which could represent different applications or services available on the internet.",
+    "timestamp": "2025-05-11T15:37:34.533747"
+  },
+  {
+    "image": "data/legit/0042.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an open web browser window. The browser window is divided into two sections, with the left section containing a list of items and the right side showing a screenshot or image. There are several objects on display in both sections, including a cell phone, a remote control, and other electronic devices. Additionally, there is text visible on the screen that reads \"www.sms-express.com\".",
+    "timestamp": "2025-05-11T15:37:41.344701"
+  },
+  {
+    "image": "data/scam/0000.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a webpage that displays the results of a Google search for \"You've Made The 5 Billion Search\". There are three gift boxes on the screen, each with different colors and sizes. The first box is red and small, the second one is yellow and large, and the third one is green and medium-sized. These gift boxes represent the prizes won by the person who conducted the search. The webpage also includes a list of people who contributed to the search results, along with their names and descriptions.\n\nThe website has a clean design with white background and black text elements. There are several social media buttons on the left side of the page, which can be used for sharing the search results or engaging in discussions about the topic. The overall layout is simple yet effective, making it easy to navigate and understand the content displayed.",
+    "timestamp": "2025-05-11T15:37:49.679241"
+  },
+  {
+    "image": "data/scam/0001.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a screenshot of an email from Netflix, which is addressed to the recipient. The email contains information about a payment update and provides instructions on how to proceed with the payment. It also includes a request for the recipient's permission before proceeding with the payment.",
+    "timestamp": "2025-05-11T15:37:56.195718"
+  },
+  {
+    "image": "data/scam/0002.png",
+    "extracted_text": null,
+    "response": "\nThe email is addressed to a person named \"Bob\" and it contains information about how to set up an account on the PayPal website. The message explains that Bob needs to create an account, provide his personal details, and confirm the setup by clicking on the provided button.",
+    "timestamp": "2025-05-11T15:38:03.035131"
+  },
+  {
+    "image": "data/scam/0003.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email from Facebook. The email is titled \" facebook fortune\" and contains instructions on how to make money using the platform. It suggests that users can earn $2,749 per day by creating content for their friends' pages or by promoting other people's posts. The email also provides tips on setting up a Facebook page and generating income from it.",
+    "timestamp": "2025-05-11T15:38:09.825659"
+  },
+  {
+    "image": "data/scam/0004.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a letter addressed to the HM Revenue & Customs, dated March 20, 2021. The letter is written in black ink and includes details about a claim for tax return. It also mentions that the HMRC has sent an email regarding this matter.",
+    "timestamp": "2025-05-11T15:38:16.130511"
+  },
+  {
+    "image": "data/scam/0005.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email from a virus protection service provider. The email is titled \"Your Computer May Have A Virus!\" and provides information about the risks of viruses, such as potential damage to networks or data exposure. It also offers advice on how to deal with viruses and warns that there are services available for free. The email appears to be in red and white colors, which may indicate a warning or an urgent message.\n\nThe computer screen is located at the top left corner of the image, while the email is situated towards the center right area.",
+    "timestamp": "2025-05-11T15:38:23.690809"
+  },
+  {
+    "image": "data/scam/0006.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the Open Source Wallet page of Bitcoin Cash. The wallet is designed to hold Bitcoins and offers various features, such as sending and receiving transactions, managing balances, and accessing transaction history. It also provides information about the Bitcoin Seed feature for creating new Bitcoins from Bitcoin Seed. The website has a clean and organized layout with clear navigation bars and buttons that guide users through the process of using Bitcoin Cash.\n\nThe screen is divided into two sections: one on the left side displays the header, while the right side features the main content area. There are several buttons in this area, including a \"Sending\" button for initiating transactions, a \"Receiving\" button to receive Bitcoins, and a \"Managing Balance\" button to check balances. The website also provides information about Bitcoin Seed, which is essential for creating new Bitcoins.",
+    "timestamp": "2025-05-11T15:38:32.622407"
+  },
+  {
+    "image": "data/scam/0007.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a warning sign on the side of a computer screen. The message warns that there may be viruses or malicious software affecting the computer, and it suggests that users should remove these threats to ensure their safety. Additionally, the website provides contact information for further assistance in case of any issues related to the computer's security.",
+    "timestamp": "2025-05-11T15:38:39.755700"
+  },
+  {
+    "image": "data/scam/0008.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message on the Windows Defender alert page. The message is in blue and white, indicating that there might be a virus detected in the user's computer. It also suggests that the user should contact Microsoft Technical Support for assistance with resolving the issue.",
+    "timestamp": "2025-05-11T15:38:46.338286"
+  },
+  {
+    "image": "data/scam/0009.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a Google email account with an attachment. The attachment is a screenshot of the Gmail message, which appears to be in red and white colors. The message contains instructions for changing a password on the user's Google account.",
+    "timestamp": "2025-05-11T15:38:52.579095"
+  },
+  {
+    "image": "data/scam/0010.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email from PayPal. The email is addressed to the recipient, and it contains instructions for how to respond to the issue. It also includes a request for assistance in resolving the problem with their account.",
+    "timestamp": "2025-05-11T15:38:58.790093"
+  },
+  {
+    "image": "data/scam/0011.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email from Netflix. The email is addressed to the customer, stating that they have encountered some trouble with their current bill and are updating their account information. It also provides instructions for how to proceed, including visiting the Netflix Help Center for more information or contacting them directly at the provided contact details.",
+    "timestamp": "2025-05-11T15:39:05.370030"
+  },
+  {
+    "image": "data/scam/0012.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email from the DBS Bank. The email is addressed to \"Dear Customers\", and it contains important information about credit card updates for customers in Singapore. It explains that there has been a failure in reaching maximum number of login attempts, which may have led to the account being locked.\n\nThe email also provides instructions on how to resolve this issue by logging back into the account using the provided link or instructions. The message emphasizes the importance of following these steps and highlights the need for immediate attention to this matter.",
+    "timestamp": "2025-05-11T15:39:12.780331"
+  },
+  {
+    "image": "data/scam/0013.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email invitation for an Amazon gift card. The email contains instructions on how to enter the contest and claim the prize, which includes details about the contest rules and requirements. There is also information about the contest's duration and how to proceed with the entry process.",
+    "timestamp": "2025-05-11T15:39:19.094625"
+  },
+  {
+    "image": "data/scam/0014.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an Amazon shopping account page. The page is filled with various buttons and icons, including a \"Welcome to your Amazon Shopping Account\" button at the top left corner, a \"My Account\" button in the middle of the page, and a \"Customer Service\" button on the right side.\n\nThere are also several payment options available for the user, such as credit card payments and gift cards. The screen displays instructions on how to use these payment methods, including keeping track of their address book and setting up an Amazon shipping account.",
+    "timestamp": "2025-05-11T15:39:26.504029"
+  },
+  {
+    "image": "data/scam/0015.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email from a business consultant. The email is open in a Microsoft Outlook message window, and it appears to be a professional communication between the consultant and their client. The email contains several attachments, including a Word document that has been edited by the consultant.",
+    "timestamp": "2025-05-11T15:39:32.942389"
+  },
+  {
+    "image": "data/scam/0016.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email from someone named \"Bob\". The email contains a message that reads, \"We've notified you that your account has been compromised. Please click the link below to change your password.\" The email also includes instructions on how to change the password and warns the recipient about potential security risks.\n \nThe email is addressed to Bob's email address, which can be found in the top left corner of the screen. It appears that the message has been sent from a suspicious source or account, as indicated by the warning text \"You have been notified that your account has been compromised.\"",
+    "timestamp": "2025-05-11T15:39:40.590945"
+  },
+  {
+    "image": "data/scam/0017.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with an error message displayed on it. The text of the error message is in a blue color, and it appears to be in a block format. The error message includes details about how many times the error has occurred, as well as the type of error that was encountered. There are also instructions for resolving the issue, which include closing the critical windows error window and running a verification tool or performing a system restore.",
+    "timestamp": "2025-05-11T15:39:47.474698"
+  },
+  {
+    "image": "data/scam/0018.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message from Microsoft Windows. The message is in blue and white, with the words \"Windows protected your PC\" written on it. It appears that there might be an issue with the operating system or some other problem related to the Windows program.",
+    "timestamp": "2025-05-11T15:39:53.766699"
+  },
+  {
+    "image": "data/scam/0019.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a Microsoft warning system page on the company's website. The page displays an error message, stating that Microsoft has been infected with malicious software and warns users to be cautious about potential security risks. The warning system is designed to notify users of any suspicious activity or threats detected in their systems.",
+    "timestamp": "2025-05-11T15:40:00.156697"
+  },
+  {
+    "image": "data/scam/0020.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message from Microsoft. The message is in red and white colors, indicating that there might be an issue with the software or hardware on the user's computer. The text on the screen provides information about the problem, such as the type of error (likely a system error) and the reason for the error.\n\nThe image also contains some text related to Microsoft warnings, which may provide further context or instructions regarding the issue. Overall, the scene suggests that the user might need to troubleshoot the problem or seek assistance from Microsoft's technical support team to resolve the issue with their computer.",
+    "timestamp": "2025-05-11T15:40:08.561458"
+  },
+  {
+    "image": "data/scam/0021.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with several windows open, including one that displays the Microsoft Security Alert page. The alert is about Trojan viruses and warns users to be cautious of potential threats. The message also provides instructions on how to deal with such issues, suggesting that the user should run an antivirus scan or seek further assistance from technical support if needed.\n\nThe computer screen shows a desktop background with various icons representing different applications or services running in the background. There is also a keyboard visible near the bottom of the image.",
+    "timestamp": "2025-05-11T15:40:16.180389"
+  },
+  {
+    "image": "data/scam/0022.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message from Microsoft Security Taffee. The message is in a block font and appears to be in a different language, indicating that the user might not understand it or has encountered an issue with their system. The screen also displays a pop-up window for Microsoft Office 365, suggesting that the problem could be related to this software or application.",
+    "timestamp": "2025-05-11T15:40:23.217851"
+  },
+  {
+    "image": "data/scam/0023.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the website of CJ.com, which is an online news and information source. The webpage has a dark gray background with white text that includes various articles about different topics such as finance, business, and personal stories. There are also images on the page to provide visual context for the content being discussed. The layout appears to be well-organized, making it easy for users to navigate through the different sections of the website.\n\nThe webpage is open in a web browser window, allowing users to view the articles and images displayed on the screen. This online news source provides valuable information and insights into various subjects that can help people stay informed about current events and trends around the world.",
+    "timestamp": "2025-05-11T15:40:31.384622"
+  },
+  {
+    "image": "data/scam/0024.png",
+    "extracted_text": null,
+    "response": "\nThe email is addressed to a customer named \"Member FCA 2014 TrustedBank\" and it contains information about a suspicious activity on their account. The bank has noticed unauthorized transactions, and they are asking the customer to verify this information by visiting their website via the provided link.",
+    "timestamp": "2025-05-11T15:40:38.111222"
+  },
+  {
+    "image": "data/scam/0025.png",
+    "extracted_text": null,
+    "response": "",
+    "timestamp": "2025-05-11T15:40:43.466952"
+  },
+  {
+    "image": "data/scam/0026.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a document that appears to be an email or letter, possibly from Google. The content of the message is not clearly visible in the image but it seems to be related to Google's Visa Mastercard Card (GVC) award. The document contains information about the award and mentions that it was sent by Google.",
+    "timestamp": "2025-05-11T15:40:49.851586"
+  },
+  {
+    "image": "data/scam/0027.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message and instructions for installing Chrome. The message indicates that the browser is not installed correctly, possibly due to a missing or incorrect installation file. The instructions suggest reinstalling the browser with the correct file.",
+    "timestamp": "2025-05-11T15:40:55.981004"
+  },
+  {
+    "image": "data/scam/0028.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a letter written by someone to their friend, discussing the recent presidential election. The letter is addressed to \"Friend\" and includes information about Trump's presidency and how it has affected them. It also mentions that they have some exciting news to share with their friend regarding Trump's policies or actions during his time in office.",
+    "timestamp": "2025-05-11T15:41:02.683612"
+  },
+  {
+    "image": "data/scam/0029.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a webpage that is predominantly in shades of gray and white. The main focus of the page is an email address, which reads \"donald trump@whitehouse.gov\". This email appears to be sent from a political campaign or organization related to Donald Trump's presidential campaign.",
+    "timestamp": "2025-05-11T15:41:10.175492"
+  },
+  {
+    "image": "data/scam/0030.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a person's email address, which is \"votefortrumpor\u8005@official-politicalboys.com\". The email contains an invitation to vote for Trump or else, and it also mentions that the recipient should vote for Trump if they are registered as a member of the Official Political Boys.\n\nIn addition to the main email message, there's another email in the background with a different subject line. This person seems to be engaged in multiple emails related to the same topic.",
+    "timestamp": "2025-05-11T15:41:19.334085"
+  },
+  {
+    "image": "data/scam/0031.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a screenshot of the homepage of the U.S. Department of Justice website, which is displayed in a web browser window on a computer screen. The webpage contains two images - one of the U.S. President's seal and another of the Attorney General's seal. These seals are often used to represent the departments' logos or as a symbol for their authority. Additionally, there is text on the page that reads \"This Site Was Seized\" and \"The world has had enough of the Fake-News spread daily by president Donald Trump.\" This message suggests that the website was taken down due to fake news or inappropriate content related to the president's actions.\n\nIn the screenshot, a mouse can be seen on the right side of the image, indicating that someone is likely navigating through the webpage using their computer mouse.",
+    "timestamp": "2025-05-11T15:41:29.607260"
+  },
+  {
+    "image": "data/scam/0032.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an online store page for a t-shirt. The main focus of the image is a white t-shirt with an American flag design on it, which has been ordered by someone named \"K.S.\". The price of the shirt is $79.95, and there are two shipping options available: standard shipping at $59.95 or express shipping for $89.95. Additionally, there's a 20% off discount code displayed on the screen that can be used to further reduce the cost of the order.",
+    "timestamp": "2025-05-11T15:41:38.382677"
+  },
+  {
+    "image": "data/scam/0033.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an email from Amazon.com, which appears to be a message regarding a Suspended Account. The email contains information about the account and instructions for resolving the issue. It also mentions that the account has been suspended due to suspicious activity or unauthorized transactions.",
+    "timestamp": "2025-05-11T15:41:45.511525"
+  },
+  {
+    "image": "data/scam/0034.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying the website of an Annual Credit Report. The webpage is in a white color with red text, and it appears to be outdated or not currently available for viewing. There are several tabs open on the page, including a \"History\" tab that might contain information about past credit reports. Additionally, there's a \"Credit Reports\" tab where users can access their own credit report. The screen also displays an error message, which could indicate technical issues with accessing the website or outdated content.",
+    "timestamp": "2025-05-11T15:41:53.326862"
+  },
+  {
+    "image": "data/scam/0035.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message and a pop-up window. The error message indicates that there is a virus warning on the computer, which could potentially lead to problems with the system or loss of data if not addressed promptly. The pop-up window appears to be from a security software provider, offering assistance in resolving the issue by providing instructions for troubleshooting and suggesting actions to take.\n\nThe screen also contains several warnings about identity theft and potential threats, such as Trojan viruses that pose a risk to computer users' personal information. These warnings emphasize the importance of taking necessary precautions to protect one's digital security.",
+    "timestamp": "2025-05-11T15:42:02.666787"
+  },
+  {
+    "image": "data/scam/0036.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen with an error message displayed on it. The message indicates that the user's computer has been infected by a virus, and they need to run a scan to remove the virus from their system. The scan is currently in progress, as indicated by the \"Running\" status at the top of the screen.",
+    "timestamp": "2025-05-11T15:42:10.125094"
+  },
+  {
+    "image": "data/scam/0037.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message and a warning about potential security threats. The message indicates that there is spyware on the computer, which could potentially harm the user's privacy or compromise their data. The warning suggests that the user should be cautious while browsing the internet to avoid falling prey to such threats.\n\nThe screen also shows a pop-up window with an error message and a warning about a suspicious email attachment. This message warns users not to open attachments from unknown sources, as they could contain viruses or other malicious software. The computer screen displays various warnings and error messages related to internet security and online safety.",
+    "timestamp": "2025-05-11T15:42:18.121049"
+  },
+  {
+    "image": "data/scam/0038.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message in blue text. The message appears to be from Microsoft, and it is accompanied by a screenshot of the error page. The error message reads \"To STOP! You have triggered a system error.\" This indicates that there has been an issue with the software or hardware causing the error. It also suggests that the user should immediately rectify the problem to prevent any further complications.",
+    "timestamp": "2025-05-11T15:42:25.073920"
+  },
+  {
+    "image": "data/scam/0039.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a screenshot of an email from Norton, which appears to be in black and white. The email is addressed to a person named \"Luxury\", and it contains instructions on how to access a Norton account. The email also includes details about the services offered by Norton, such as shipping and handling options for online purchases.",
+    "timestamp": "2025-05-11T15:42:31.980455"
+  },
+  {
+    "image": "data/scam/0040.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a computer screen displaying an error message and a screenshot of the Microsoft Office Protection tool. The error message indicates that there is a Trojan virus detected on the computer, which could potentially harm the system or steal sensitive information. The screenshot shows the protection tool's interface with various options to scan for viruses and block malicious websites.\n\nThe user might need to run the protection tool to scan their computer for viruses and remove any malicious files found. Additionally, they should ensure that their antivirus software is up-to-date and functioning properly to prevent future infections.",
+    "timestamp": "2025-05-11T15:42:39.667425"
+  },
+  {
+    "image": "data/scam/0041.png",
+    "extracted_text": null,
+    "response": "\nThe image shows a desktop computer screen with various windows open, including one that displays a scenic view of mountains and water. The user's name is displayed in the top left corner of the screen, while the time shown is around 3:25 pm.",
+    "timestamp": "2025-05-11T15:42:46.972166"
+  }
+]

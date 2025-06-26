@@ -1,5 +1,5 @@
 # config.yaml
-active_profile: mistral_ocr
+active_profile: gemma_4b
 
 
 profiles:
@@ -64,7 +64,7 @@ profiles:
       params:
         stop: ["[INST]", "[/INST]"]
 
-  gemma_27b:
+  gemma_4b:
     image_processor: inherent
     llm:
       model_name: gemma3:4b
@@ -121,23 +121,6 @@ profiles:
         - IsEmail (input -- textual representation of an image): A tool which tells, whether a current open window is an email client 
         - Verify Scam Indicators (input -- textual representation of an image): A tool which verifies, whether the text contains one or more indicators of scam form the LIST OF POSSIBLE SCAM INDICATORS:
 
-
-        Use the following structured reasoning format:
-
-        Question: Does this screenshot indicate any scam or security threat?
-
-        Thought: [Reason about the image]
-
-        Action: Visual Analyzer
-
-        Action Input: Current screenshot
-
-        Observation: [What Visual Analyzer detects visually]
-
-        (Repeat Thought / Action / Observation up to 5 times if needed)
-
-        Thought: I now know the final answer.
-
         Scam Probability Scale:
         - 0 - No scam signs: Trusted, verified source; no signs of scam.
         - 1 - Uncertain: No immediate red flags, but not enough data to confirm safety.
@@ -145,17 +128,17 @@ profiles:
         - 3 - Moderate scam probability: Suggests possible scam/fraud. Review is needed. ANY popups about prizes, rewards, or milestones MUST be at least this level.
         - 4 - High scam probability: Strong indicators of malicious or scam-related activity.
         - 5 - Critical scam probability: Confirmed scam, malware, or phishing attempt. Urgent action required.
-        Respond using JSON.
 
-        Output Format:
+        Respond using JSON
+
+        Answer Format:
         {  
-          "reasoning": "<...>",
-          "scam_indicators": "[indicators]"
-          "scam_type": "<type of scam, if applicable>",
-          "Scam Probability": <integer from 0 to 5>
+        "reasoning": "<3-4 sentences of reasoning whether the given image contains scam indicators>",
+        "scam_indicators": "[indicators]"
+        "scam_type": "<type of scam, if applicable>",
+        "Scam Probability": <integer from 0 to 5>
         }  
-  
-      format: "json"
+      fromat: json
       params:
         stop: ["<end_of_turn>"]
         temperature: 1
@@ -414,7 +397,14 @@ profiles:
 
           Output Format:
           {  
-            "reasoning": "<...>",
+            "reasoning": "Use the following structured reasoning format:
+                          Question: Does this screenshot indicate any scam or security threat?
+                          Thought: [Reason about the image]
+                          Action: Visual Analyzer
+                          Action Input: Current screenshot
+                          Observation: [What Visual Analyzer detects visually]
+                          (Repeat Thought / Action / Observation up to 5 times if needed)
+                          Thought: I now know the final answer.",
             "scam_indicators": "[indicators]"
             "scam_type": "<type of scam, if applicable>",
             "Scam Probability": <integer from 0 to 5>
