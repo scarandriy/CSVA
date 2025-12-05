@@ -12,6 +12,8 @@ A sophisticated AI-powered system for detecting and analyzing potential scam con
 - Comprehensive logging and evaluation metrics
 - Support for both image and text-only content analysis
 
+FULL REPORT AVAILABLE IN REPORT.PDF
+
 ## Installation
 
 1. Clone the repository:
